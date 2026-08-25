@@ -1,0 +1,6 @@
+{
+  "name": "Residential BOQ Estimator & Cost Control System",
+  "description": "Full-fidelity interactive SaaS BOQ estimation, cost build-up, subcontractor comparison, and budget tracking system for residential construction projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
