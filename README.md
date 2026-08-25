@@ -10,7 +10,7 @@
 
 Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 
-> [🌐 Open in Browser](#)
+> [🌐 Open in Browser](https://hyvoid.github.io/Estimate-Residential-BOQ-Costs-and-Control-Project-Budgets-in-Excel/)
 >
 > [📥 Download Excel](#)
 
