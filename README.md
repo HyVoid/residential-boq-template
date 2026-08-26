@@ -19,7 +19,6 @@ Try the browser version for free. If you need the fully unlocked Excel version f
 
 Instead of simply listing features, here is how this spreadsheet resolves common bid management and job costing challenges:
 
-## How It Solves Your Estimating Pain Points
 
 | Common Pain Point | How This Workbook Solves It |
 | :--- | :--- |
