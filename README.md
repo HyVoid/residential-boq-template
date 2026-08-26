@@ -1,83 +1,99 @@
-# Estimate Residential BOQ Costs and Control Project Budgets in Excel
+# Residential Construction Estimating Excel Template: BOQ Cost Tracking & Project Budget Management Tool
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-informational.svg)](#)
 [![Tool Type](https://img.shields.io/badge/Tool%20Type-Decision%20Support-success.svg)](#)
 
-**Turn residential drawing takeoffs, unit rates, subcontractor quotes, and project costs into one controlled estimate — with a browser version for quick access and an Excel workbook for detailed execution.**
+<p><strong>Residential construction estimating</strong> made simple. Turn architectural drawing takeoffs, unit rates, subcontractor quotes, and raw project costs into one tightly controlled <strong>construction estimate</strong>. Whether you need a quick browser-based <strong>cost calculator</strong> or a downloadable <strong>Excel budget template for general contractors</strong>, this tool prevents cost overruns and standardizes your <strong>BOQ (Bill of Quantities)</strong> workflow.</p>
 
-**No signup. No installation. Free in your browser.**
+<p><strong>No signup. No installation. Free in your browser.</strong></p>
 
-Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
+Try the browser version for free. If you need the fully unlocked Excel version for permanent job costing, you can buy it with a 7-day money-back guarantee.
 
-> [🌐 Open in Browser](https://hyvoid.github.io/Estimate-Residential-BOQ-Costs-and-Control-Project-Budgets-in-Excel/)
+> [🌐 Launch Free Web-Based Construction Estimator](https://hyvoid.github.io/Estimate-Residential-BOQ-Costs-and-Control-Project-Budgets-in-Excel/)
 >
-> [📥 Download Excel](#)
+> [📥 Download Residential Estimating Excel Template](#)
 
 
-## What It Helps You Track
+## How It Solves Your Estimating Pain Points
 
-* **Adjusted construction quantities** after applying item-specific or default waste assumptions.
-* **Material, labour, and equipment/subcontract cost** for every BOQ line.
-* **Cost concentration by construction Division**, including each Division's share of total estimate and cost per sq ft.
-* **Internal estimate vs subcontractor quotes**, including the lowest available quote and variance from the internal baseline.
-* **Approved budget vs actual cost**, with immediate identification of Divisions that are already over budget.
-* **Total project estimate, contingency, unit cost, and Top 3 cost Divisions** for management review.
+Instead of simply listing features, here is how this spreadsheet resolves common bid management and job costing challenges:
 
-## Quick Start Workflow
+## How It Solves Your Estimating Pain Points
 
-1. **Set key parameters.**
-   Open `00_Parameters` and confirm the default waste rate, contingency rate, sales tax rate, currency symbol, and standard Division list. These are maintained once rather than repeated across formulas.
+| Common Pain Point | How This Workbook Solves It |
+| :--- | :--- |
+| **Inaccurate Material Orders** | Automatically applies default or custom waste assumptions to track **adjusted procurement quantities**. |
+| **Losing Money on Cost Blindness**| Calculates precise **material, labor, and equipment/subcontractor costs** for every BOQ line. |
+| **Trade-Level Cost Blind Spots** | Visualizes **cost concentration by Division**, showing each trade's share and cost per square foot. |
+| **Overpaying Subcontractors** | Compares **internal estimates vs. external bids**, instantly highlighting the lowest quote and variance. |
+| **Unnoticed Cost Overruns** | Maps **approved budgets against actual job costs** with automatic alerts for over-budget Divisions. |
+| **Messy Client Reporting** | Generates a clean dashboard detailing **total estimates, contingency, unit costs, and Top 3 cost drivers**. |
 
-2. **Set up the project.**
-   Enter the project name, address, estimate version, gross area, estimator, and estimate date in `01_Project_Setup`.
+## Construction Cost Scenarios: When to Use This Estimating Spreadsheet
 
-3. **Enter the BOQ and rates.**
-   Use `02_BOQ_Takeoff` as the working input sheet. Add Division, item description, drawing reference, location, base quantity, unit, applicable waste rate, material rate, labour rate, and equipment/subcontract rate. Calculated cost fields update automatically.
+This workflow captures high-frequency search scenarios for construction management:
 
-4. **Review and control.**
-   Check `03_Division_Summary`, optionally enter subcontractor quotes in `04_Subcontractor_Comparison`, and maintain approved budgets and actual costs in `05_Budget_Cost_Control`. Finish in `06_Dashboard` for the project-level view.
+* **Bidding on Custom Home Builds:** Quickly compile a comprehensive Bill of Quantities (BOQ) to submit competitive, mathematically sound bids to clients.
+* **Managing Subcontractor Bids and Variance:** Evaluate competing plumber, electrician, or framing quotes against your internal baseline to ensure you aren't paying a market premium.
+* **Tracking Cost Overruns on Home Remodeling:** Monitor actual expenses during a kitchen or full-house renovation, catching budget bleed before the project finishes.
+* **Standardizing Company Estimating Procedures:** Move your small construction team off fragmented, error-prone spreadsheets and onto a unified cost control framework.
 
-**Set the parameters. Enter the takeoff. Compare the market. Track the budget. Make the next cost decision from the same data.**
+## Who This Is For: Roles & Use Cases
 
-## Why I Built This
+This toolkit bridges the gap between basic spreadsheets and expensive enterprise construction software. It is heavily optimized for:
+
+* **General Contractors:** Need a *residential construction estimate template* to compile detailed, multi-trade bids quickly.
+* **Project Managers:** Looking for a *project budget tracking spreadsheet* to monitor actual expenditures against approved budgets on site.
+* **Residential Estimators:** Require a *BOQ calculation tool* that standardizes waste factors, labor rates, and sales tax across the board.
+* **Home Builders & Remodelers:** Searching for *home renovation costing software* to handle 1,500–2,200 sq ft projects without a massive software subscription.
+* **Subcontractors & Specialty Trades:** Needing a *job costing Excel sheet* to build up internal pricing before submitting competitive quotes.
+
+*(Note: It is **not** designed as an enterprise ERP, full construction management platform, or a replacement for dedicated project accounting systems like QuickBooks.)*
+
+## Quick Start Tutorial: Your Estimating Workflow
+
+Follow these steps to build your first estimate. **Action required:** Test the calculation logic in the browser first.
+
+1. **Configure Project Parameters (Global Assumptions).**
+   Open `00_Parameters`. Define your default waste rate, contingency allowance, sales tax rate, currency, and standard CSI Division list. *Pro tip: Setting these globally prevents manual data entry errors later.*
+
+2. **Initialize Your Construction Project.**
+   Navigate to `01_Project_Setup`. Input the project identity, address, estimate version, and gross floor area. This establishes the baseline for your cost-per-square-foot metrics.
+
+3. **Perform the BOQ Takeoff (Core Cost Build-up).**
+   Use `02_BOQ_Takeoff` as your primary workspace. Add item descriptions, drawing references, base quantities, and unit metrics. Input your material, labor, and equipment rates. *The system automatically applies waste assumptions and calculates total line-item costs.*
+
+4. **Audit Subcontractor Bids & Track Budget Variance.**
+   Review `03_Division_Summary` for your cost breakdown. Enter external vendor pricing in `04_Subcontractor_Comparison` to benchmark the market. Finally, log actual expenses in `05_Budget_Cost_Control` to trigger automatic overrun alerts.
+
+5. **Review the Executive Dashboard & Export.**
+   Open `06_Dashboard` to review your KPIs, Top 3 cost drivers, and final project margins. 
+   
+   ➔ **Next Step:** After evaluating this workflow in the browser, **[Download the reusable Excel estimating template](#)**. Save it as your master file to standardize every future project bid and cost control cycle.
+
+## Why I Built This Cost Control Tool
 
 Residential estimating often breaks down before the arithmetic does.
 
-A quantity may come from a drawing, a rate may come from a supplier or historical estimate, and a subcontractor quote may arrive later in a completely different format. When those numbers are reviewed in separate spreadsheets, the practical question becomes difficult to answer:
+A quantity may come from an architectural drawing, a unit rate from a supplier, and a subcontractor bid may arrive days later in a completely different format. When those numbers are reviewed in separate spreadsheets, answering a critical question becomes nearly impossible:
 
 **What is the current cost basis for this project, and where is the next material cost risk?**
 
-The failure is usually structural. A takeoff can be correct while the estimate is still misleading because waste, sales tax, labour, subcontract cost, contingency, or project area has not been applied consistently.
+The failure is usually structural. A takeoff can be mathematically correct, yet the final estimate remains misleading because waste factors, material sales tax, labor burdens, or project contingency have not been applied consistently. 
 
-This workbook treats the BOQ as the central cost source.
+This workbook treats the **Bill of Quantities (BOQ)** as the central cost source. For example, your internal estimate may show a Division at `$42,000`, while the lowest subcontractor quote is `$48,500`. The comparison layer makes the `$6,500` variance visible against the exact same internal baseline, clarifying whether the market is expensive or your original takeoff was incomplete.
 
-For example, an internal estimate may show a Division at `$42,000`, while the lowest subcontractor quote comes in at `$48,500`. Looking only at the quote does not show whether the market is expensive or whether the original estimate was incomplete. The comparison layer makes the `$6,500` variance and percentage difference visible against the same internal baseline.
+## Overcoming Common Estimating Problems 
 
-The same principle applies after award. If an approved budget is `$35,000` and actual cost reaches `$37,800`, the system identifies the Division as **OVER BUDGET** rather than leaving the variance buried in transaction-level records.
-
-The goal is not to build another generic dashboard. It is to turn recurring estimating and cost-control reasoning into a reusable workbook.
-
-## Common Residential Estimating Problems This Solves
-
-| Problem                                        | Without This Tool                                                                                     | With This Tool                                                                                                 |
-| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Waste assumptions are inconsistent             | Different BOQ lines may use different implicit assumptions, making procurement quantities unreliable. | Item-specific waste rates override the default, while blank values inherit the centralized default rate.       |
-| Material tax is missed                         | Material rates may be treated as final costs even when sales tax is applicable.                       | Material cost automatically incorporates the centralized sales tax parameter.                                  |
-| Cost is fragmented across trades               | Management sees individual estimates but lacks a consistent Division-level cost structure.            | Sixteen standard residential Divisions provide a common aggregation layer.                                     |
-| Subcontractor quotes are hard to benchmark     | A quote is accepted or rejected without a clear comparison to the internal estimate.                  | Lowest quote, vendor, dollar variance, and percentage variance are calculated together.                        |
-| Budget overruns are discovered late            | Actual costs remain separate from the original estimate and approved budget.                          | Estimated, approved budget, and actual cost are visible by Division, with an automatic status flag.            |
-| Management reviews totals without cost context | A single project total does not show which construction areas drive the number.                       | Dashboard KPIs expose total estimate, contingency, cost per sq ft, major cost components, and Top 3 Divisions. |
-
-## Who This Is For
-
-This toolkit is designed for **residential estimators, builders, general contractors, project managers, cost controllers, and small construction teams** working on approximately **1,500–2,200 sq ft residential projects** that need a practical estimate-to-cost-control workflow without deploying a full enterprise construction platform.
-
-It is particularly suited to teams that already work in Excel and need a reusable structure for takeoff, cost build-up, subcontractor comparison, and budget monitoring.
-
-It is **not designed as an enterprise ERP, full construction management platform, or replacement for project accounting systems**.
-
-No spreadsheet expertise is required to use the browser version. For detailed estimating work, the Excel version requires Microsoft 365 or Excel 2021+ because the workbook relies on modern dynamic-array functions.
+| Common Estimating Pain Point | Traditional Spreadsheet Workflow | Optimized Estimating Template Solution |
+| :--- | :--- | :--- |
+| **Inconsistent Waste Assumptions** | Different BOQ lines use hidden, implicit calculations, making procurement material orders unreliable. | Item-specific waste rates override the default, while blank values instantly inherit a centralized default waste parameter. |
+| **Missed Material Sales Tax** | Material rates are mistakenly treated as final costs, ignoring local tax liabilities. | Material cost formulas automatically multiply and incorporate the centralized sales tax parameter. |
+| **Fragmented Trade Costs** | Management reviews individual trade bids but lacks a unified, Division-level cost hierarchy. | Sixteen standard residential construction Divisions provide an automated, common aggregation layer. |
+| **Difficult Subcontractor Benchmarking** | Bids are accepted or rejected blindly without a one-to-one comparison against the internal estimate. | The lowest quote, winning vendor, dollar variance, and percentage variance are calculated automatically side-by-side. |
+| **Late Discovery of Budget Overruns** | Actual job costs live in accounting software, entirely disconnected from the original estimator's budget. | Estimated baselines, approved budgets, and actual costs are aligned by Division, featuring an automatic `OVER BUDGET` status flag. |
+| **Lack of Management Cost Context** | A single "Total Cost" number fails to reveal which specific construction phases are driving up the price. | Dashboard KPIs instantly expose the total estimate, contingency margin, cost per sq ft, major components, and Top 3 Divisions. |
 
 ## About
 
