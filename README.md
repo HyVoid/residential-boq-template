@@ -10,7 +10,7 @@
 
 Try the browser version for free. If you need the fully unlocked Excel version for permanent job costing, you can buy it with a 7-day money-back guarantee.
 
-> [🌐 Launch Free Web-Based Construction Estimator](https://hyvoid.github.io/Estimate-Residential-BOQ-Costs-and-Control-Project-Budgets-in-Excel/)
+> [🌐 Launch Free Web-Based Construction Estimator](https://hyvoid.github.io/residential-boq-template/)
 >
 > [📥 Download Residential Estimating Excel Template](https://alexhasgreatestuff.gumroad.com/l/rxxzven?wanted=true)
 
