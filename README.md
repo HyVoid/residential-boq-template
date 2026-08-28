@@ -1,3 +1,5 @@
+[ 🌐 عربي ](README.ar.md) | [ 🇬🇧 English ](README.md)
+
 # Residential Construction Estimating Excel Template: BOQ Cost Tracking & Project Budget Management Tool
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
@@ -13,24 +15,6 @@ Try the browser version for free. If you need the fully unlocked Excel version f
 > [🌐 Launch Free Web-Based Construction Estimator](https://hyvoid.github.io/residential-boq-template/)
 >
 > [📥 Download Residential Estimating Excel Template](https://alexhasgreatestuff.gumroad.com/l/rxxzven?wanted=true)
-<!-- Google SEO (Arabic / MENA Region) -->
-<div dir="rtl" align="right">
-
-## 🌍 لعملائنا في الشرق الأوسط وشمال أفريقيا (MENA) - تقدير تكاليف البناء وجدول الكميات (BOQ)
-
-تعتبر هذه الأداة الحل الأمثل للمقاولين ومديري المشاريع السكنية لضبط إدارة ميزانية المشروع وتتبع التكاليف بدقة. سواء كنت تبحث عن **حاسبة تكاليف البناء** عبر المتصفح أو **نموذج إكسيل لتقدير تكاليف المقاولات (BOQ)**، فإن هذا القالب يمنع تجاوز التكاليف ويوحد مسار عملك.
-
-**الكلمات المفتاحية والبحثية (SEO Keywords):**
-* نموذج إكسيل لجدول الكميات (BOQ Excel Template)
-* حساب وتقدير تكاليف البناء السكنية (Residential Construction Cost Estimation)
-* إدارة ميزانية المشاريع الإنشائية (Construction Project Budget Management)
-* مقارنة عروض أسعار المقاولين من الباطن (Subcontractor Bid Comparison)
-* حاسبة تكاليف البناء وإدارة النفقات (Construction Cost Calculator & Expense Management)
-
-🔗 [ابدأ باستخدام حاسبة تكاليف البناء عبر الإنترنت (مجانًا وبدون تسجيل)](https://hyvoid.github.io/residential-boq-template/)  
-🔗 [تحميل نموذج إكسيل الشامل لتقدير تكاليف البناء (النسخة الكاملة)](https://alexhasgreatestuff.gumroad.com/l/rxxzven?wanted=true)
-
-</div>
 
 ## How It Solves Your Estimating Pain Points
 
