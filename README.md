@@ -10,7 +10,7 @@
 
 <p><strong>No signup. No installation. Free in your browser.</strong></p>
 
-Try the browser version for free. If you need the fully unlocked Excel version for permanent job costing, you can buy it with a 7-day money-back guarantee.
+Try the browser version for free. If you need the fully unlocked Excel version for permanent job costing, you can buy it with a 30-day, no-questions-asked money-back guarantee.
 
 > [🌐 Launch Free Web-Based Construction Estimator](https://hyvoid.github.io/residential-boq-template/)
 >
