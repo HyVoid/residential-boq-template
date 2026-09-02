@@ -14,7 +14,7 @@ Try the browser version for free. If you need the fully unlocked Excel version f
 
 > [🌐 Launch Free Web-Based Construction Estimator](https://hyvoid.github.io/residential-boq-template/)
 >
-> [📥 Download Residential Estimating Excel Template](https://alexhasgreatestuff.gumroad.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)
+> [📥 Download Residential Estimating Excel Template](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)
 
 ## How It Solves Your Estimating Pain Points
 
@@ -70,7 +70,7 @@ Follow these steps to build your first estimate. **Action required:** Test the c
 5. **Review the Executive Dashboard & Export.**
    Open `06_Dashboard` to review your KPIs, Top 3 cost drivers, and final project margins. 
    
-   ➔ **Next Step:** After evaluating this workflow in the browser, **[Download the reusable Excel estimating template](https://alexhasgreatestuff.gumroad.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)**. Save it as your master file to standardize every future project bid and cost control cycle.
+   ➔ **Next Step:** After evaluating this workflow in the browser, **[Download the reusable Excel estimating template](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)**. Save it as your master file to standardize every future project bid and cost control cycle.
 
 ## Why I Built This Cost Control Tool
 
