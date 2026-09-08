@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Residential Construction Estimating Excel Template: BOQ Cost Tracking & Project Budget Management Tool
 
