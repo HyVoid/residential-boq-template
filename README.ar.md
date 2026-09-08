@@ -12,11 +12,19 @@
 
 <p><strong>بدون تسجيل. بدون تثبيت. مجاناً في متصفحك.</strong></p>
 
-جرب نسخة المتصفح مجاناً. إذا كنت بحاجة إلى نسخة إكسيل المفتوحة بالكامل لتسعير الوظائف الدائم، يمكنك شرائها مع ضمان استرداد الأموال لمدة 7 أيام.
+جرب نسخة المتصفح مجاناً. إذا كنت بحاجة إلى نسخة إكسيل المفتوحة بالكامل لتسعير الوظائف الدائم، يمكنك شرائها مع ضمان استرداد الأموال لمدة 30 يومًا دون طرح أي أسئلة.
 
 > [🌐 تشغيل حاسبة البناء المجانية عبر الويب](https://hyvoid.github.io/residential-boq-template/)
 >
-> [📥 تنزيل نموذج إكسيل لتقدير تكاليف البناء السكنية](https://alexhasgreatestuff.gumroad.com/l/rxxzven?wanted=true)
+> [📥 تنزيل نموذج إكسيل لتقدير تكاليف البناء السكنية](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)
+
+## هل تريد التجربة؟
+
+هذا المشروع مضمّن في حزمة Construction Toolkit.
+
+جرّب هذه الأداة وأدوات البناء الخفيفة الأخرى مجانًا لمدة 30 يومًا — بما في ذلك أدوات التقدير وعروض الأسعار وتكاليف الأعمال والعمليات اليومية.
+
+→ [جرّب Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
 
 ## كيف تحل هذه الأداة مشاكل تقدير التكاليف لديك
 
@@ -71,7 +79,7 @@
 5. **مراجعة لوحة المعلومات التنفيذية والتصدير.**
    افتح `06_Dashboard` لمراجعة مؤشرات الأداء الرئيسية (KPIs)، وأكبر 3 محركات للتكلفة، وهوامش المشروع النهائية. 
    
-   ➔ **الخطوة التالية:** بعد تقييم مسار العمل هذا في المتصفح، **[قم بتنزيل نموذج التقدير بصيغة إكسيل القابل لإعادة الاستخدام](https://alexhasgreatestuff.gumroad.com/l/rxxzven?wanted=true)**. احفظه كملفك الأساسي لتوحيد كل دورات التحكم في التكاليف وتقديم العطاءات للمشاريع المستقبلية.
+   ➔ **الخطوة التالية:** بعد تقييم مسار العمل هذا في المتصفح، **[قم بتنزيل نموذج التقدير بصيغة إكسيل القابل لإعادة الاستخدام](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)**. احفظه كملفك الأساسي لتوحيد كل دورات التحكم في التكاليف وتقديم العطاءات للمشاريع المستقبلية.
 
 ## لماذا قمت ببناء أداة التحكم في التكاليف هذه؟
 
@@ -580,4 +588,4 @@ Gross Area           → Project cost / sq ft
 
 تم إصدار هذا المشروع بموجب ترخيص **Apache License 2.0**.
 
-انظر ملف [`LICENSE`](https://www.google.com/search?q=LICENSE) للحصول على نص الترخيص الكامل.
+انظر ملف [`LICENSE`](LICENSE) للحصول على نص الترخيص الكامل.
