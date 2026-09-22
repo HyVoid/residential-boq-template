@@ -16,6 +16,12 @@ Try the browser version for free. If you need the fully unlocked Excel version f
 >
 > [📥 Download Residential Estimating Excel Template](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)
 
+<img width="1074" height="790" alt="image" src="https://github.com/user-attachments/assets/db79a7f5-99c9-4559-87f9-5ac23152df4a" />
+<img width="1047" height="790" alt="image" src="https://github.com/user-attachments/assets/bbbf18ff-9749-4d98-a021-5d347d8280c1" />
+
+https://github.com/user-attachments/assets/c6b44942-3fc7-40e2-925d-915dd2edb2a8
+
+
 ## Want to try it?
 
 This project is included in the Construction Toolkit.
