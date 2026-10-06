@@ -16,14 +16,6 @@ Probeer de browserversie gratis. Als u de volledig ontgrendelde Excel-versie nod
 >
 > [📥 Download Residential Estimating Excel Template](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)
 
-## Want to try it?
-
-Dit project maakt deel uit van de Construction Toolkit.
-
-Probeer deze en andere lichtgewicht bouwtools 30 dagen gratis — inclusief tools voor calculeren, inschrijven, jobkostenberekening en dagelijkse operaties.
-
-→ [Try the Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
-
 ## How It Solves Your Estimating Pain Points
 
 In plaats van simpelweg functies op te sommen, ziet u hier hoe deze spreadsheet gangbare uitdagingen op het gebied van inschrijvingsbeheer en jobkostenberekening oplost:
