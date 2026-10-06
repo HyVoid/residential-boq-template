@@ -16,14 +16,6 @@ Pruebe la versión en navegador gratis. Si necesita la versión de Excel complet
 >
 > [📥 Descargar la plantilla de Excel para estimación residencial](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)
 
-## ¿Quieres probarlo?
-
-Este proyecto está incluido en el Construction Toolkit.
-
-Prueba esta y otras herramientas ligeras de construcción gratis durante 30 días — incluyendo herramientas para estimación, licitaciones, costos de obra y operaciones diarias.
-
-→ [Prueba el Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
-
 ## Cómo resuelve sus puntos críticos de estimación
 
 En lugar de limitarse a enumerar funciones, así es como esta hoja de cálculo resuelve los desafíos comunes de gestión de ofertas y costeo de obras:
