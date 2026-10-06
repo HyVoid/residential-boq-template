@@ -16,14 +16,6 @@
 >
 > [📥 تنزيل نموذج إكسيل لتقدير تكاليف البناء السكني](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)
 
-## هل ترغب في تجربته؟
-
-هذا المشروع مُدرَج ضمن حزمة Construction Toolkit.
-
-جرّب هذه الأداة وغيرها من أدوات البناء خفيفة الوزن مجاناً لمدة 30 يوماً — بما في ذلك أدوات التقدير وتقديم العطاءات وتسعير الأعمال والعمليات اليومية.
-
-→ [جرّب حزمة Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
-
 ## كيف تعالج نقاط الألم في عملية التقدير لديك
 
 بدلاً من مجرد سرد الميزات، إليك كيف يعالج هذا الجدول تحديات إدارة العطاءات وتسعير الأعمال الشائعة:
