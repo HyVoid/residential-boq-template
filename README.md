@@ -21,15 +21,6 @@ Try the browser version for free. If you need the fully unlocked Excel version f
 
 https://github.com/user-attachments/assets/c6b44942-3fc7-40e2-925d-915dd2edb2a8
 
-
-## Want to try it?
-
-This project is included in the Construction Toolkit.
-
-Try this and other lightweight construction tools free for 30 days — including tools for estimating, bidding, job costing, and day-to-day operations.
-
-→ [Try the Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
-
 ## How It Solves Your Estimating Pain Points
 
 Instead of simply listing features, here is how this spreadsheet resolves common bid management and job costing challenges:
