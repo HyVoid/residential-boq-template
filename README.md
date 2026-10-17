@@ -1,6 +1,7 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Residential Construction Estimating Excel Template: BOQ Cost Tracking & Project Budget Management Tool
+<img width="1047" height="790" alt="image" src="https://github.com/user-attachments/assets/bbbf18ff-9749-4d98-a021-5d347d8280c1" />
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-informational.svg)](#)
@@ -16,9 +17,6 @@ Try the browser version for free. If you need the fully unlocked Excel version f
 >
 > [📥 Download Residential Estimating Excel Template](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)
 
-<img width="1047" height="790" alt="image" src="https://github.com/user-attachments/assets/bbbf18ff-9749-4d98-a021-5d347d8280c1" />
-
-https://github.com/user-attachments/assets/c6b44942-3fc7-40e2-925d-915dd2edb2a8
 
 ## How It Solves Your Estimating Pain Points
 
