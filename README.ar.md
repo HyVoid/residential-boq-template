@@ -1,6 +1,7 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # نموذج إكسيل لتقدير تكاليف البناء السكني: أداة تتبع تكاليف جدول الكميات (BOQ) وإدارة ميزانية المشروع
+<img width="1047" height="790" alt="image" src="https://github.com/user-attachments/assets/bbbf18ff-9749-4d98-a021-5d347d8280c1" />
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-informational.svg)](#)
