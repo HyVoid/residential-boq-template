@@ -145,8 +145,6 @@ This residential BOQ toolkit applies that principle to construction estimating a
 
 ## Technical Details & Workbook Architecture
 
-<details>
-<summary><strong>Click to expand: For technical reviewers, construction estimators, and Excel power users (Architecture, Dynamic Array Formulas & Validation Rules)</strong></summary>
 
 ### Workbook Architecture
 
