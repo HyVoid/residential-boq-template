@@ -173,25 +173,33 @@ export const Sidebar: React.FC<SidebarProps> = ({
         }}
       >
         {/* Brand Header */}
-        <div className="h-14 border-b border-[#E2E2E2] flex items-center justify-between px-4 flex-shrink-0 bg-white">
-          <div className="flex items-center gap-2.5 overflow-hidden">
+        <div className="h-16 border-b border-[#E2E2E2] flex items-center justify-between px-3 flex-shrink-0 bg-white">
+          <div className="flex items-center gap-2.5 overflow-hidden min-w-0">
             <div
-              className="w-8 h-8 rounded-lg flex items-center justify-center font-serif font-bold text-sm text-white flex-shrink-0 shadow-sm"
+              className="w-8 h-8 rounded-lg flex items-center justify-center font-mono font-bold text-xs text-white flex-shrink-0 shadow-xs"
               style={{ backgroundColor: 'var(--brand)' }}
+              title="Theseus Workshop · Estimate Residential BOQ Costs and Control Project Budgets in Excel"
             >
-              EST
+              TW
             </div>
             {!isCollapsed && (
-              <div className="flex flex-col min-w-0 pr-1">
+              <div className="flex flex-col min-w-0 pr-0.5">
+                <div className="flex items-center gap-1.5">
+                  <span
+                    className="font-mono font-bold text-[11px] text-[#051C2C] tracking-wider uppercase truncate leading-none"
+                    title="Theseus Workshop"
+                  >
+                    Theseus Workshop
+                  </span>
+                  <span className="text-[9px] font-mono px-1 py-0.2 rounded bg-slate-100 text-slate-600 font-semibold flex-shrink-0">
+                    EXCEL
+                  </span>
+                </div>
                 <span
-                  className="font-serif font-bold text-xs tracking-tight text-[#051C2C] leading-snug line-clamp-2"
-                  style={{ letterSpacing: '-0.01em' }}
+                  className="text-[10px] text-slate-600 leading-snug line-clamp-2 mt-0.5 font-medium"
                   title="Estimate Residential BOQ Costs and Control Project Budgets in Excel"
                 >
                   Estimate Residential BOQ Costs and Control Project Budgets in Excel
-                </span>
-                <span className="text-[10px] text-[#888888] font-mono mt-0.5 truncate">
-                  {projectName || 'Excel Cost Engine v2.0'}
                 </span>
               </div>
             )}
@@ -200,7 +208,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
           {/* Desktop Collapse Button */}
           <button
             onClick={onToggleCollapse}
-            className="hidden lg:flex items-center justify-center w-6 h-6 rounded hover:bg-slate-100 text-slate-500 hover:text-slate-800 transition-colors cursor-pointer"
+            className="hidden lg:flex items-center justify-center w-6 h-6 rounded hover:bg-slate-100 text-slate-500 hover:text-slate-800 transition-colors cursor-pointer flex-shrink-0 ml-1"
             title={isCollapsed ? 'Expand Sidebar' : 'Collapse Sidebar'}
           >
             {isCollapsed ? (

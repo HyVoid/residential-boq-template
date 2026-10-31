@@ -96,7 +96,7 @@ export const TopBar: React.FC<TopBarProps> = ({
       }}
     >
       <div className="h-14 px-4 sm:px-6 md:px-8 flex items-center justify-between gap-3">
-        {/* Left: Sidebar Toggle + Current Sheet Title */}
+        {/* Left: Sidebar Toggle + Brand Tag + Current Sheet Title */}
         <div className="flex items-center gap-3 min-w-0">
           {/* Mobile Menu Button */}
           <button
@@ -119,6 +119,27 @@ export const TopBar: React.FC<TopBarProps> = ({
               <PanelLeftClose className="w-4 h-4" />
             )}
           </button>
+
+          {/* Brand & Application indicator (displayed when sidebar collapsed or on mobile screens) */}
+          <div className={`${isSidebarCollapsed ? 'flex' : 'flex lg:hidden'} items-center gap-2 pr-3 mr-0.5 border-r border-slate-200 flex-shrink-0`}>
+            <div
+              className="w-7 h-7 rounded-md bg-[#051C2C] text-white flex items-center justify-center font-mono text-[10px] font-bold shadow-xs flex-shrink-0"
+              title="Theseus Workshop"
+            >
+              TW
+            </div>
+            <div className="flex flex-col">
+              <span className="font-mono font-bold text-[10px] uppercase tracking-wider text-slate-800 leading-tight">
+                Theseus Workshop
+              </span>
+              <span
+                className="text-[10px] text-slate-500 leading-tight truncate max-w-[170px] sm:max-w-[240px]"
+                title="Estimate Residential BOQ Costs and Control Project Budgets in Excel"
+              >
+                Estimate Residential BOQ Costs in Excel
+              </span>
+            </div>
+          </div>
 
           <div className="flex items-center gap-2.5 truncate">
             <span className="hidden sm:inline-block font-mono text-[10px] font-bold px-2 py-0.5 rounded bg-slate-100 text-slate-700 uppercase tracking-wider">

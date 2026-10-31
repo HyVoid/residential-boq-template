@@ -114,19 +114,32 @@ export const Navbar: React.FC<NavbarProps> = ({
         {/* Left: Brand & Status */}
         <div className="flex items-center gap-4 flex-shrink-0">
           <div className="flex items-center gap-2.5">
-            <span
-              className="font-serif font-bold text-sm sm:text-base tracking-tight max-w-[360px] truncate"
-              style={{
-                color: 'var(--brand)',
-                letterSpacing: '-0.01em',
-              }}
-              title="Estimate Residential BOQ Costs and Control Project Budgets in Excel"
+            <div
+              className="w-8 h-8 rounded-lg flex items-center justify-center font-mono font-bold text-xs text-white flex-shrink-0 shadow-xs"
+              style={{ backgroundColor: 'var(--brand)' }}
+              title="Theseus Workshop · Estimate Residential BOQ Costs and Control Project Budgets in Excel"
             >
-              Estimate Residential BOQ Costs and Control Project Budgets in Excel
-            </span>
-            <span className="hidden sm:inline-block text-[10px] font-mono font-semibold px-2 py-0.5 rounded bg-slate-100 text-slate-600">
-              Excel
-            </span>
+              TW
+            </div>
+            <div className="flex flex-col">
+              <div className="flex items-center gap-1.5">
+                <span className="font-mono font-bold text-[11px] text-[#051C2C] tracking-wider uppercase leading-none">
+                  Theseus Workshop
+                </span>
+                <span className="text-[9px] font-mono font-semibold px-1 py-0.2 rounded bg-slate-100 text-slate-600">
+                  EXCEL
+                </span>
+              </div>
+              <span
+                className="font-serif font-bold text-xs sm:text-sm tracking-tight max-w-[380px] truncate text-slate-800 mt-0.5"
+                style={{
+                  letterSpacing: '-0.01em',
+                }}
+                title="Estimate Residential BOQ Costs and Control Project Budgets in Excel"
+              >
+                Estimate Residential BOQ Costs and Control Project Budgets in Excel
+              </span>
+            </div>
           </div>
 
           <div className="hidden xl:flex items-center gap-1.5 text-xs text-[#888888] pl-3 border-l border-slate-200">
