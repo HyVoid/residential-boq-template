@@ -588,9 +588,13 @@ Gross Area           → Project cost / sq ft
 
 Explore related browser-based calculators and Excel financial workbooks for project operations and cost management:
 
-* **Project Operations & Job Costing Toolkit** — connects project cost estimates, field execution expenses, and net profitability review.
-* **Pricing & Break-Even Decision Calculator** — models unit pricing, gross margin, contribution margin, and break-even sales volume.
-* **Manufacturing Labor Cost & Capacity Planning Toolkit** — aligns production labor requirements against available shift capacity.
+* **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Does the shaft design satisfy the relevant calculation logic? — Apply DIN 743 shaft calculation standards to engineering design decisions.
+* **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — What will this construction scope cost under current assumptions? — Standardize construction tender estimating and transform completed estimates into reusable cost libraries.
+* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — How do estimates and tracked costs compare through delivery? — Compare construction estimates against actual costs throughout project delivery using AIA-standard formats.
+* **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Is the project financial position accurate after incorporating approved changes actual costs and billing progress? — Integrate budgets change orders progress billing and cash flow into a single construction project control framework.
+* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Which energy option delivers the lowest total cost of ownership for this specific project under its actual operating conditions? — Compare industrial energy sources on a true useful-energy basis by normalizing fuel costs equipment efficiency infrastructure investment and lifecycle ownership costs.
+* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — What will this drill-and-blast tunnel project cost under the assumed construction cycle? — Estimate drill-and-blast tunnel excavation, drilling, blasting, support, equipment, and labour requirements into a complete project cost and BOQ.
+* **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — What is the total material and reinforcement cost for the foundation substructure, and can I trace every commercial bid value back to the measured dimensions? — Calculate foundation concrete volumes, formwork areas, earthwork quantities, reinforcement tonnage via automated bar bending schedules, and commercial bill of quantities values from measured structural dimensions.
 
 ## License
 
