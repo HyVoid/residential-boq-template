@@ -34,6 +34,14 @@ Instead of leaving your project numbers scattered across lumberyard quotes, pape
 | **"How do I track construction spending before I run out of cash?"** *(Discovering cost overruns after the bank account is empty)* | **Real-Time Construction Budget vs. Actual Expense & Variance Tracker** | Compares live job site invoices against approved division budgets and triggers an instant `⚠️ OVER BUDGET` visual alert the second any trade exceeds its allowance. |
 | **"How do I present a professional construction budget to a bank or client?"** *(Messy proposals that get rejected by lenders)* | **Executive Construction KPI Dashboard, Contingency Reserve & Top 3 Cost Drivers** | Generates a clean, one-screen summary displaying **Base Hard Costs, Contingency Buffer (`%`), Grand Total Estimate, Overall `$/Sq Ft`, and Top 3 Cost-Driving Trades** for construction loans or client sign-off. |
 
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1tdW6S108rLNGHM1scdiwruNoZ08HrQ2U/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+
 ---
 
 ## Real-World Construction Estimating Scenarios: Who Searches for This Tool & When to Use It
