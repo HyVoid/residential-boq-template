@@ -612,7 +612,7 @@ Gross Area           → Project cost / sq ft
 - **الأسئلة ومساعدة الاستخدام:** [افتح نقاشًا](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions)
 - **الأفكار واقتراحات سير العمل:** [شارك فكرة](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas)
 - **تحديثات المنتج:** [تابع تحديثات المنتج](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates)
-- **الأخطاء التقنية:** استخدم نموذج المشكلة **الإبلاغ عن خطأ** في هذا المستودع. يرجى تضمين إصدار الدفتر/الأداة ومنطقة سير العمل ذات الصلة والنتيجة المتوقعة مقابل الفعلية والخطوات القابلة لإعادة الإنتاج.
+- **الأخطاء التقنية:** استخدم نموذج المشكلة [**الإبلاغ عن خطأ**](https://github.com/HyVoid/residential-boq-template/issues/new?template=bug-report.yml) في هذا المستودع. يرجى تضمين إصدار الدفتر/الأداة ومنطقة سير العمل ذات الصلة والنتيجة المتوقعة مقابل الفعلية والخطوات القابلة لإعادة الإنتاج.
 
 ### إشعار الخصوصية ومعالجة البيانات
 
