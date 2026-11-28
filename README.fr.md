@@ -1,180 +1,191 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Modèle Excel gratuit d'estimation de construction résidentielle : calculateur de coûts de construction de maison prêt à l'emploi, métré des matériaux (BOQ) et tableur de coût des travaux pour débutants
-<img width="1047" height="790" alt="image" src="https://github.com/user-attachments/assets/bbbf18ff-9749-4d98-a021-5d347d8280c1" />
+# Modèle Excel d'estimation des coûts de construction résidentielle & BOQ (Calculateur Web Gratuit) — Estimateur de coûts à 16 divisions CSI, métré des matériaux & chiffrage par poste
 
+<img width="1047" height="790" alt="Residential Construction Estimating & BOQ Excel Dashboard Preview" src="https://github.com/user-attachments/assets/bbbf18ff-9749-4d98-a021-5d347d8280c1" />
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Web%20Browser%20%2B%20Excel%20365-informational.svg)](#)
-[![Standard](https://img.shields.io/badge/Structure-16%20CSI%20Divisions-orange.svg)](#)
-[![Skill Level](https://img.shields.io/badge/Skill%20Level-Beginner%20Friendly%20%2F%20No%20Formulas%20Needed-success.svg)](#)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+![Excel Workbook: One-Time Purchase](https://img.shields.io/badge/Excel%20Workbook-One--Time%20Purchase-0F766E.svg)
+![Interactive Demo: Free Web Calculator](https://img.shields.io/badge/Web%20Calculator-Free%20in%20Browser-217346.svg)
+![Standard: 16 CSI Divisions](https://img.shields.io/badge/Structure-16%20CSI%20Divisions-orange.svg)
+![Guarantee: 30-Day Money-Back](https://img.shields.io/badge/Guarantee-30--Day%20Money--Back-D97706.svg)
 
-Ce **modèle Excel gratuit d'estimation de construction résidentielle** et ce **calculateur instantané de coûts de construction de maison dans le navigateur** forment un **tableur d'estimation des coûts de construction**, un **modèle de métré des matériaux (BOQ)** et un **outil de suivi budget de construction vs. dépenses réelles** prêts à l'emploi, conçus pour les **maîtres d'ouvrage qui construisent leur première maison, les petits entrepreneurs généraux, les rénovateurs de maisons et les investisseurs en revente rapide (house flipping)** n'ayant aucune base en Excel ni en comptabilité. Structuré autour des **16 divisions de construction CSI MasterFormat** du secteur, ce **tableur de coût des travaux et de comparaison des offres de sous-traitants** clé en main convertit automatiquement les mesures relevées sur les plans, les prix unitaires des matériaux, la taxe de vente locale, les coefficients de perte et les taux de main-d'œuvre en un **budget de construction au pied carré ($/sq ft)** précis — il vous suffit de copier-coller vos chiffres pour générer instantanément des estimations de projet présentables à une banque, sans écrire ni faire glisser une seule formule.
+**Arrêtez de perdre plus de 13 % de votre budget de construction à cause du gaspillage de matériaux oublié, de la taxe de vente cachée et des soumissions de sous-traitants évaluées à l'aveugle.** Ce classeur Excel plug-and-play d'**estimation des coûts de construction résidentielle, de métré des matériaux (BOQ) & de chiffrage par poste** est conçu pour les **petits entrepreneurs généraux, les entreprises de rénovation, les acheteurs-rénovateurs-revendeurs de maisons, les maîtres d'ouvrage constructeurs et les estimateurs juniors** qui veulent des budgets prêts pour la banque en **16 divisions CSI MasterFormat** et des estimations précises du **coût par pied carré ($/sq ft)** en quelques minutes—sans écrire ni étirer une seule formule Excel.
 
-Testez le moteur de calcul en direct dans votre navigateur, sans aucun frais, ou téléchargez le classeur Microsoft Excel déverrouillé pour standardiser durablement votre processus d'estimation, avec une garantie de remboursement de 30 jours.
-
-> 🌐 **[Lancer le calculateur de coûts de construction de maison gratuit dans le navigateur et l'aperçu interactif du métré BOQ (sans inscription ni téléchargement — outil instantané dans le navigateur)](https://hyvoid.github.io/residential-boq-template/)**
-> *Testez des métrés de quantités en direct, ajustez les coefficients de perte de matériaux et prévisualisez le tableau de bord exécutif des KPI de construction directement dans votre navigateur.*
+> ### Trois façons de commencer dès aujourd'hui
 >
-> 📥 **[Télécharger le modèle Excel prêt à l'emploi d'estimation de construction résidentielle et de coût des travaux (.xlsx — classeur maître pour un nombre illimité de projets)](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)**
-> *Obtenez le fichier Microsoft Excel préconstruit et entièrement automatisé, avec des moteurs de formules verrouillés pour un nombre illimité d'offres clients, de comparaisons de devis de sous-traitants et de suivis de coûts multi-projets.*
+> - 📥 **Téléchargez le classeur Excel complet déverrouillé (Achat unique · Garantie satisfait ou remboursé de 30 jours sans conditions) :** [**Obtenez le fichier maître Excel (.xlsx) d'estimation des coûts de construction résidentielle & BOQ sur Theseus Workshop**](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating) — classeur `.xlsx` pré-construit à 7 onglets avec gaspillage automatique, taxe de vente, comparaison des soumissions et alertes budget-vs-réel. Réutilisable sur des chantiers illimités, 100 % hors ligne, zéro abonnement SaaS.
+> - 🌐 **Testez d'abord le calculateur de coûts en direct (100 % gratuit dans le navigateur · Sans inscription) :** [**Lancez le calculateur web gratuit du coût de construction de maisons & l'aperçu BOQ interactif**](https://hyvoid.github.io/residential-boq-template/) pour exécuter des quantitatifs en direct, ajuster les facteurs de gaspillage et inspecter le tableau de bord Excel avant de télécharger.
+> - 🎁 **Vous voulez d'abord tester gratuitement un fichier Excel Theseus Workshop hors ligne ?** Commencez avec notre [**Modèle Excel gratuit mensuel CVR & régularisations de construction ($0+ Payez ce que vous voulez)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_boq_readme_crosslink) pour inspecter hors ligne notre qualité Excel sans macro, plug-and-play, avant de passer à ce classeur d'estimation.
 
 ---
 
-## Ce que ce modèle vous aide à suivre : maîtrise des coûts de construction, métré des matériaux et matrice de comparaison des offres
+## Où cet outil s'intègre dans votre boîte à outils de construction (se combine avec notre modèle CVR gratuit)
 
-Au lieu de laisser les chiffres de votre projet dispersés entre des devis de scieries, des serviettes en papier et des tableurs cassés, ce **modèle d'estimation des coûts de construction et de coût des travaux** associe vos principaux angles morts financiers à des sorties Excel automatisées :
+Vous utilisez déjà notre **Modèle gratuit mensuel CVR & régularisations de construction** pour auditer le profit de fin de mois ? **Ce classeur BOQ & d'estimation résidentielle en est le socle amont indispensable**—vous donnant une base de coûts étanche *avant* le démarrage de la construction, pour que vos soumissions, soumissions de sous-traitants et budgets par corps de métier soient justes dès le jour 1.
 
-| Problème courant de budgétisation de chantier et intention de recherche | Ce que vous suivez dans ce tableur de bordereau des quantités (BOQ) clé en main | Solution automatisée de maîtrise des coûts et de protection de la marge |
+| Étape du projet | Boîte à outils Theseus Workshop recommandée | Ce qu'elle résout pour vous |
+|---|---|---|
+| **1. Avant de construire & chiffrage quotidien des corps de métier** | **Ce classeur : BOQ résidentiel, estimation & chiffrage par poste** *(Achat unique fondateur)* | Métré des matériaux (QTO), calculs de gaspillage & taxe de vente, budgets `$/sq ft` sur 16 divisions CSI, **Comparaison des soumissions de sous-traitants (`Sub A/B/C`)**, et suivi en direct des divisions `⚠️ OVER BUDGET`. |
+| **2. Vérification de la réalité du profit en fin de mois** | [**Modèle gratuit mensuel CVR & régularisations de construction**](https://github.com/HyVoid/construction-cvr-accruals-excel-template) *(Gratuit · $0+ PWYW)* | Rapproche le profit comptable des régularisations de chantier non facturées, du risque de variations contestées et de l'Estimate at Completion (EAC) en fin de mois. |
+| **3. Facturation commerciale complète & trésorerie** | [**Gestion de projet unique & contrôle de trésorerie**](https://github.com/HyVoid/construction-project-management-excel) *(Système à cycle de vie complet)* | Gère les ordres de modification approuvés, la facturation progressive SOV/AIA, les retenues de garantie, les créances/dettes fournisseurs et la trésorerie disponible glissante. |
+
+---
+
+## Ce que ce classeur d'estimation & BOQ suit automatiquement
+
+Plutôt que de disperser les chiffres du chantier entre des PDF de marchands de matériaux, des SMS et des feuilles de calcul défectueuses, ce **modèle d'estimation des coûts de construction et de chiffrage par poste** convertit les données brutes des plans en décisions commerciales claires :
+
+| Point de douleur courant de la budgétisation de construction | Ce que ce classeur BOQ plug-and-play suit | Gain automatisé de contrôle des coûts & de protection du profit |
 | :--- | :--- | :--- |
-| **« Quelle quantité de matériaux supplémentaire dois-je acheter pour couvrir les pertes et la taxe de vente ? »** *(Sous-commander des matériaux et absorber des taxes cachées)* | **Métré des quantités (QTO), coefficients de perte de matériaux et intégration de la taxe de vente** | Applique automatiquement des **pourcentages de perte de matériaux (`5%–15%+`)** globaux ou par poste et cumule la **taxe de vente locale sur les matériaux** afin de convertir les dimensions brutes des plans en **quantités exactes de bon de commande fournisseur**. |
-| **« Comment chiffrer la main-d'œuvre, les matériaux et le matériel au pied carré ? »** *(Sous-évaluer les prix unitaires et perdre la marge brute)* | **Décomposition du coût par prix unitaire de poste (`$/sq ft`, `$/lf`, `$/cu yd`, `$/ea`)** | Sépare et calcule les **coûts de matériaux taxés, les charges de main-d'œuvre des équipes et les tarifs de location de matériel ou de sous-traitance** pour chaque ligne du bordereau des quantités, sans aucun calcul manuel à la calculatrice. |
-| **« Où passe réellement tout mon budget de construction ? »** *(Cécité budgétaire par corps d'état sur 16 phases de construction)* | **Ventilation des coûts par les 16 divisions CSI MasterFormat et coût au pied carré** | Consolide automatiquement des centaines de lignes de métré en **16 corps d'état résidentiels standard** (fondations, charpente, plomberie, électricité, CVC, finitions), en affichant le **% du budget par corps d'état et le `$/sq ft`** exacts. |
-| **« Comment savoir si le devis d'un sous-traitant est trop élevé ou omet des travaux ? »** *(Surpayer des fournisseurs ou se faire piéger par des offres anormalement basses)* | **Feuille de comparaison côte à côte des offres de sous-traitants (`Sub A vs. Sub B vs. Sub C`)** | Compare jusqu'à trois devis d'entrepreneurs concurrents à votre **référence interne issue du BOQ**, en signalant automatiquement **l'offre la plus basse, l'écart en dollars et la marge ou la sous-évaluation en `%`**. |
-| **« Comment suivre les dépenses de construction avant de manquer de trésorerie ? »** *(Découvrir les dépassements une fois le compte en banque vidé)* | **Suivi en temps réel du budget de construction vs. dépenses réelles et des écarts** | Compare les factures réelles du chantier aux budgets approuvés par division et déclenche une alerte visuelle instantanée `⚠️ OVER BUDGET` dès qu'un corps d'état dépasse son enveloppe. |
-| **« Comment présenter un budget de construction professionnel à une banque ou à un client ? »** *(Des propositions brouillonnes que les prêteurs rejettent)* | **Tableau de bord exécutif des KPI de construction, réserve pour aléas et top 3 des postes de coût** | Génère une synthèse claire sur un seul écran affichant **les coûts directs de base, la réserve pour aléas (`%`), l'estimation totale, le `$/Sq Ft` global et les 3 corps d'état les plus coûteux** pour un prêt construction ou une validation client. |
+| **« Combien de matériel supplémentaire dois-je acheter pour le gaspillage et la taxe de vente ? »** *(Sous-commande de matériaux & absorption d'une taxe cachée)* | **Quantitatif (QTO), facteurs de gaspillage des matériaux & cumul de la taxe de vente** | Applique automatiquement un **gaspillage de matériaux global ou par ligne (`5%–15%+`)** et compose la **taxe de vente locale sur les matériaux uniquement**, transformant les dimensions brutes des plans en **quantités d'achat exactes pour le fournisseur**. |
+| **« Comment évaluer la main-d'œuvre, les matériaux et l'équipement au pied carré ? »** *(Soumissions sous-évaluées & marges perdues)* | **Construction des coûts unitaires par ligne (`$/sq ft`, `$/lf`, `$/cu yd`, `$/ea`)** | Sépare les **coûts de matériaux taxés, les charges de main-d'œuvre des équipes et les tarifs d'équipement/sous-traitants** pour chaque ligne BOQ sans aucun calcul manuel. |
+| **« Où passe réellement tout mon budget de construction ? »** *(Aveuglement au niveau des corps de métier)* | **Consolidation des 16 divisions CSI MasterFormat & coût par pied carré** | Regroupe automatiquement des centaines de lignes de quantitatif en **16 corps de métier résidentiels standard** (fondations, ossature, plomberie, électricité, CVC, finitions), montrant la **part exacte de chaque corps de métier en `%` et `$/sq ft`**. |
+| **« Cette soumission de sous-traitant est-elle trop élevée—ou dangereusement basse ? »** *(Surpaiement aux fournisseurs ou piégé par les ordres de modification)* | **Comparaison côte à côte des soumissions de sous-traitants (`Sub A vs. Sub B vs. Sub C`)** | Évalue jusqu'à trois soumissions concurrentes par rapport à votre **référence BOQ interne**, signalant instantanément le **soumissionnaire le moins cher, l'écart en dollars et la marge/sous-évaluation en `%`**. |
+| **« Comment détecter les dépassements avant que ma trésorerie ne soit à sec ? »** *(Découvert après la fin du chantier)* | **Suivi en temps réel du budget vs. dépenses réelles & des écarts** | Compare les factures en cours aux budgets de divisions approuvés et affiche une alerte `⚠️ OVER BUDGET` instantanée dès qu'un corps de métier dépasse son enveloppe. |
+| **« Comment remettre à une banque ou à un client un budget propre et crédible ? »** *(Soumissions désordonnées qui bloquent les prêts ou font perdre les appels d'offres)* | **Tableau de bord Excel des KPI, réserve pour imprévus & 3 principaux postes de coûts** | Produit un résumé propre d'un seul écran des **coûts durs de base, du tampon pour imprévus (`%`), de l'estimation totale générale, du `$/Sq Ft` global et des 3 principaux corps de métier générateurs de coûts**. |
 
 ---
 
-## Scénarios réels d'estimation de construction : qui recherche cet outil et quand l'utiliser
+## Aperçu de la feuille de calcul
 
-Que vous construisiez une maison de zéro ou que vous rénoviez une seule pièce, ce **tableur de budget de construction résidentielle** est conçu pour les projets à forte intention où vous avez besoin de réponses en quelques minutes, pas en quelques semaines :
+Vous voulez examiner les onglets, la mise en page et la structure de calcul avant d'acheter ? Explorez l'aperçu en lecture seule dans Google Sheets :
 
-- **Maîtres d'ouvrage débutants qui demandent un prêt construction :** construisez une **ventilation des coûts de construction de maison en 16 divisions** prête pour le prêteur, avec des **références de coût au pied carré (`$/sq ft`)** claires et des réserves pour aléas sur les coûts directs, avant d'acheter le terrain ou de rencontrer les chargés de prêt de la banque.
-- **Petits entrepreneurs généraux (EG) qui répondent à des appels d'offres pour des maisons sur mesure (1 500–3 500+ sq ft) :** composez un **bordereau des quantités (BOQ) résidentiel** complet — du terrassement et des dalles en béton au gros œuvre de charpente, aux lots techniques (mécanique, électricité, plomberie) et aux menuiseries intérieures — pour envoyer des propositions clients précises en moins d'une heure pendant la haute saison des appels d'offres.
-- **Rénovateurs de maisons qui chiffrent des cuisines, salles de bains et sous-sols :** utilisez cette **feuille Excel d'estimation du coût de rénovation résidentielle** pour chiffrer les rénovations lourdes et les extensions de pièces, là où des coefficients de perte de démolition variables (`10%–15%`) et des enveloppes de finitions fluctuantes exigent un **suivi rigoureux de la réserve pour aléas**.
-- **Investisseurs en revente rapide et investisseurs immobiliers qui estiment des coûts de réhabilitation (BRRRR / Fix-and-Flip) :** lancez rapidement un **calculateur de coût de réhabilitation et de budget d'étendue des travaux (SOW)** avant de faire une offre sur un bien dégradé, en vous assurant que votre offre maximale autorisée (MAO) tient compte de la taxe réelle sur les matériaux, des taux de main-d'œuvre et des marges de l'entrepreneur.
-- **Chefs de projet et propriétaires qui auditent des devis de sous-traitants :** cessez de vous demander pourquoi trois plombiers ou charpentiers vous ont proposé des prix radicalement différents. Utilisez le **modèle intégré de comparaison des offres de sous-traitants** pour repérer les postes manquants ou les tarifs saisonniers gonflés avant de signer un contrat.
-- **Maîtrise des coûts en cours de chantier (éviter les ruptures de trésorerie en pleine construction) :** passez sans friction de l'estimation avant travaux au **suivi du budget de construction vs. dépenses réelles** sur le terrain, en détectant assez tôt les dépassements sur les fondations ou la charpente pour ajuster en aval les enveloppes de menuiseries ou de revêtements de sol.
+**[Voir l'aperçu en direct de la feuille de calcul sur Google Sheets](https://docs.google.com/spreadsheets/d/1tdW6S108rLNGHM1scdiwruNoZ08HrQ2U/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note de compatibilité :** l'aperçu Google Sheets peut afficher occasionnellement des avertissements `#NAME?` en raison des différences de tableaux dynamiques entre Google Sheets et Microsoft Excel. Ce sont des artefacts propres à l'aperçu et ils n'apparaissent pas dans le classeur `.xlsx` téléchargé ouvert dans Microsoft Excel.
 
 ---
 
-## À qui s'adresse ce modèle : métiers de la construction, alternatives logicielles et cas d'usage précis
+## Scénarios du monde réel : quand cette feuille d'estimation plug-and-play se rembourse dès le jour 1
 
-Vous n'avez pas besoin d'un logiciel ERP de construction d'entreprise à `$500+/month` (comme Procore ou Buildertrend) ni d'un diplôme d'économiste de la construction pour maîtriser vos coûts de construction. Cette boîte à outils est conçue spécifiquement pour :
-
-- **Les petits entrepreneurs généraux et constructeurs résidentiels** qui cherchent un **modèle Excel d'estimation de construction résidentielle prêt à l'emploi** pour standardiser les offres clients, protéger les marges brutes et éliminer les formules de tableur cassées en pleine saison.
-- **Les maîtres d'ouvrage auto-constructeurs et propriétaires qui construisent eux-mêmes** et ont besoin d'un **tableur de calcul des coûts de construction de maison accessible aux débutants** pour estimer les quantités de métré des matériaux, comparer les devis des corps d'état et gérer leur propre budget de construction sans embaucher un estimateur professionnel.
-- **Les entrepreneurs en rénovation et les entreprises de bricolage** à la recherche d'une **alternative gratuite ou peu coûteuse aux logiciels d'estimation de rénovation résidentielle, sous Excel**, pour chiffrer des rénovations de cuisines, des réaménagements de salles de bains et des extensions de maison sans payer d'abonnements SaaS mensuels.
-- **Les investisseurs immobiliers, les reventes rapides et les marchands de biens** qui ont besoin d'un **estimateur de coût de réhabilitation fix-and-flip et d'un suivi de budget de construction** pour évaluer les opérations en quelques minutes, suivre les tirages de l'entrepreneur et éviter que les dépassements de budget de réhabilitation n'engloutissent les profits de la revente.
-- **Les estimateurs de construction juniors et les économistes de la construction** qui souhaitent un **modèle de métré BOQ préformaté en 16 divisions CSI** appliquant automatiquement des règles de taxe de vente uniformes, des multiplicateurs de perte par poste et des consolidations par division à chaque révision de projet.
-- **Les sous-traitants et les responsables de corps d'état spécialisés (charpente, plâtrerie, couverture, béton, lots techniques)** qui ont besoin d'une **feuille Excel simple de coût des travaux et de métré des matériaux** pour calculer les quantités exactes à commander chez le fournisseur, les coûts de main-d'œuvre des équipes et les charges de matériel avant de soumettre une offre.
-
-*(Note de périmètre : cet outil est un tableur dédié à l'estimation avant travaux, au métré des matériaux, à la comparaison des offres et à la maîtrise des coûts par division. Il ne remplace ni un logiciel de comptabilité en partie double comme QuickBooks, ni les suites complexes de planification par diagramme de Gantt.)*
+- **Petits entrepreneurs généraux (GC) soumissionnant des maisons sur mesure (1,500–3,500+ sq ft) :** construisez une **nomenclature quantitative (BOQ) résidentielle complète à 16 divisions**—des fouilles et du béton à l'ossature, la MEP et les finitions—pour envoyer des soumissions clients précises et rentables en moins d'une heure en haute saison.
+- **Maîtres d'ouvrage constructeurs débutants demandant un prêt de construction :** présentez aux prêteurs un **budget de construction de maison à 16 divisions** prêt pour la banque, avec des références `$/sq ft` et un tampon d'imprévus clair sur les coûts durs.
+- **Entreprises de rénovation résidentielle chiffrant cuisines, salles de bain & sous-sols :** évaluez précisément les rénovations complètes et les extensions où le fort gaspillage de démolition/découpe (`10%–15%`) et les enveloppes de finition exigent un contrôle strict des imprévus.
+- **Acheteurs-rénovateurs-revendeurs & investisseurs immobiliers évaluant des réhabilitations (BRRRR / Fix-and-Flip) :** exécutez une **estimation rapide des coûts du périmètre des travaux (SOW) de réhabilitation** avant de soumettre une offre, protégeant votre offre maximale admissible (MAO) des surcoûts surprises de taxe et de main-d'œuvre.
+- **Audit des soumissions de sous-traitants avant signature :** cessez de deviner pourquoi trois plombiers ou charpentiers ont soumissionné des montants très différents—comparez les trois soumissions à votre référence interne en 2 minutes.
+- **Chiffrage simple pendant la construction :** continuez d'utiliser le même fichier une fois les travaux commencés pour comparer les vraies factures fournisseurs aux budgets de corps de métier approuvés, détectant assez tôt les dépassements de fondations ou d'ossature pour ajuster les enveloppes de finition en aval.
 
 ---
 
-## Tutoriel de démarrage rapide : un processus de copier-coller en 5 étapes pour devenir analyste des coûts de construction en 1 minute
+## Pour qui ce classeur d'estimation & de chiffrage par poste est conçu
 
-Les calculs de construction commerciale sont complexes, mais **vous n'avez pas besoin de savoir écrire des formules, lier des cellules ou double-cliquer pour faire glisser des équations sur toute une colonne**. Chaque règle de calcul, consolidation par division CSI, multiplicateur de taxe et alerte budgétaire est déjà préprogrammée dans le classeur. Il vous suffit de coller vos chiffres dans les cellules de saisie et de lire le tableau de bord décisionnel automatisé.
+Vous n'avez pas besoin d'un logiciel de construction d'entreprise à `$500/month` ni d'un diplôme d'estimation pour protéger votre budget de construction. Ce classeur est conçu spécifiquement pour :
 
-**Essayez tout de suite :** [Cliquez ici pour ouvrir le calculateur de coûts de construction gratuit et interactif dans le navigateur](https://hyvoid.github.io/residential-boq-template/) dans un nouvel onglet afin de tester ces 5 étapes en direct avant de télécharger votre copie Excel permanente.
+- **Petits entrepreneurs généraux & constructeurs résidentiels** voulant un **modèle Excel d'estimation des coûts de construction résidentielle** rapide et répétable pour standardiser leurs soumissions clients sans payer d'abonnement SaaS mensuel.
+- **Maîtres d'ouvrage constructeurs DIY & propriétaires auto-constructeurs** ayant besoin d'un **calculateur de coût de construction de maison accessible aux débutants** pour vérifier les commandes de matériaux, contrôler les soumissions des corps de métier et gérer leur propre budget de construction.
+- **Entrepreneurs en rénovation & chefs d'équipe (ossature, plaques de plâtre, toiture, béton, MEP)** cherchant une **feuille Excel hors ligne légère d'estimation & de métré des matériaux** pour calculer rapidement les commandes exactes de fournitures et les coûts de main-d'œuvre des équipes.
+- **Investisseurs immobiliers & acheteurs-rénovateurs-revendeurs** ayant besoin d'un **estimateur de coûts de réhabilitation & suivi des tirages de fonds répétable** pour empêcher la dérive du budget d'anéantir les marges de revente.
+- **Estimateurs juniors en construction & assistants métreurs** voulant un **modèle de quantitatif BOQ à 16 divisions CSI pré-formaté** avec des règles de taxe uniformes, des multiplicateurs de gaspillage et des consolidations automatiques.
 
-1. **Définissez vos règles de projet une fois pour toutes en 10 secondes (`00_Parameters` — règles de coût globales).**
-   Ouvrez l'onglet `00_Parameters` et saisissez trois chiffres de base : votre **taux de perte de matériaux par défaut** (par exemple `5%`), votre **réserve pour aléas de construction** (par exemple `10%`) et votre **taux de taxe de vente local** (par exemple `8%`). La feuille applique automatiquement ces règles à chaque article saisi ensuite — aucun calcul manuel de taxe ou de perte n'est nécessaire.
-
-2. **Saisissez la surface de votre maison pour obtenir automatiquement les références `$/Sq Ft` (`01_Project_Setup` — base de référence du projet).**
-   Saisissez le nom de votre projet et sa **surface de plancher brute (sq ft)** (par exemple `2,400 sq ft`) dans `01_Project_Setup`. Le modèle utilise immédiatement cette surface comme dénominateur principal pour calculer votre **coût au pied carré (`$/sq ft`)** sur chaque division de corps d'état et chaque carte de synthèse exécutive.
-
-3. **Copiez-collez vos mesures de matériaux et vos prix unitaires (`02_BOQ_Takeoff` — métré automatisé des matériaux).**
-   Rendez-vous dans `02_BOQ_Takeoff`, choisissez une phase de construction dans le **menu déroulant des 16 divisions CSI**, puis saisissez ou collez votre mesure nette relevée sur le plan (`Base Qty`) ainsi que vos **prix unitaires des matériaux, de la main-d'œuvre et du matériel**.
-   *Automatisation sans formule :* vous n'avez jamais à faire glisser une cellule de formule. Le tableur gonfle instantanément votre quantité nette pour couvrir les pertes de découpe, ajoute la taxe de vente locale uniquement sur la part matériaux, combine main-d'œuvre et matériel, et produit votre **coût total exact du poste**.
-
-4. **Intégrez les devis des sous-traitants et suivez les factures réelles (de `03_Division_Summary` à `05_Budget_Cost_Control` — comparaison des offres et alertes d'écart).**
-   - Consultez `03_Division_Summary` pour voir vos centaines de lignes regroupées automatiquement en **16 totaux de corps d'état résidentiels clairs**.
-   - Collez jusqu'à 3 offres d'entrepreneurs (`Sub A`, `Sub B`, `Sub C`) dans `04_Subcontractor_Comparison`. La feuille met instantanément en évidence **l'offre fournisseur la plus basse** et affiche l'écart exact en dollars et en `%` par rapport à votre estimation interne, pour que vous ne soyez jamais surfacturé.
-   - Dès le démarrage du chantier, saisissez vos reçus fournisseurs réels et vos paiements d'entrepreneurs dans `05_Budget_Cost_Control`. Si un corps d'état dépasse le budget de `$1`, un avertissement automatique `⚠️ OVER BUDGET` s'affiche immédiatement.
-
-5. **Lisez votre tableau de bord décisionnel exécutif en 1 minute et téléchargez le fichier Excel réutilisable (`06_Dashboard`).**
-   Ouvrez `06_Dashboard` pour visualiser l'ensemble de votre situation financière sur un seul écran : **estimation de base, réserve pour aléas, coût total de construction, `$/Sq Ft` global et top 3 des divisions les plus coûteuses**.
-
-   > 🚀 **Cessez de vous battre avec les tableurs — obtenez dès aujourd'hui votre moteur d'analyse de construction en 1 minute :**
-   > Alors que la logique commerciale de l'estimation de construction demande des années à maîtriser, **ce modèle Excel a déjà construit pour vous chaque calcul inter-feuilles, chaque consolidation dynamique `SUMIFS` et chaque mise à jour automatique de formule**. Vous n'avez même pas besoin de double-cliquer sur le coin d'une cellule pour recopier des formules vers le bas — téléchargez simplement le fichier sur votre ordinateur, collez les chiffres de votre projet et obtenez en 60 secondes une clarté financière instantanée de qualité professionnelle.
-   >
-   > Que vous soyez un parfait débutant construisant sa première maison ou un entrepreneur débordé jonglant avec 5 offres un dimanche soir, laissez ce classeur automatisé prendre en charge les calculs afin que vous puissiez vous concentrer sur la conduite de votre chantier et la conclusion d'affaires rentables.
-   >
-   > 👉 **[Télécharger ici le modèle Excel déverrouillé et réutilisable d'estimation de construction résidentielle (.xlsx)](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)** — *Utilisez-le une fois pour finaliser votre estimation actuelle, puis enregistrez-le comme modèle maître permanent pour avancer par copier-coller dans chaque futur projet de construction, de rénovation et de réhabilitation.*
+*(Note de périmètre : il s'agit d'un classeur fondateur d'estimation pré-construction, de métré des matériaux, de comparaison des soumissions et de suivi budgétaire par division. Pour la facturation progressive commerciale complète, les retenues de garantie et les prévisions de trésorerie glissantes, voir notre [Classeur de gestion de projet unique & de trésorerie](https://github.com/HyVoid/construction-project-management-excel).)*
 
 ---
 
-## La logique métier et la méthodologie : 4 angles morts financiers cachés qui anéantissent les profits de construction (et comment cette feuille les corrige automatiquement)
+## Démarrage rapide : des chiffres du plan au budget de direction en 5 étapes simples
 
-Vous n'avez pas besoin d'un diplôme de comptabilité ni d'une formation en gestion de chantier pour utiliser ce tableur. En réalité, la plupart des débutants, des maîtres d'ouvrage et des petits entrepreneurs perdent de l'argent non pas parce qu'ils ne savent pas faire une addition, mais parce qu'ils ignorent les **quatre pièges commerciaux structurels** cachés dans chaque projet de construction.
+Chaque règle de calcul, consolidation de division CSI, multiplicateur de taxe et alerte de dépassement budgétaire est déjà intégré au classeur. **Vous n'écrivez jamais une formule ni n'étirez une cellule**—collez simplement vos chiffres dans les colonnes de saisie désignées et lisez le tableau de bord Excel.
 
-Voici les faits financiers objectifs qui expliquent pourquoi les budgets de construction échouent — et comment la logique métier intégrée à ce classeur protège automatiquement votre trésorerie :
+**Vous voulez tester ces 5 étapes gratuitement dès maintenant ?** [Ouvrez le calculateur web interactif gratuit](https://hyvoid.github.io/residential-boq-template/) dans un nouvel onglet.
 
-### 1. L'angle mort « mesure sur plan vs. réalité de la caisse » (la perte cachée de 13.4 % sur les matériaux)
-- **Le fait objectif :** Si un plan de niveau mesure `1,000 sq ft` de parquet en bois dur à `$4.00/sq ft`, un débutant prévoit `$4,000`. Dans la construction réelle, les lames doivent être sciées pour s'ajuster aux angles (ce qui génère `5%–10%` de chutes non récupérables), et le fournisseur facture au moment du règlement la taxe de vente de l'État ou locale (`6%–10%`) sur la totalité de la commande de matériaux.
-- **Votre risque financier :** Avec un coefficient de perte de découpe standard de `5%` et une taxe de vente de `8%`, la scierie vous facture en réalité `$4,536` (`1,000 × 1.05 × $4.00 × 1.08`), et non `$4,000`. **Vous perdez 13.4 % sur chaque achat de matériaux avant même qu'un seul ouvrier ne pose le pied sur le chantier.** Sur `$100,000` de matériaux de construction, cela représente **$13,400 de profit net ou d'économies personnelles anéantis instantanément**, simplement pour avoir oublié le calcul composé des pertes et des taxes.
-- **Votre avantage intégré :** Vous n'avez jamais à mémoriser ce calcul. Vous saisissez uniquement la mesure brute du plan (`1,000`) et le prix affiché en rayon (`$4.00`). Le tableur gonfle automatiquement votre quantité de commande pour couvrir les pertes et applique en cascade la taxe de vente locale uniquement sur les matériaux (la main-d'œuvre restant exonérée), garantissant un prix de caisse exact à 100 % dès le premier jour.
-
-### 2. Le piège du « devis de sous-traitant à l'aveugle » (surpayer en haute saison vs. l'appât d'un ordre de modification sous-évalué)
-- **Le fait objectif :** Lorsque vous demandez un devis à trois entrepreneurs en plomberie ou en charpente, ils vous fournissent rarement un détail poste par poste — ils vous remettent un seul montant forfaitaire (par exemple `$38,000`, `$48,500` et `$52,000`). Sans votre propre base de référence indépendante construite de bas en haut, vous n'avez aucun levier de négociation.
-- **Votre risque financier :** Si vous choisissez l'entrepreneur à `$38,000` à l'aveugle pour économiser, vous découvrez souvent en cours de chantier qu'il a volontairement omis les vannes d'alimentation encastrées ou les frais d'évacuation des gravats — et vous recevez `$12,000` d'ordres de modification obligatoires au moment où vous ne pouvez plus le remplacer. À l'inverse, en pleine saison de construction, les trois entrepreneurs peuvent gonfler leurs devis de `20%+` parce qu'ils savent que vous ignorez le coût réel des matériaux et de la main-d'œuvre.
-- **Votre avantage intégré :** Comme `02_BOQ_Takeoff` calcule votre véritable coût de référence interne (par exemple `$42,000`), coller ces trois devis fournisseurs dans `04_Subcontractor_Comparison` révèle immédiatement la vérité. Vous voyez à l'écran que `$38,000` est dangereusement sous-évalué (`-9.5%` — vérifiez les postes manquants !) et que `$48,500` est gonflé de `+$6,500 (+15.5%)`. Vous obtenez les données exactes nécessaires pour négocier plusieurs milliers de dollars de réduction sur les offres d'entrepreneurs en 2 minutes.
-
-### 3. L'angle mort de la « concentration des coûts 80/20 » (perdre des heures à négocier les mauvaises choses)
-- **Le fait objectif :** Les débutants traitent chaque ligne d'une construction de maison comme également importante, passant des jours à chercher `$200` de remise sur des robinets de salle de bains ou de la peinture intérieure tout en ignorant les prix unitaires structurels. En économie de la construction résidentielle, **seules 3 des 16 divisions de bâtiment (généralement la charpente, le béton et les fondations, ainsi que les lots techniques) absorbent 50 % à 65 % de l'ensemble de votre budget de construction.**
-- **Votre risque financier :** Si votre estimation totale dépasse de `$30,000` ce que vous ou votre banque pouvez financer, tenter de réduire les coûts sur la peinture, la quincaillerie ou les luminaires ne sauvera jamais l'opération. Pendant ce temps, une infime erreur d'estimation de `5%` sur la charpente ou le béton détruira l'intégralité de votre réserve pour aléas.
-- **Votre avantage intégré :** L'onglet `06_Dashboard` classe et met automatiquement en évidence vos **3 divisions les plus génératrices de coûts** selon leur impact total en dollars et leur **coût au pied carré (`$/sq ft`)**. En moins de 60 secondes, un parfait novice voit exactement quels 3 corps d'état conditionnent la survie financière du projet — ce qui lui permet de concentrer 100 % de son énergie de négociation et d'optimisation de la valeur là où se trouve le véritable argent.
-
-### 4. L'angle mort du « reçu dans la boîte à chaussures » (découvrir qu'on est ruiné une fois le chantier terminé)
-- **Le fait objectif :** La plupart des petits constructeurs et des propriétaires établissent une estimation dans un fichier, puis jettent les reçus réels de quincaillerie et les factures des entrepreneurs dans un dossier ou une application comptable séparée, pour tout additionner à la fin du projet.
-- **Votre risque financier :** Les coûts de construction sont séquentiels. Si les travaux de terrassement et de fondation dépassent le budget de `$8,000` au premier mois, et que vous ne vous en apercevez qu'en additionnant vos reçus au sixième mois, **ces `$8,000` sont définitivement perdus — ils sortent directement de votre poche ou de votre bénéfice net.**
-- **Votre avantage intégré :** Ce classeur relie votre estimation initiale directement à `05_Budget_Cost_Control`, dans le même fichier. Dès que vous saisissez une facture réelle, la feuille compare votre **budget approuvé vs. les dépenses réelles** par division de corps d'état. Si les fondations dépassent le budget au premier mois, un avertissement automatique `⚠️ OVER BUDGET` se déclenche immédiatement — vous offrant 5 mois d'avance pour réduire de `$8,000` les postes en aval (meubles de cuisine, carrelage ou aménagement paysager) et terminer malgré tout le chantier dans le budget.
+1. **Définissez une fois les règles de coûts globales (`00_Parameters` — 10 secondes) :**
+   Saisissez votre **taux de gaspillage des matériaux par défaut** (p. ex. `5%`), votre **tampon pour imprévus** (p. ex. `10%`) et votre **taux de taxe de vente local** (p. ex. `8%`). Chaque élément ci-dessous hérite automatiquement de ces règles.
+2. **Saisissez votre surface de plancher (`01_Project_Setup`) :**
+   Entrez le nom de votre projet et la **surface de plancher brute (sq ft)** (p. ex. `2,400 sq ft`) pour alimenter en direct les références du **coût par pied carré (`$/sq ft`)** dans chaque corps de métier et carte KPI.
+3. **Copiez & collez les mesures du quantitatif & les tarifs unitaires (`02_BOQ_Takeoff`) :**
+   Choisissez un corps de métier dans le **menu déroulant des 16 divisions CSI**, saisissez votre quantité nette du plan (`Base Qty`) et entrez les **tarifs unitaires matériaux, main-d'œuvre et équipement/sous-traitant**. La feuille calcule automatiquement les quantités ajustées au gaspillage, ajoute la taxe de vente aux matériaux uniquement et totalise chaque ligne.
+4. **Comparez les soumissions de sous-traitants & journalisez les dépenses réelles (`03_Division_Summary` → `05_Budget_Cost_Control`) :**
+   - Consultez `03_Division_Summary` pour les **totaux automatiques des 16 corps de métier** et la répartition `$/sq ft`.
+   - Collez jusqu'à trois soumissions d'entrepreneurs (`Sub A`, `Sub B`, `Sub C`) dans `04_Subcontractor_Comparison` pour repérer le soumissionnaire le moins cher et l'écart exact en `$` / `%` par rapport à votre estimation interne.
+   - À l'arrivée des factures, journalisez les dépenses réelles dans `05_Budget_Cost_Control`—tout corps de métier hors budget affiche immédiatement `⚠️ OVER BUDGET`.
+5. **Présentez votre budget sur un seul écran (`06_Dashboard`) :**
+   Ouvrez `06_Dashboard` pour consulter **l'estimation de base, la réserve pour imprévus, le coût total général de construction, le `$/Sq Ft` global et les 3 principales divisions génératrices de coûts**—prêt à partager avec clients, partenaires ou agents de crédit.
 
 ---
 
-## Feuilles Excel manuelles improvisées vs. ce modèle prêt à l'emploi de maîtrise des coûts de construction en 16 divisions
+## Calculateur web gratuit vs. classeur Excel local complet
 
-La plupart des débutants commencent avec une feuille Excel vierge ou un tableau à 3 colonnes téléchargé sur un forum — pour ensuite voir leur budget s'effondrer dès qu'une simple formule `SUM` cassée ou un taux de taxe oublié ruine l'offre. Voici comment ce **classeur automatisé d'estimation de construction et de coût des travaux** élimine le risque lié aux tableurs manuels :
+| Fonctionnalité | Calculateur web gratuit en ligne | **Classeur Excel local complet (achat unique)** |
+|---|---|---|
+| **Idéal pour** | Test navigateur rapide de 2 minutes du calcul de quantitatif & du tableau de bord | Soumissions clients réelles, budgets pour prêteurs, évaluation de réhabilitations & chiffrage de chantier actif |
+| **Lignes illimitées & 16 divisions CSI** | Capacité de démonstration bac à sable | **Fichier maître `.xlsx` complet à 7 onglets** prenant en charge jusqu'à 10,000 lignes BOQ |
+| **Comparaison des soumissions de sous-traitants (`Sub A/B/C`)** | Mode aperçu | Comparaison automatisée complète des fournisseurs & évaluation des écarts, enregistrée par chantier |
+| **Réutilisable sur des projets illimités** | Réinitialisé dans le navigateur | **Enregistrement local & réutilisation illimitée** pour chaque construction, rénovation et achat-rénovation-revente |
+| **Confidentialité 100 % hors ligne** | Session navigateur | **Zéro stockage cloud**—tarifs unitaires, prix fournisseurs & marges restent strictement sur votre appareil |
+| **Coût & garantie** | Aperçu gratuit | **Achat unique abordable** · **Garantie satisfait ou remboursé de 30 jours sans conditions** |
 
-| Tâche d'estimation de construction et de coût des travaux | Feuille Excel manuelle vierge ou bricolée (risque d'erreur élevé) | Ce modèle Excel automatisé de bordereau des quantités (BOQ) en 16 divisions (maîtrise clé en main) |
+> **Prêt à produire en quelques minutes des estimations précises, prêtes pour la banque—et à réutiliser un seul fichier maître propre sur chaque futur projet ?**
+> 👉 [**Téléchargez le classeur Excel déverrouillé d'estimation des coûts de construction résidentielle & BOQ (achat unique · garantie 30 jours)**](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)
+
+---
+
+## La logique métier : 4 angles morts de coûts que ce classeur corrige automatiquement
+
+La plupart des débutants, maîtres d'ouvrage constructeurs et petits entrepreneurs ne perdent pas d'argent à cause d'une comptabilité complexe—ils en perdent à cause de **quatre pièges d'estimation prévisibles** inhérents à chaque construction résidentielle :
+
+### 1. L'angle mort « plan vs. caisse enregistreuse » (la perte cachée de matériaux de 13,4 %)
+- **La réalité :** si un plan mesure `1,000 sq ft` de bois franc à `$4.00/sq ft`, un débutant budgète `$4,000`. Sur un vrai chantier, le gaspillage de coupe ajoute `5%–10%` de matériel supplémentaire, et le fournisseur facture `6%–10%` de taxe de vente locale à la caisse.
+- **L'impact financier :** à `5%` de gaspillage et `8%` de taxe de vente, la facture à la caisse est de **`$4,536`** (`1,000 × 1.05 × $4.00 × 1.08`), et non de `$4,000`—soit une **perte de marge instantanée de 13,4 %**. Sur `$100,000` de matériaux, cela efface **`$13,400`** avant même le jour 1.
+- **Comment ce classeur le corrige :** saisissez uniquement la quantité nette du plan (`1,000`) et le prix unitaire catalogue (`$4.00`). La feuille gonfle automatiquement la quantité pour le gaspillage et applique la taxe de vente aux matériaux uniquement (la main-d'œuvre des équipes reste exonérée).
+
+### 2. Le piège de la « soumission de sous-traitant à l'aveugle » (surpaiement vs. appât d'ordres de modification bradés)
+- **La réalité :** les sous-traitants vous remettent généralement une soumission forfaitaire unique (`$38,000`, `$48,500`, `$52,000`) sans aucune détaillation. Sans votre propre référence ascendante, vous négociez à l'aveugle.
+- **L'impact financier :** choisir aveuglément la soumission bradée de `$38,000` conduit souvent à `$12,000` d'ordres de modification en cours de chantier pour des vannes « exclues » ou l'évacuation des gravats. À l'inverse, accepter `$48,500` en haute saison signifie surpayer de plusieurs milliers.
+- **Comment ce classeur le corrige :** `04_Subcontractor_Comparison` évalue les trois soumissions directement par rapport à votre référence BOQ entièrement taxée et ajustée au gaspillage (disons `$42,000`), révélant immédiatement si une soumission est suspectement basse (`-9.5%`) ou gonflée (`+15.5%`).
+
+### 3. L'angle mort de la « concentration des coûts 80/20 »
+- **La réalité :** les débutants perdent des jours à chasser des remises de `$200` sur des robinets tout en ignorant les tarifs unitaires structurels. En construction résidentielle, **seulement 3 des 16 divisions (typiquement l'ossature, le béton/fondations et la MEP) absorbent 50 %–65 % de l'ensemble du budget.**
+- **Comment ce classeur le corrige :** `06_Dashboard` classe automatiquement vos **3 principales divisions génératrices de coûts** par coût total et `$/sq ft`—pour que vous dépensiez 100 % de votre énergie de négociation là où se trouve le vrai argent.
+
+### 4. L'angle mort du « post-mortem des reçus dans une boîte à chaussures »
+- **La réalité :** budgéter dans une feuille et entasser les reçus dans un dossier jusqu'au mois 6 signifie que vous ne découvrez un dépassement de fondations de `$8,000` que lorsque l'argent est déjà dépensé.
+- **Comment ce classeur le corrige :** `05_Budget_Cost_Control` vit dans le tout même classeur. Journalisez les vraies factures par division et déclenchez un drapeau `⚠️ OVER BUDGET` instantané dès le mois 1—vous laissant des mois pour raboter `$8,000` sur les armoires, le carrelage ou le paysagisme en aval.
+
+---
+
+## Feuilles de calcul manuelles DIY vs. ce classeur BOQ automatisé à 16 divisions
+
+| Tâche d'estimation & de contrôle des coûts de construction | Feuille Excel vierge / DIY manuelle (risque d'erreur élevé) | **Ce classeur BOQ automatisé à 16 divisions (plug-and-play)** |
 | :--- | :--- | :--- |
-| **Calculs de métré des matériaux (QTO) et de multiplicateur de pertes** | Les utilisateurs saisissent manuellement des multiplicateurs codés en dur dans les formules de cellules (`=1000*1.05`), ce qui rend les métrés issus des plans et les bons de commande fournisseurs impossibles à auditer ou à mettre à jour. | Saisissez uniquement votre mesure nette relevée sur le plan (`Base Qty`). Les cellules de perte vides héritent automatiquement du **taux de perte de matériaux par défaut** centralisé dans `00_Parameters`, tout en autorisant des remplacements personnalisés par poste (`5%–15%+`) sans aucune modification de formule. |
-| **Séparation de la taxe de vente sur les matériaux et du coût de la main-d'œuvre** | Les débutants oublient complètement la taxe de vente locale (perdant `6%–10%` sur les matériaux) ou appliquent par erreur la taxe de vente à la main-d'œuvre exonérée et à la location de matériel. | Les formules de prix unitaire intégrées appliquent automatiquement **quantité ajustée de matériaux × prix unitaire des matériaux × taux de taxe de vente local**, tout en gardant les **taux de main-d'œuvre** et les **taux de matériel et de sous-traitance** clairement séparés dans des colonnes adjacentes. |
-| **Consolidation des 16 divisions de corps d'état CSI MasterFormat** | L'insertion d'une nouvelle ligne pour la plâtrerie, le bois de charpente ou les appareils sanitaires casse les plages statiques `=SUM(D2:D50)`, faisant silencieusement disparaître des milliers de dollars du total général de l'offre. | L'architecture de base de données dynamique `SUMIFS` regroupe automatiquement un nombre illimité de lignes de métré en **16 divisions résidentielles CSI normalisées** et calcule le **`$/sq ft` par corps d'état** sans jamais avoir à faire glisser, copier ou corriger une plage `SUM`. |
-| **Comparaison des offres de sous-traitants et audit des devis** | Les devis PDF des entrepreneurs dorment dans les boîtes mail, sans aucune comparaison côte à côte avec votre base interne de matériaux et de main-d'œuvre. | La matrice dédiée `04_Subcontractor_Comparison` compare les offres `Sub A`, `Sub B` et `Sub C` au total interne de votre division BOQ, en signalant automatiquement **le devis fournisseur le plus bas, le nom de l'entrepreneur retenu et l'écart exact en `$` et en `%`**. |
-| **Suivi en direct du budget de construction vs. coût réel des travaux** | Les reçus réels des fournisseurs et les tirages des sous-traitants sont suivis dans un carnet séparé ou sur un relevé bancaire, totalement déconnectés des enveloppes initiales par division. | `05_Budget_Cost_Control` verrouille côte à côte, pour chaque corps d'état, votre **base de référence estimée, votre budget contractuel approuvé et vos dépenses réelles de terrain**, en déclenchant instantanément un indicateur de statut automatique `⚠️ OVER BUDGET` ou `✅ OK` dès que vous collez une dépense réelle. |
-| **Reporting exécutif pour les prêteurs, investisseurs et clients** | Remettre à un chargé de prêt bancaire, à un partenaire immobilier ou à un propriétaire un tableau brouillon de 500 lignes provoque de la confusion, retarde les accords de prêt et fait perdre des offres d'entrepreneurs. | `06_Dashboard` synthétise instantanément l'ensemble de votre classeur en une synthèse exécutive claire affichant **le coût de construction de base, la réserve pour aléas, le total général, le `$/Sq Ft` du projet et les 3 principaux postes de coût** en un clic. |
+| **Métré des matériaux & calcul du gaspillage** | Multiplicateurs codés en dur dans les cellules (`=1000*1.05`), impossibles à auditer ou mettre à jour | Saisissez la `Base Qty` nette une seule fois ; les cellules de gaspillage vides héritent de la valeur globale par défaut de `00_Parameters`, avec possibilité de surcharge au niveau de l'élément |
+| **Taxe de vente vs. séparation de la main-d'œuvre** | Facile d'oublier totalement la taxe de vente (perdre `6%–10%`) ou de taxer la main-d'œuvre par erreur | Compose automatiquement `Adjusted Qty × Material Rate × Sales Tax` en gardant les coûts de main-d'œuvre et d'équipement/sous-traitants soigneusement séparés |
+| **Consolidations des 16 divisions CSI** | L'insertion de nouvelles lignes casse les plages statiques `=SUM()`, supprimant silencieusement des milliers des soumissions | La base de données dynamique `SUMIFS` consolide des lignes illimitées en **16 divisions CSI standard** et calcule `$/sq ft` automatiquement |
+| **Comparaison des soumissions de sous-traitants** | Les soumissions PDF des fournisseurs se dispersent dans les e-mails sans vérification de référence | `04_Subcontractor_Comparison` évalue `Sub A / B / C` par rapport à votre BOQ interne, signalant automatiquement le soumissionnaire le moins cher & l'écart `$` / `%` |
+| **Contrôle budget vs. coûts réels** | Les reçus réels suivis séparément des enveloppes de l'estimation initiale | `05_Budget_Cost_Control` place Estimation, Budget approuvé & Dépenses réelles côte à côte avec drapeaux instantanés `⚠️ OVER BUDGET` / `✅ OK` |
+| **Propositions bancaires, investisseurs & clients** | Des tableaux désordonnés de 500 lignes embrouillent les clients et retardent l'approbation des prêts de construction | `06_Dashboard` génère un résumé de direction propre sur 1 écran : coût de base, imprévus, total général, `$/Sq Ft` & 3 principaux postes |
 
 ---
 
-## À propos de ce projet et d'autres boîtes à outils Excel commerciales clé en main
+## À propos de Theseus Workshop — boîtes à outils Excel hors ligne légères pour la prise de décision
 
-Je conçois des outils de suivi financier légers et sans superflu, ainsi que des tableurs d'aide à la décision commerciale, pour les constructeurs, les petits chefs d'entreprise et les opérateurs confrontés à trop de variables mouvantes pour tout calculer de tête — et pour qui un logiciel d'entreprise coûteux à `$500/month` ajoute plus de friction que de valeur.
+**Theseus Workshop** construit des boîtes à outils Excel locales de prise de décision, abordables et sans surcharge, pour les constructeurs, entrepreneurs, estimateurs et opérateurs de petites entreprises qui veulent **une clarté analytique en 1 minute sans abonnements à des logiciels d'entreprise à `$500/month`**.
 
-Chaque modèle de tableur est construit autour d'une seule question pratique :
-
-> **Quels chiffres exacts doivent tenir sur un seul écran — avec tous les calculs complexes déjà automatisés en coulisses — pour qu'un parfait débutant ou un opérateur débordé puisse prendre la bonne décision financière en 60 secondes ?**
-
-Ce **modèle de bordereau des quantités (BOQ) de construction résidentielle et de coût des travaux** applique exactement ce principe : verrouillez une fois vos hypothèses globales de taxe et de pertes, collez vos mesures brutes et vos devis fournisseurs dans des cellules de saisie claires, ne touchez jamais une formule, et repérez les risques budgétaires pendant que vous avez encore le temps de protéger votre portefeuille.
-
-### 🛠️ Explorez la bibliothèque complète de modèles prêts à l'emploi pour les affaires et les opérations
-Vous cherchez d'autres modèles Excel clé en main, des modèles financiers automatisés et des outils de décision commerciale sans configuration pour votre activité ?
-- 👉 **Visitez la boutique officielle :** **[Theseus Workshop sur Gumroad (Theseusworkshop.com)](https://www.theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20footer&utm_content=residential-boq-estimating)** — *Parcourez notre collection complète de classeurs Excel à téléchargement instantané, conçus pour transformer des données commerciales complexes en décisions par copier-coller en 1 minute.*
-- 📥 **Obtenez cette boîte à outils directement :** **[Télécharger le fichier maître Excel d'estimation de construction résidentielle et de coût des travaux (.xlsx)](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20footer&utm_content=residential-boq-estimating)**
+- 📥 [**Obtenez ce classeur d'estimation des coûts de construction résidentielle & BOQ (achat unique · garantie 30 jours)**](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20footer&utm_content=residential-boq-estimating)
+- 🎁 [**Commencez gratuitement : modèle mensuel CVR & régularisations de construction ($0+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_boq_readme_crosslink)
+- 🧰 [**Parcourez toutes les boîtes à outils Excel de construction & d'entreprise sur Theseus Workshop**](https://www.theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20footer&utm_content=residential-boq-estimating)
 
 ---
 
-## Détails techniques et architecture du classeur
+## Détails techniques & architecture du classeur
 
+<details>
+<summary><strong>Pour les relecteurs techniques, praticiens Excel et collaborateurs (architecture à 7 feuilles, 3 pièges d'estimation, exemple détaillé, référence des formules à tableaux dynamiques & règles de validation)</strong></summary>
 
 ### Architecture du classeur
 
-Le classeur contient sept feuilles principales organisées selon un flux maîtrisé `Input → Calculation → Aggregation → Comparison → Decision`.
+Le classeur contient sept feuilles principales organisées selon un flux contrôlé `Input → Calculation → Aggregation → Comparison → Decision`.
 
-| Couche         | Feuille                      | Rôle                                                         | Saisie / Calcul                 |
+| Couche          | Feuille                       | Rôle                                                         | Saisie / Calcul                |
 | -------------- | ----------------------------- | ------------------------------------------------------------ | ------------------------------- |
 | Paramètres     | `00_Parameters`               | Hypothèses globales et liste maîtresse des divisions          | Configuration manuelle          |
-| Configuration du projet | `01_Project_Setup`   | Identité du projet et surface brute                           | Saisie manuelle                 |
-| Données maîtresses | `02_BOQ_Takeoff`          | Bordereau des quantités (BOQ) central, quantités, prix et décomposition des coûts par poste | Saisie manuelle + formules dynamiques |
-| Analyse        | `03_Division_Summary`         | Agrégation des coûts par division                             | Généré par formule              |
-| Comparaison    | `04_Subcontractor_Comparison` | Estimation interne vs devis Sub A/B/C                         | Devis saisis + formules         |
-| Contrôle       | `05_Budget_Cost_Control`      | Budget estimé vs budget approuvé vs réel                      | Budget/réel saisis + formules   |
-| Couche de décision | `06_Dashboard`            | KPI du projet, structure des coûts et indicateurs de risque   | Généré par formule + graphiques |
+| Configuration du projet | `01_Project_Setup`            | Identité du projet et surface brute                          | Saisie manuelle                    |
+| Données maîtresses | `02_BOQ_Takeoff`              | BOQ central, quantités, tarifs et construction des coûts par élément | Saisie manuelle + formules dynamiques |
+| Analyse        | `03_Division_Summary`         | Agrégation des coûts au niveau des divisions                 | Généré par formules            |
+| Comparaison    | `04_Subcontractor_Comparison` | Estimation interne vs soumissions Sub A/B/C                  | Soumissions manuelles + formules        |
+| Contrôle       | `05_Budget_Cost_Control`      | Estimé vs budget approuvé vs réel                       | Budget/réel manuels + formules |
+| Couche décision | `06_Dashboard`                | KPI du projet, structure des coûts et indicateurs de risque            | Généré par formules + graphiques      |
 
-La chaîne de dépendances prévue est la suivante :
+La chaîne de dépendances prévue est :
 
 ```text
 00_Parameters
@@ -202,59 +213,57 @@ La chaîne de dépendances prévue est la suivante :
               │
               ▼
         06_Dashboard
-
 ```
 
-`02_BOQ_Takeoff` est la **source unique de vérité** pour les données d'estimation détaillées. Les feuilles en aval ne recréent pas indépendamment la logique de coût au niveau des postes.
+`02_BOQ_Takeoff` est la **source unique de vérité (Single Source of Truth)** pour les données d'estimation détaillées. Les feuilles en aval ne recréent pas indépendamment la logique de coûts au niveau des éléments.
 
-### Limites entre saisie et calcul
+### Limites de saisie et de calcul
 
-La feuille BOQ sépare volontairement les champs saisis par l'utilisateur des champs générés par formule, afin d'éviter tout écrasement accidentel de formule.
+La feuille BOQ sépare volontairement les champs saisis par l'utilisateur des champs générés par formule pour empêcher l'écrasement accidentel de formules.
 
 | Zone | Colonnes | Contrôle |
 | --- | --- | --- |
-| Saisie manuelle | A:H | Division, informations sur le poste, quantités, unités et pertes |
+| Saisie manuelle | A:H | Division, informations d'élément, quantités, unités et gaspillage |
 | Formule | I | Quantité ajustée |
-| Saisie manuelle | J | Prix unitaire des matériaux |
-| Formule | K | Coût des matériaux |
-| Saisie manuelle | L | Taux de main-d'œuvre |
-| Formule | M | Coût de main-d'œuvre |
-| Saisie manuelle | N | Taux matériel/sous-traitance |
-| Formule | O:P | Coût matériel/sous-traitance et coût total du poste |
+| Saisie manuelle | J | Tarif matériaux |
+| Formule | K | Coût matériaux |
+| Saisie manuelle | L | Tarif main-d'œuvre |
+| Formule | M | Coût main-d'œuvre |
+| Saisie manuelle | N | Tarif équipement/sous-traitant |
+| Formule | O:P | Coût équipement/sous-traitant et coût total de l'élément |
 
-### Trois pièges qui attrapent même les estimateurs expérimentés
+### Trois pièges qui prennent au dépourvu même les estimateurs expérimentés
 
-#### Piège 1 — Traiter la quantité de base comme quantité d'achat
+#### Piège 1 — Considérer la quantité de base comme la quantité d'achat
 
-1. **Décision :** une commande de matériaux est passée directement à partir de la quantité nette relevée sur le plan d'architecte.
+1. **Décision :** une commande de matériaux est passée directement en utilisant la quantité nette du métré des plans d'architecture.
 2. **Hypothèse erronée :** la surface nette mesurée est traitée comme la quantité finale d'approvisionnement.
-3. **Impact sur les chiffres :** un métré de `1,000 sq ft` avec une tolérance de perte de `5%` exige d'acheter `1,050 sq ft`, et non `1,000 sq ft`.
-4. **Pourquoi cela échoue :** les chutes, la casse et les exigences d'ajustement sur chantier dépassent les dimensions nettes mesurées.
-5. **Approche corrigée :** appliquer le taux de perte propre au poste lorsqu'il est saisi ; sinon, hériter du paramètre de perte par défaut centralisé.
-6. **Résultat corrigé :** l'estimation retient automatiquement `1,050 sq ft` comme quantité ajustée pour le chiffrage et la commande.
+3. **Impact sur les chiffres :** un quantitatif de `1,000 sq ft` avec une marge de gaspillage de `5%` exige l'achat de `1,050 sq ft`, et non de `1,000 sq ft`.
+4. **Pourquoi cela échoue :** les chutes, la casse et les exigences d'ajustement sur site dépassent les dimensions nettes mesurées.
+5. **Approche corrigée :** appliquez le taux de gaspillage spécifique à l'élément lorsqu'il est saisi ; sinon, héritez du paramètre de gaspillage par défaut centralisé.
+6. **Résultat corrigé :** l'estimation porte automatiquement `1,050 sq ft` comme quantité ajustée pour la tarification et la commande.
 
 ```excel
 =IF(F5:F1000="","",
    F5:F1000*(1+IF(ISNUMBER(H5:H1000),
                   H5:H1000,
                   '00_Parameters'!$C$4)))
-
 ```
 
-`F` = quantité de base
-`H` = % de perte du poste
-`00_Parameters!C4` = taux de perte par défaut
+- `F` = Base Qty
+- `H` = Item Waste %
+- `00_Parameters!C4` = Taux de gaspillage par défaut
 
 ---
 
-#### Piège 2 — Comparer un devis de sous-traitant à une estimation interne incomplète
+#### Piège 2 — Comparer une soumission de sous-traitant à une estimation interne incomplète
 
-1. **Décision :** un devis de sous-traitant est rejeté comme trop cher parce qu'il dépasse l'estimation interne.
-2. **Chiffre erroné :** l'estimation interne omettait un traitement cohérent de la taxe de vente ou les ajustements de pertes.
-3. **Impact sur les chiffres :** un devis fournisseur de `$48,500` face à une base incomplète de `$42,000` apparaît supérieur de `$6,500`.
-4. **Pourquoi cela échoue :** la comparaison des offres ne fonctionne que si la base interne reflète des coûts complets, ajustés de la taxe et des pertes.
-5. **Approche corrigée :** utiliser comme base l'estimation de division entièrement construite issue de `03_Division_Summary`, puis extraire automatiquement l'offre la plus basse parmi Sub A, Sub B et Sub C.
-6. **Résultat corrigé :** l'estimateur peut distinguer une véritable prime de marché d'un métré interne incomplet avant de négocier avec le fournisseur.
+1. **Décision :** une soumission de sous-traitant est rejetée comme trop chère parce qu'elle dépasse l'estimation interne.
+2. **Chiffre erroné :** l'estimation interne omettait un traitement cohérent de la taxe de vente ou des ajustements de gaspillage.
+3. **Impact sur les chiffres :** une soumission de fournisseur de `$48,500` face à une référence incomplète de `$42,000` semble `$6,500` trop chère.
+4. **Pourquoi cela échoue :** la comparaison des soumissions ne fonctionne que si la référence interne reflète des coûts complets, ajustés de la taxe et du gaspillage.
+5. **Approche corrigée :** utilisez l'estimation de division entièrement construite de `03_Division_Summary` comme référence, puis extrayez automatiquement la soumission la plus basse parmi Sub A, Sub B et Sub C.
+6. **Résultat corrigé :** l'estimateur peut distinguer une véritable prime de marché d'un quantitatif interne incomplet avant de négocier avec le fournisseur.
 
 ```excel
 =BYROW(C4:E19,LAMBDA(row,
@@ -264,21 +273,20 @@ La feuille BOQ sépare volontairement les champs saisis par l'utilisateur des ch
         HSTACK(minVal,vendor)
     )
 ))
-
 ```
 
-Le devis minimal obtenu alimente le calcul d'écart par rapport à l'estimation interne.
+Le minimum résultant alimente le calcul de l'écart par rapport à l'estimation interne.
 
 ---
 
-#### Piège 3 — Examiner le coût réel sans base budgétaire de référence
+#### Piège 3 — Examiner le coût réel sans référence budgétaire
 
-1. **Décision :** les dépenses réelles du projet sont examinées isolément des budgets approuvés par corps d'état.
-2. **Indicateur erroné :** `$37,800` de dépenses réelles n'a aucune signification opérationnelle sans la référence du budget approuvé.
-3. **Impact sur les chiffres :** comparé à un budget approuvé de `$35,000`, ces `$37,800` révèlent immédiatement un dépassement de `$2,800`.
-4. **Pourquoi cela échoue :** les totaux comptables bruts n'indiquent pas à un chef de projet si un corps d'état précis respecte son périmètre.
-5. **Approche corrigée :** aligner directement le coût réel sur le budget approuvé, par division CSI.
-6. **Résultat corrigé :** le classeur signale la division comme `⚠️ OVER BUDGET`, créant un signal immédiat de maîtrise des coûts.
+1. **Décision :** les dépenses réelles du projet sont examinées isolément des budgets de corps de métier approuvés.
+2. **Indicateur erroné :** `$37,800` de dépenses réelles n'a aucun sens opérationnel sans le repère du budget approuvé.
+3. **Impact sur les chiffres :** comparé à un budget approuvé de `$35,000`, ce `$37,800` révèle immédiatement un dépassement de coûts de `$2,800`.
+4. **Pourquoi cela échoue :** les totaux comptables bruts ne disent pas à un chef de projet si un corps de métier spécifique respecte son périmètre.
+5. **Approche corrigée :** alignez directement le coût réel sur le budget approuvé par division CSI.
+6. **Résultat corrigé :** le classeur marque la division `⚠️ OVER BUDGET`, créant un signal immédiat de contrôle des coûts.
 
 ```excel
 =HSTACK(
@@ -287,89 +295,80 @@ Le devis minimal obtenu alimente le calcul d'écart par rapport à l'estimation 
        "⚠️ OVER BUDGET",
        "✅ OK")
 )
-
 ```
 
-`C` = budget approuvé
-`D` = coût réel
+- `C` = Budget approuvé
+- `D` = Coût réel
 
-### Scénario d'exemple chiffré
+### Scénario d'exemple détaillé
 
-Prenons une construction résidentielle de **2,000 sq ft** de surface de plancher brute.
+Considérez une construction résidentielle avec une **surface de plancher brute de 2,000 sq ft**.
 
-Le projet est initialisé dans `00_Parameters` avec un **taux de perte par défaut de 5 %**, une **réserve pour aléas de 10 %** et une **taxe de vente de 8 %**. L'estimateur saisit un poste dans `02_BOQ_Takeoff` :
+Le projet est initialisé dans `00_Parameters` avec un **taux de gaspillage par défaut de 5 %**, **10 % d'imprévus** et **8 % de taxe de vente**. L'estimateur saisit une ligne dans `02_BOQ_Takeoff` :
 
 | Saisie | Valeur |
 | --- | --- |
-| Quantité de base | 1,000 sq ft |
-| Perte du poste | Vide |
-| Prix unitaire des matériaux | $4.00 |
-| Taux de main-d'œuvre | $2.50 |
-| Taux matériel/sous-traitance | $0.50 |
+| Base Qty | 1,000 sq ft |
+| Item Waste | Vide |
+| Material Rate | $4.00 |
+| Labour Rate | $2.50 |
+| Equip/Sub Rate | $0.50 |
 
-Comme le champ de perte propre au poste est vide, le modèle hérite du taux par défaut de 5 %. La quantité ajustée devient :
+Le champ de gaspillage spécifique à l'élément étant vide, le modèle hérite des 5 % par défaut. La quantité ajustée devient :
 
 ```text
 1,000 × (1 + 5%) = 1,050 sq ft
-
 ```
 
 Le coût des matériaux inclut la taxe de vente de 8 % :
 
 ```text
 1,050 × $4.00 × 1.08 = $4,536
-
 ```
 
-Le coût de la main-d'œuvre est de :
+Le coût de la main-d'œuvre est :
 
 ```text
 1,050 × $2.50 = $2,625
-
 ```
 
-Le coût du matériel et de la sous-traitance est de :
+Le coût équipement/sous-traitance est :
 
 ```text
 1,050 × $0.50 = $525
-
 ```
 
-Le coût total du poste obtenu est de :
+Le coût total de l'élément résultant est :
 
 ```text
 $4,536 + $2,625 + $525 = $7,686
-
 ```
 
-La ligne alimente `03_Division_Summary` et contribue aux coûts de matériaux, de main-d'œuvre, de matériel/sous-traitance et au coût total de la division concernée.
+La ligne alimente `03_Division_Summary`, contribuant aux coûts matériaux, main-d'œuvre, équipement/sous-traitance et total de la division concernée.
 
-Supposons que l'estimation de construction de base au niveau du projet atteigne `$300,000`. La réserve pour aléas est de :
+Supposons que l'estimation de base de construction au niveau du projet totalise `$300,000`. La réserve pour imprévus est :
 
 ```text
 $300,000 × 10% = $30,000
-
 ```
 
-Le tableau de bord présente donc une estimation totale incluant la réserve pour aléas de :
+Le tableau de bord présente donc une estimation totale générale, imprévus inclus, de :
 
 ```text
 $300,000 + $30,000 = $330,000
-
 ```
 
-Avec 2,000 sq ft, l'indicateur de coût au niveau du projet obtenu est de :
+À 2,000 sq ft, l'indicateur de coût au niveau du projet résultant est :
 
 ```text
 $330,000 ÷ 2,000 = $165 / sq ft
-
 ```
 
-Au-delà du montant phare de `$330,000`, le modèle expose simultanément **quelles divisions CSI précises portent ce total, la répartition exacte entre matériaux, main-d'œuvre et matériel/sous-traitance, la manière dont les offres de sous-traitants se comparent à votre base interne, et si les dépenses réelles de terrain ont dépassé le budget approuvé**.
+Au-delà du chiffre headline de `$330,000`, le modèle expose simultanément **quelles divisions CSI précises pilotent ce total, la répartition exacte entre matériaux, main-d'œuvre et équipement/sous-traitance, la façon dont les soumissions de sous-traitants se comparent à votre référence interne, et si les dépenses réelles de chantier ont franchi le budget approuvé**.
 
 ### Référence des formules
 
-Les paramètres globaux sont maintenus de manière centralisée :
+Les paramètres globaux sont gérés de manière centralisée :
 
 ```text
 C4 = Default Waste Rate
@@ -377,63 +376,60 @@ C5 = Contingency Rate
 C6 = Sales Tax Rate
 C7 = Currency Symbol
 E4:E19 = Master Division List
-
 ```
 
-`01_Project_Setup!C6` stocke la surface brute et fournit le dénominateur des calculs de coût au pied carré.
+`01_Project_Setup!C6` stocke la surface brute et fournit le dénominateur des calculs de coût par pied carré.
 
-**Quantité ajustée — `I5**`
+#### Feuille 02 — BOQ Takeoff
+
+**Quantité ajustée — `I5`**
 
 ```excel
 =IF(F5:F1000="","",
    F5:F1000*(1+IF(ISNUMBER(H5:H1000),
                   H5:H1000,
                   '00_Parameters'!$C$4)))
-
 ```
 
-**Coût des matériaux — `K5**`
+**Coût matériaux — `K5`**
 
 ```excel
 =IF(F5:F1000="","",
    I5:I1000*J5:J1000*(1+'00_Parameters'!$C$6))
-
 ```
 
-**Coût de la main-d'œuvre — `M5**`
+**Coût main-d'œuvre — `M5`**
 
 ```excel
 =IF(F5:F1000="","",
    I5:I1000*L5:L1000)
-
 ```
 
-**Coût matériel/sous-traitance — `O5**`
+**Coût équipement/sous-traitance — `O5`**
 
 ```excel
 =IF(F5:F1000="","",
    I5:I1000*N5:N1000)
-
 ```
 
-**Coût total du poste — `P5**`
+**Coût total de l'élément — `P5`**
 
 ```excel
 =IF(F5:F1000="","",
    K5:K1000+M5:M1000+O5:O1000)
-
 ```
 
-Les formules utilisent une logique de déversement de tableau dynamique ancrée en ligne 5, afin que les règles de calcul ne puissent pas être corrompues par un glissement manuel ligne par ligne.
+Les formules utilisent une logique de débordement de tableaux dynamiques ancrée à la ligne 5, afin que les règles de calcul ne puissent pas être corrompues par un étirement manuel ligne par ligne.
 
-**Liste des divisions — `A4**`
+#### Feuille 03 — Résumé des divisions
+
+**Liste des divisions — `A4`**
 
 ```excel
 ='00_Parameters'!E4:E19
-
 ```
 
-**Coût des matériaux, de la main-d'œuvre, du matériel/sous-traitance et coût total — `B4**`
+**Matériaux, main-d'œuvre, équipement/sous-traitance et coût total — `B4`**
 
 ```excel
 =BYROW(A4#,LAMBDA(d,
@@ -448,27 +444,26 @@ Les formules utilisent une logique de déversement de tableau dynamique ancrée 
                '02_BOQ_Takeoff'!A5:A1000,d)
     )
 ))
-
 ```
 
-**Part de coût et coût / sq ft — `F4**`
+**Part des coûts et coût / sq ft — `F4`**
 
 ```excel
 =HSTACK(
     INDEX(B4#,,4)/SUM(INDEX(B4#,,4)),
     INDEX(B4#,,4)/'01_Project_Setup'!$C$6
 )
-
 ```
 
-**Estimation interne — `B4**`
+#### Feuille 04 — Comparaison des sous-traitants
+
+**Estimation interne — `B4`**
 
 ```excel
 ='03_Division_Summary'!E4#
-
 ```
 
-**Offre la plus basse et fournisseur — `F4**`
+**Soumission la plus basse et fournisseur — `F4`**
 
 ```excel
 =BYROW(C4:E19,LAMBDA(row,
@@ -478,20 +473,20 @@ Les formules utilisent une logique de déversement de tableau dynamique ancrée 
         HSTACK(minVal,vendor)
     )
 ))
-
 ```
 
-**Écart vs base et écart % — `H4**`
+**Écart vs base et écart % — `H4`**
 
 ```excel
 =HSTACK(
     F4#-B4#,
     (F4#-B4#)/B4#
 )
-
 ```
 
-**Écart budgétaire et indicateur de statut — `E4**`
+#### Feuille 05 — Contrôle des coûts et du budget
+
+**Écart budgétaire et drapeau de statut — `E4`**
 
 ```excel
 =HSTACK(
@@ -500,73 +495,69 @@ Les formules utilisent une logique de déversement de tableau dynamique ancrée 
        "⚠️ OVER BUDGET",
        "✅ OK")
 )
-
 ```
+
+#### Feuille 06 — Tableau de bord
 
 **Estimation totale**
 
 ```excel
 =SUM('03_Division_Summary'!E4#)
-
 ```
 
-**Réserve pour aléas**
+**Imprévus**
 
 ```excel
 =B4*'00_Parameters'!$C$5
-
 ```
 
 **Total général**
 
 ```excel
 =B4+B5
-
 ```
 
 **Coût / sq ft**
 
 ```excel
 =B6/'01_Project_Setup'!$C$6
-
 ```
 
-**Top 3 des divisions les plus coûteuses**
+**3 principales divisions de coûts**
 
 ```excel
 =CHOOSEROWS(
     SORT('03_Division_Summary'!A4:E19,5,-1),
     1,2,3
 )
-
 ```
 
 ### Règles de validation
 
 | Champ | Règle | Comportement en cas d'erreur |
 | --- | --- | --- |
-| `00_Parameters!C4` | Le taux de perte par défaut doit être un pourcentage | Un pourcentage invalide produit des quantités ajustées peu fiables |
-| `00_Parameters!C5` | Le taux de réserve pour aléas doit être un pourcentage | Une valeur invalide affecte le total général |
-| `00_Parameters!C6` | Le taux de taxe de vente doit être un pourcentage | Le calcul du coût des matériaux devient incorrect |
-| `00_Parameters!E4:E19` | La liste des divisions est la liste maîtresse contrôlée | Des noms de division incohérents cassent l'agrégation |
-| `01_Project_Setup!C6` | La surface brute doit être numérique et positive | Les calculs de coût au pied carré ne peuvent sinon pas être valides |
-| `02_BOQ_Takeoff!A:A` | La division doit être sélectionnée dans la liste maîtresse | Les valeurs non appariées peuvent ne pas apparaître dans les synthèses par division |
-| `02_BOQ_Takeoff!F:F` | La quantité de base doit être numérique | Les résultats de formule restent vides en l'absence de quantité valide |
-| `02_BOQ_Takeoff!G:G` | L'unité doit être stockée séparément de la quantité | Empêche que des quantités telles que `1500 sq ft` soient traitées comme du texte |
-| `02_BOQ_Takeoff!H:H` | Le % de perte du poste peut être vide ou un pourcentage numérique | Les valeurs vides héritent de la valeur par défaut globale |
-| `02_BOQ_Takeoff!J:J` | Le prix unitaire des matériaux doit être numérique | Le coût des matériaux ne peut pas être correctement calculé à partir de texte |
-| `02_BOQ_Takeoff!L:L` | Le taux de main-d'œuvre doit être numérique | Le coût de main-d'œuvre ne peut pas être correctement calculé à partir de texte |
-| `02_BOQ_Takeoff!N:N` | Le taux matériel/sous-traitance doit être numérique | Le coût matériel/sous-traitance ne peut pas être correctement calculé à partir de texte |
-| `04_Subcontractor_Comparison!C:E` | Les valeurs de devis doivent être numériques | La logique de l'offre la plus basse peut échouer ou renvoyer des comparaisons invalides |
-| `05_Budget_Cost_Control!C:C` | Le budget approuvé doit être numérique | L'écart budgétaire ne peut pas être correctement évalué |
-| `05_Budget_Cost_Control!D:D` | Le coût réel doit être numérique | Le statut budgétaire ne peut pas être correctement évalué |
-| Plages de déversement des formules | Les cellules de destination doivent rester vides | Excel renvoie `#SPILL!` lorsqu'elles sont bloquées |
-| Calcul du classeur | Excel doit utiliser le calcul Automatic | Les paramètres mis à jour peuvent ne pas se propager immédiatement |
+| `00_Parameters!C4` | Le taux de gaspillage par défaut doit être un pourcentage | Un pourcentage invalide produit des quantités ajustées peu fiables |
+| `00_Parameters!C5` | Le taux d'imprévus doit être un pourcentage | Une valeur invalide affecte le total général |
+| `00_Parameters!C6` | Le taux de taxe de vente doit être un pourcentage | Le calcul du coût matériaux devient incorrect |
+| `00_Parameters!E4:E19` | La liste des divisions est la liste maîtresse contrôlée | Des noms de divisions incohérents cassent l'agrégation |
+| `01_Project_Setup!C6` | La surface brute doit être numérique et positive | Les calculs de coût par sq ft ne peuvent sinon pas être valides |
+| `02_BOQ_Takeoff!A:A` | La division doit être sélectionnée dans la liste maîtresse | Des valeurs non correspondantes peuvent ne pas apparaître dans les résumés de divisions |
+| `02_BOQ_Takeoff!F:F` | La Base Qty doit être numérique | Les sorties de formule restent vides en l'absence de quantité valide |
+| `02_BOQ_Takeoff!G:G` | L'unité doit être stockée séparément de la quantité | Empêche des quantités telles que `1500 sq ft` d'être traitées comme du texte |
+| `02_BOQ_Takeoff!H:H` | Le % de gaspillage de l'élément peut être vide ou un pourcentage numérique | Les valeurs vides héritent de la valeur globale par défaut |
+| `02_BOQ_Takeoff!J:J` | Le tarif matériaux doit être numérique | Le coût matériaux ne peut pas être calculé correctement à partir de texte |
+| `02_BOQ_Takeoff!L:L` | Le tarif main-d'œuvre doit être numérique | Le coût main-d'œuvre ne peut pas être calculé correctement à partir de texte |
+| `02_BOQ_Takeoff!N:N` | Le tarif équipement/sous-traitance doit être numérique | Le coût équipement/sous-traitance ne peut pas être calculé correctement à partir de texte |
+| `04_Subcontractor_Comparison!C:E` | Les valeurs de soumission doivent être numériques | La logique de soumission la plus basse peut échouer ou renvoyer des comparaisons invalides |
+| `05_Budget_Cost_Control!C:C` | Le budget approuvé doit être numérique | L'écart budgétaire ne peut pas être évalué correctement |
+| `05_Budget_Cost_Control!D:D` | Le coût réel doit être numérique | Le statut budgétaire ne peut pas être évalué correctement |
+| Plages de débordement de formules | Les cellules de destination doivent rester dégagées | Excel renvoie `#SPILL!` en cas de blocage |
+| Calcul du classeur | Excel doit utiliser le calcul automatique | Les paramètres mis à jour peuvent ne pas se propager immédiatement |
 | Version d'Excel | Microsoft 365 ou Excel 2021+ | Les versions plus anciennes peuvent renvoyer `#NAME?` pour les fonctions non prises en charge |
 
-### Validation croisée entre feuilles
+### Validation inter-feuilles
 
-Les principales références de paramètres du modèle sont traçables d'une feuille à l'autre :
+Les principales références de paramètres du modèle sont traçables entre les feuilles :
 
 ```text
 00_Parameters!C4  → 02_BOQ_Takeoff!I5
@@ -586,31 +577,49 @@ Gross Area           → Division cost / sq ft
 
 01_Project_Setup!C6 → 06_Dashboard!B7
 Gross Area           → Project cost / sq ft
-
 ```
 
 ### Notes d'exploitation et de maintenance
 
-* **Environnement Excel recommandé :** Microsoft 365 ou Excel 2021+ avec prise en charge des tableaux dynamiques et calcul `Automatic` activé.
-* **Volume BOQ recommandé :** jusqu'à **10,000 lignes** pour des performances de calcul fluides (les projets résidentiels typiques nécessitent **200–1,000 lignes**).
-* **Maintenance des données :** saisissez les données brutes uniquement dans les colonnes de saisie manuelle désignées (`A:H`, `J`, `L`, `N`) ; n'écrasez pas les cellules de formule déversées (`I`, `K`, `M`, `O:P`).
-* **Résolution des erreurs `#SPILL!` :** supprimez tout texte, espace ou nombre parasite qui bloque les lignes de sortie du tableau dynamique sous la ligne 5.
+- **Environnement Excel recommandé :** Microsoft 365 ou Excel 2021+ avec prise en charge des tableaux dynamiques (`BYROW`, `LAMBDA`, `HSTACK`, `CHOOSEROWS`, `XLOOKUP`) et le calcul `Automatic` activé.
+- **Volume BOQ recommandé :** jusqu'à **10,000 lignes** pour des performances de calcul fluides (les projets résidentiels typiques nécessitent **200–1,000 lignes**).
+- **Maintenance des données :** saisissez les données brutes uniquement dans les colonnes de saisie manuelle désignées (`A:H`, `J`, `L`, `N`) ; n'écrasez pas les cellules de formules de débordement (`I`, `K`, `M`, `O:P`).
+- **Dépannage de `#SPILL!` :** effacez tout texte, espace ou nombre parasite bloquant les lignes de sortie du tableau dynamique sous la ligne 5.
+
+</details>
 
 ---
 
 ## Autres outils d'aide à la décision de cette série
 
-Explorez des calculateurs dans le navigateur et des classeurs financiers Excel associés pour les opérations de projet et la gestion des coûts :
+Explorez d'autres calculateurs navigateur légers et boîtes à outils Excel hors ligne de **[Theseus Workshop](https://theseusworkshop.com/)** :
 
-* **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — La conception de l'arbre satisfait-elle la logique de calcul applicable ? — Appliquez les normes de calcul d'arbre DIN 743 aux décisions de conception technique.
-* **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Combien coûtera ce périmètre de travaux dans les hypothèses actuelles ? — Standardisez l'estimation des appels d'offres de construction et transformez les estimations réalisées en bibliothèques de coûts réutilisables.
-* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Comment les estimations et les coûts suivis se comparent-ils tout au long de l'exécution ? — Comparez les estimations de construction aux coûts réels pendant toute la réalisation du projet, selon les formats standard AIA.
-* **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — La situation financière du projet est-elle exacte après intégration des modifications approuvées, des coûts réels et de l'avancement de la facturation ? — Intégrez budgets, ordres de modification, facturation à l'avancement et trésorerie dans un cadre unique de contrôle de projet de construction.
-* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Quelle option énergétique offre le coût total de possession le plus bas pour ce projet précis, dans ses conditions d'exploitation réelles ? — Comparez les sources d'énergie industrielles sur une base d'énergie utile réelle, en normalisant les coûts de combustible, le rendement des équipements, l'investissement en infrastructures et les coûts de possession sur le cycle de vie.
-* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Combien coûtera ce projet de tunnel en forage et dynamitage dans le cycle de construction supposé ? — Estimez le terrassement, le forage, le dynamitage, le soutènement, les équipements et la main-d'œuvre d'un tunnel en forage et dynamitage pour obtenir un coût de projet complet et un BOQ.
-* **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Quel est le coût total des matériaux et des armatures pour l'infrastructure de fondation, et puis-je relier chaque valeur commerciale de l'offre aux dimensions mesurées ? — Calculez les volumes de béton de fondation, les surfaces de coffrage, les quantités de terrassement, le tonnage d'armatures via des bordereaux de façonnage automatisés et les valeurs du bordereau des quantités commercial à partir des dimensions structurelles mesurées.
+- 🎁 **[Modèle Excel mensuel CVR & régularisations de construction (Gratuit · $0+ PWYW)](https://github.com/HyVoid/construction-cvr-accruals-excel-template)** — *Commencez ici gratuitement :* rapprochez la valeur certifiée, les régularisations de chantier non facturées, le risque de variations et les prévisions de profit EAC en fin de mois.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Intégrez budgets, ordres de modification approuvés, facturation progressive SOV, retenues de garantie et trésorerie glissante dans un seul système de contrôle de projet.
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Standardisez l'estimation des appels d'offres de construction et transformez les estimations achevées en bibliothèques de coûts réutilisables.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Comparez les estimations de construction aux coûts réels tout au long de l'exécution du projet à l'aide de formats standard AIA.
+- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Calculez les volumes de béton de fondation, les surfaces de coffrage, les quantités de terrassement, les plans de ferraillage (BBS) et les valeurs de soumission BOQ à partir des dimensions structurelles mesurées.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Estimez l'excavation de tunnel par creusement et tir, le forage, le sautage, le soutènement, l'équipement et les besoins en main-d'œuvre dans un BOQ complet.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Comparez les sources d'énergie industrielles sur une base de TCO réel du cycle de vie de l'énergie utile.
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Appliquez les normes de calcul d'arbres DIN 743 aux décisions de conception technique.
+
+---
+
+## Questions, retours & mises à jour du produit
+
+Ce dépôt fait partie de la collection **Theseus Workshop** d'outils d'aide à la décision professionnelle légers et réutilisables. Les retours sont bienvenus, y compris les questions sur l'utilisation du classeur, les lacunes de workflow, les problèmes de calcul reproductibles et les idées d'amélioration de l'outil.
+
+- **Questions et aide à l'utilisation :** [Ouvrir une discussion](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions)
+- **Idées et suggestions de workflow :** [Partager une idée](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas)
+- **Mises à jour du produit :** [Suivre les mises à jour du produit](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates)
+- **Bugs techniques :** utilisez le formulaire d'issue **Signaler un bug** de ce dépôt. Veuillez inclure la version du classeur / de l'outil, la zone de workflow concernée, le résultat attendu vs. réel et les étapes de reproduction.
+
+### Avis de confidentialité & de traitement des données
+
+Ne soumettez pas d'adresses de clients, de plans de construction, de documents d'appels d'offres en cours, de soumissions de fournisseurs ou de tarifs de sous-traitants. Utilisez des exemples synthétiques ou suffisamment anonymisés pour signaler un problème. Ne publiez pas de classeurs bruts, de registres clients / fournisseurs / employés / locataires / propriétés / investisseurs / production / paie / transactions, de données commerciales confidentielles, d'identifiants ou de captures d'écran contenant des informations sensibles dans des issues ou discussions GitHub publiques.
+
+Pour les outils basés sur le navigateur, ne déduisez pas le comportement de stockage, de transmission ou de conservation des données de la seule interface utilisateur. Examinez l'implémentation actuelle et les notes applicables de traitement des données avant de tester avec des données professionnelles réelles. En cas de doute, utilisez uniquement des données synthétiques.
 
 ## Licence
 
-Ce projet est publié sous la **licence Apache 2.0**. Consultez le fichier [`LICENSE`](https://www.google.com/search?q=LICENSE) pour le texte complet de la licence.
-
+Ce projet est publié sous la **licence Apache 2.0**. Voir le fichier [LICENSE](LICENSE) pour le texte complet de la licence.
