@@ -612,7 +612,7 @@ Este repositorio forma parte de la colección **Theseus Workshop** de herramient
 - **Preguntas y ayuda de uso:** [Abre una discusión](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions)
 - **Ideas y sugerencias de flujo de trabajo:** [Comparte una idea](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas)
 - **Actualizaciones del producto:** [Sigue las actualizaciones del producto](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates)
-- **Errores técnicos:** usa el formulario de problema **Report a bug** en este repositorio. Incluye la versión del libro/herramienta, el área relevante del flujo de trabajo, el resultado esperado vs. el real y los pasos reproducibles.
+- **Errores técnicos:** usa el formulario de problema [**Report a bug**](https://github.com/HyVoid/residential-boq-template/issues/new?template=bug-report.yml) en este repositorio. Incluye la versión del libro/herramienta, el área relevante del flujo de trabajo, el resultado esperado vs. el real y los pasos reproducibles.
 
 ### Aviso de privacidad y manejo de datos
 
