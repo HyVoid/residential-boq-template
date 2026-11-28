@@ -1,182 +1,189 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Gratis Excel-sjabloon voor kostencalculatie in de woningbouw: direct bruikbare calculator voor bouwkosten van een woning, materiaalopmeting (hoeveelhedenstaat, BOQ) & spreadsheet voor kostencalculatie per project voor beginners
-<img width="1047" height="790" alt="image" src="https://github.com/user-attachments/assets/bbbf18ff-9749-4d98-a021-5d347d8280c1" />
+# Bouwkostenraming woningbouw & BOQ Excel-sjabloon (gratis webcalculator) — kostenraming met 16 CSI-divisies, materiaalopname & kostenadministratie per klus
 
+<img width="1047" height="790" alt="Residential Construction Estimating & BOQ Excel Dashboard Preview" src="https://github.com/user-attachments/assets/bbbf18ff-9749-4d98-a021-5d347d8280c1" />
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Web%20Browser%20%2B%20Excel%20365-informational.svg)](#)
-[![Standard](https://img.shields.io/badge/Structure-16%20CSI%20Divisions-orange.svg)](#)
-[![Skill Level](https://img.shields.io/badge/Skill%20Level-Beginner%20Friendly%20%2F%20No%20Formulas%20Needed-success.svg)](#)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+![Excel Workbook: One-Time Purchase](https://img.shields.io/badge/Excel%20Workbook-One--Time%20Purchase-0F766E.svg)
+![Interactive Demo: Free Web Calculator](https://img.shields.io/badge/Web%20Calculator-Free%20in%20Browser-217346.svg)
+![Standard: 16 CSI Divisions](https://img.shields.io/badge/Structure-16%20CSI%20Divisions-orange.svg)
+![Guarantee: 30-Day Money-Back](https://img.shields.io/badge/Guarantee-30--Day%20Money--Back-D97706.svg)
 
-Dit **gratis Excel-sjabloon voor kostencalculatie in de woningbouw** en deze **direct in de browser bruikbare calculator voor de bouwkosten van een woning** vormen samen een kant-en-klare **spreadsheet voor bouwkostencalculatie**, een **sjabloon voor materiaalopmeting (BOQ)** en een **tracker voor bouwbudget versus werkelijke kosten**, gebouwd voor **nieuwe zelfbouwers, kleine hoofdaannemers, verbouwers van woningen en vastgoedflippers** zonder enige ervaring met Excel of boekhouding. Opgebouwd rond de industriestandaard **16 CSI MasterFormat-bouwdelen**, zet deze plug-and-play **spreadsheet voor kostencalculatie per project en inschrijvingsvergelijking van onderaannemers** tekeningmaten, eenheidsprijzen van materialen, lokale btw, uitvalpercentages en uurtarieven automatisch om in een nauwkeurig **bouwbudget per vierkante voet ($/sq ft)**—kopieer en plak simpelweg uw cijfers om direct bankklare projectramingen te genereren zonder één formule te schrijven of naar beneden te slepen.
+**Stop met 13 %+ van uw bouwbudget te verliezen aan vergeten materiaalverspilling, verborgen omzetbelasting en blinde onderaannemersoffertes.** Deze plug-and-play **Excel-werkmap voor bouwkostenraming woningbouw, materiaalopname (BOQ) & kostenadministratie per klus** is ontworpen voor **kleine algemene aannemers, verbouwers, huizen kopen, opknappen en winstgevend verkopen-specialisten, eigenaren als zelfbouwer en junior kostenramers** die in enkele minuten bankklare **16 CSI MasterFormat**-budgetten en nauwkeurige **kosten per vierkante voet ($/sq ft)**-ramingen willen—zonder ook maar één Excel-formule te schrijven of te slepen.
 
-Test de live rekenmotor gratis direct in uw browser, of download de ontgrendelde Microsoft Excel-werkmap om uw vaste calculatieworkflow te standaardiseren, met 30 dagen niet-goed-geld-terug-garantie.
-
-> 🌐 **[Start de gratis online calculator voor bouwkosten van een woning & interactieve opmetingspreview van de hoeveelhedenstaat (BOQ) (geen registratie of download nodig — direct in de browser)](https://hyvoid.github.io/residential-boq-template/)**
-> *Test live hoeveelhedenopmetingen, pas uitvalpercentages van materialen aan en bekijk het executive KPI-dashboard voor de bouw rechtstreeks in uw browser.*
+> ### Drie manieren om vandaag nog te starten
 >
-> 📥 **[Download het direct bruikbare Excel-sjabloon voor kostencalculatie en kostencalculatie per project in de woningbouw (.xlsx hoofdbestand voor onbeperkt aantal projecten)](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)**
-> *Ontvang het vooraf gebouwde, volledig geautomatiseerde Microsoft Excel-bestand met ingebouwde rekenmotoren voor onbeperkte klantoffertes, vergelijkingen van onderaannemersoffertes en kostenbewaking over meerdere projecten.*
+> - 📥 **Volledige ontgrendelde Excel-werkmap downloaden (eenmalige aankoop · 30 dagen geld-terug-garantie zonder vragen):** [**Het woningbouw-kostenraming & BOQ Excel-masterbestand (.xlsx) ophalen op Theseus Workshop**](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating) — kant-en-klare `.xlsx`-werkmap met 7 tabbladen, automatische verspillingsberekening, omzetbelasting, offertevergelijking en budget-versus-werkelijk-waarschuwingen. Herbruikbaar voor onbeperkt veel bouwprojecten, 100% offline, nul SaaS-abonnementen.
+> - 🌐 **Eerst de live kostencalculator testen (100% gratis in de browser · geen registratie):** [**De gratis webgebaseerde huisbouw-kostencalculator & interactieve BOQ-preview starten**](https://hyvoid.github.io/residential-boq-template/) om live opnames te doen, verspillingsfactoren aan te passen en het dashboard te inspecteren vóór het downloaden.
+> - 🎁 **Eerst gratis een offline Theseus Workshop Excel-bestand testen?** Begin met onze [**gratis maandelijkse bouw CVR & Accruals Excel-sjabloon ($0+ Betaal wat je wilt)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_boq_readme_crosslink) om onze macrovrije plug-and-play Excel-kwaliteit offline te inspecteren voordat u upgradet naar deze ramingwerkmap.
 
 ---
 
-## Wat u ermee bijhoudt: kostenbeheersing in de bouw, materiaalopmeting & matrix voor inschrijvingsvergelijking
+## Waar dit past in uw bouw-toolkit (combineert met onze gratis CVR-sjabloon)
 
-In plaats van uw projectcijfers te laten rondslingeren tussen houtleveranciersoffertes, papieren servetten en kapotte spreadsheets, koppelt dit **sjabloon voor bouwkostencalculatie en kostencalculatie per project** uw grootste financiële blinde vlekken rechtstreeks aan geautomatiseerde Excel-uitvoer:
+Gebruikt u onze **gratis maandelijkse bouw CVR & Accruals-sjabloon** al om de winst aan het einde van de maand te auditen? **Deze woon-BOQ- & ramingwerkmap is de essentiële stroomopwaartse basis**—zodat uw aanbiedingen, onderaannemersoffertes en vakwerkbudgetten vanaf dag 1 nauwkeurig beginnen.
 
-| Veelvoorkomend pijnpunt bij bouwbudgettering & zoekintentie | Wat u bijhoudt in deze plug-and-play hoeveelhedenstaat-spreadsheet (BOQ) | Geautomatiseerde oplossing voor kostenbeheersing & winstbescherming |
+| Projectfase | Aanbevolen Theseus Workshop-toolkit | Wat het voor u oplost |
+|---|---|---|
+| **1. Vóór de bouw & dagelijkse vakkosten** | **Deze werkmap: woon-BOQ, raming & kostenadministratie per klus** *(fundamentele eenmalige aankoop)* | Materiaalopname (QTO), verspilling- & omzetbelastingberekeningen, `$/sq ft`-budgetten voor 16 CSI-divisies, **offertevergelijking van onderaannemers (`Sub A/B/C`)** en live `⚠️ OVER BUDGET`-divisietracking. |
+| **2. Realiteitscheck van de winst aan het einde van de maand** | [**Gratis maandelijkse bouw CVR & Accruals-sjabloon**](https://github.com/HyVoid/construction-cvr-accruals-excel-template) *(Gratis · $0+ PWYW)* | Reconcilieert boekwinst versus niet-gefactureerde bouwplaatsaccruals, betwist variatierisico en Estimate at Completion (EAC) aan het einde van de maand. |
+| **3. Volledige commerciële facturatie & cashflow** | [**Single-Project Management & Cash Flow Control**](https://github.com/HyVoid/construction-project-management-excel) *(systeem voor de volledige levenscyclus)* | Beheert goedgekeurde change orders, SOV/AIA-tussentijdse facturatie, inhoudingen (retainage), AP/AR en doorlopende cashflowruimte. |
+
+---
+
+## Wat deze raming- & BOQ-werkmap automatisch bijhoudt
+
+In plaats van bouwcijfers te verspreiden over houthandel-PDF's, sms'jes en kapotte spreadsheets, zet dit **sjabloon voor bouwkostenraming en kostenadministratie per klus** ruwe plattegrondinvoer om in duidelijke zakelijke beslissingen:
+
+| Vaak pijnpunt bij bouwbudgetten | Wat deze plug-and-play BOQ-werkmap bijhoudt | Automatische kostenbeheersing & winstbescherming |
 | :--- | :--- | :--- |
-| **"Hoeveel extra materiaal moet ik inkopen voor uitval en btw?"** *(Te weinig materiaal bestellen en onverwachte belastingkosten slikken)* | **Hoeveelhedenopmeting (QTO), uitvalpercentages voor materialen & opbouw van btw** | Past automatisch wereldwijde of per regel ingestelde **uitvalpercentages voor materialen (`5%–15%+`)** toe en telt daar de **lokale btw over materialen** bij op, om ruwe tekeningmaten om te zetten in exacte **bestelhoeveelheden voor de bouwmaterialenhandel**. |
-| **"Hoe bepaal ik de prijs per vierkante voet voor arbeid, materialen en materieel?"** *(Te lage eenheidsprijzen hanteren en brutomarge verliezen)* | **Kostenopbouw per regel met eenheidsprijzen (`$/sq ft`, `$/lf`, `$/cu yd`, `$/ea`)** | Scheidt en berekent **materialkosten inclusief btw, loonkosten van ploegen en tarieven voor materieelhuur en onderaanneming** voor elke afzonderlijke regel in de hoeveelhedenstaat, zonder handmatig rekenwerk op een calculator. |
-| **"Waar gaat mijn bouwbudget eigenlijk naartoe?"** *(Geen zicht op het budget per vakgebied over 16 bouwfasen)* | **Kostenopsplitsing over 16 CSI MasterFormat-bouwdelen & kosten per vierkante voet** | Voegt honderden opmetingsregels automatisch samen tot **16 standaard bouwvakken in de woningbouw** (fundering, ruwbouw, sanitair, elektra, HVAC, afwerking) en toont exact **het budgetaandeel per vak en `$/sq ft`**. |
-| **"Hoe weet ik of een offerte van een onderaannemer te hoog is of werk mist?"** *(Te veel betalen aan leveranciers of intrappen in te lage biedingen)* | **Vergelijkingsblad voor onderaannemersoffertes naast elkaar (`Sub A vs. Sub B vs. Sub C`)** | Vergelijkt maximaal drie concurrerende aannemersoffertes met uw **interne referentiewaarde uit de hoeveelhedenstaat (BOQ)** en markeert automatisch de **laagste inschrijver, het dollarbedrag van het verschil en de `%` opslag of onderbieding**. |
-| **"Hoe volg ik mijn bouwuitgaven voordat mijn geld op is?"** *(Kostenoverschrijdingen pas ontdekken als de rekening leeg is)* | **Realtime tracker voor bouwbudget versus werkelijke kosten & afwijkingen** | Vergelijkt actuele facturen van de bouwplaats met de goedgekeurde deelbudgetten en activeert direct een visuele melding `⚠️ OVER BUDGET` zodra een vak boven zijn toegestane bedrag uitkomt. |
-| **"Hoe presenteer ik een professioneel bouwbudget aan een bank of klant?"** *(Rommelige voorstellen die door kredietverstrekkers worden afgewezen)* | **Executive KPI-dashboard voor de bouw, onvoorziene reservering & top 3 kostenposten** | Genereert een overzichtelijke samenvatting op één scherm met **directe harde kosten, buffer voor onvoorziene uitgaven (`%`), totale raming, algemene `$/Sq Ft` en de top 3 kostenbepalende vakken** voor bouwleningen of goedkeuring door de klant. |
+| **"Hoeveel extra materiaal moet ik kopen voor verspilling en omzetbelasting?"** *(te weinig materiaal bestellen & verborgen belasting slikken)* | **Hoeveelheidsopname (QTO), verspillingsfactoren voor materiaal & opbouw van omzetbelasting** | Past automatisch globaal of per regel **materiaalverspilling (`5%–15%+`)** toe en berekent **omzetbelasting alleen over materialen**, waarbij ruwe plattegrondmaten worden omgezet in exacte **inkoophoeveelheden bij de bouwmarkt**. |
+| **"Hoe prijs ik arbeid, materiaal en apparatuur per vierkante voet?"** *(te laag offreren & marge verliezen)* | **Opbouw van eenheidskosten per regel (`$/sq ft`, `$/lf`, `$/cu yd`, `$/ea`)** | Scheidt **belast materiaal, arbeidskosten van ploegen en apparatuur-/onderaannemerstarieven** voor elke BOQ-regel, zonder handmatig rekenwerk. |
+| **"Waar gaat mijn bouwbudget eigenlijk naartoe?"** *(budgetblindheid per vakwerk)* | **Roll-up over 16 CSI MasterFormat-divisies & kosten per vierkante voet** | Groepeert automatisch honderden opnameregels in **16 standaard woningbouwvakwerken** (fundering, constructie, loodgieterswerk, elektriciteit, HVAC, afbouw) en toont exact **aandeel per vakwerk `%` en `$/sq ft`**. |
+| **"Is deze onderaannemersofferte te hoog—of gevaarlijk laag?"** *(te veel betalen aan leveranciers of door change orders verrast worden)* | **Onderaannemersoffertes naast elkaar (`Sub A vs. Sub B vs. Sub C`)** | Legt tot drie concurrerende offertes naast uw **interne BOQ-basislijn** en vlagt onmiddellijk de **laagste bieder, dollarafwijking en `%`-opslag/onbieding**. |
+| **"Hoe vang ik overschrijdingen op voordat mijn geld op is?"** *(het pas ontdekken als de bouw voorbij is)* | **Realtime tracker voor budget versus werkelijke uitgaven & afwijkingen** | Vergelijkt lopende facturen met goedgekeurde divisiebudgetten en flitst direct `⚠️ OVER BUDGET` zodra een vakwerk zijn toewijzing overschrijdt. |
+| **"Hoe overhandig ik een bank of klant een schoon, geloofwaardig budget?"** *(rommelige offertes die leningen blokkeren of opdrachten kosten)* | **Executive KPI-dashboard, reservebuffer & top 3-kostendrijvers** | Levert een schoon overzicht op één scherm met **basiskosten (hard costs), reservebuffer (`%`), totaalraming, algemene `$/Sq Ft` en de top 3-kostendrijvende vakwerken**. |
 
 ---
 
-## Praktijkscenario's voor bouwkostencalculatie: wie zoekt dit hulpmiddel en wanneer gebruikt u het
+## Spreadsheetvoorbeeld
 
-Of u nu een huis vanaf nul bouwt of één kamer renoveert, deze **spreadsheet voor het bouwbudget van een woning** is ontworpen voor projecten met een concrete aanleiding, waarbij u binnen minuten antwoorden nodig hebt in plaats van weken:
+Wilt u de tabbladen, indeling en berekeningsstructuur inspecteren vóór aankoop? Verken de alleen-lezen preview in Google Sheets:
 
-- **Zelfbouwers die voor het eerst een bouwlening aanvragen:** stel een **spreadsheet met kostenopsplitsing over 16 bouwdelen** samen die klaar is voor de kredietverstrekker, met duidelijke **benchmarks voor de kosten per vierkante voet (`$/sq ft`)** en buffers voor onvoorziene harde kosten, nog voordat u grond koopt of met bankmedewerkers spreekt.
-- **Kleine hoofdaannemers die inschrijven op woningen in opdracht (1.500–3.500+ sq ft):** stel een complete **hoeveelhedenstaat (BOQ) voor woningbouw** samen—van grondwerk en betonvloeren tot ruw timmerwerk, MEP (werktuigbouwkunde, elektra, sanitair) en binnenafwerking—om in het hoogseizoen binnen een uur nauwkeurige voorstellen aan klanten te versturen.
-- **Verbouwers die keukens, badkamers en kelders prijzen:** gebruik dit als **Excel-blad voor het ramen van verbouwingskosten** om complete renovaties en aanbouwen te prijzen, waarbij variabele uitvalpercentages bij sloop (`10%–15%`) en wisselende budgetten voor afwerking strikte **bewaking van de onvoorziene reservering** vereisen.
-- **Vastgoedflippers en investeerders die renovatiekosten ramen (BRRRR / fix-and-flip):** draai snel een **kostenraming voor woningrenovatie en budget voor de werkomschrijving (SOW)** voordat u een bod uitbrengt op een verwaarloosd pand, zodat uw Maximum Allowable Offer (MAO) rekening houdt met werkelijke materiaalbelasting, uurtarieven en opslagen van aannemers.
-- **Projectmanagers en huiseigenaren die offertes van onderaannemers controleren:** stop met gissen waarom drie loodgieters of timmerlieden totaal verschillende prijzen gaven. Gebruik het ingebouwde **sjabloon voor het vergelijken van onderaannemersoffertes** om ontbrekende werkonderdelen of opgeblazen seizoensprijzen te signaleren voordat u een contract tekent.
-- **Actieve kostenbeheersing op de bouwplaats (om cashflowproblemen halverwege de bouw te voorkomen):** schakel naadloos over van calculatie vóór de bouw naar **het bijhouden van bouwbudget versus werkelijke kosten** op locatie, zodat overschrijdingen bij fundering of ruwbouw vroeg genoeg aan het licht komen om nog bij te sturen op de budgetten voor kasten of vloeren later in het traject.
+**[Bekijk het live spreadsheetvoorbeeld op Google Sheets](https://docs.google.com/spreadsheets/d/1tdW6S108rLNGHM1scdiwruNoZ08HrQ2U/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Opmerking over compatibiliteit:** De Google Sheets-preview kan af en toe `#NAME?`-waarschuwingen tonen door verschillen in dynamische matrices tussen Google Sheets en Microsoft Excel. Dit zijn uitsluitend preview-artefacten en komen niet voor in het gedownloade `.xlsx`-werkbestand wanneer het in Microsoft Excel wordt geopend.
 
 ---
 
-## Voor wie dit bedoeld is: rollen in de bouw, software-alternatieven & specifieke toepassingen
+## Praktijksituaties: wanneer dit plug-and-play ramingsblad zich op dag 1 terugbetaalt
 
-U hebt geen bedrijfssoftware voor bouw-ERP van `$500+/maand` nodig (zoals Procore of Buildertrend) en geen diploma bouwkostendeskundige om uw bouwkosten onder controle te houden. Deze toolkit is specifiek gebouwd voor:
-
-- **Kleine hoofdaannemers & woningbouwers** die een **direct bruikbaar Excel-sjabloon voor kostencalculatie in de woningbouw** zoeken om offertes aan klanten te standaardiseren, brutowinstmarges te beschermen en kapotte spreadsheetformules in het hoogseizoen te elimineren.
-- **Doe-het-zelvers & zelfbouwers** die een **gebruiksvriendelijke spreadsheet voor het berekenen van bouwkosten** nodig hebben om hoeveelheden voor materiaalopmeting te ramen, offertes van vakmensen te vergelijken en hun eigen bouwbudget te beheren zonder een professionele calculator in te huren.
-- **Verbouwingsaannemers & klusbedrijven** die een **gratis of voordelig alternatief voor software voor woningrenovatie in Excel** zoeken om keukenrenovaties, badkamerupgrades en aanbouwen te prijzen zonder maandelijkse SaaS-abonnementen te betalen.
-- **Vastgoedinvesteerders, flippers & wholesalers** die een **kostenramings- en bouwbudgettracker voor fix-and-flip** nodig hebben om deals binnen enkele minuten te beoordelen, uitbetalingen aan aannemers te volgen en te voorkomen dat renovatie-overschrijdingen de winst van de flip opeten.
-- **Junior bouwcalculatoren & bouwkostendeskundigen** die een **vooraf opgemaakt opmetingssjabloon voor de hoeveelhedenstaat (BOQ) met 16 CSI-bouwdelen** willen dat automatisch uniforme btw-regels, uitvalvermenigvuldigers per regel en totalen per bouwdeel afdwingt bij elke projectrevisie.
-- **Onderaannemers & leidinggevenden van gespecialiseerde vakbedrijven (ruwbouw, gipsplaten, dakbedekking, beton, MEP)** die een **eenvoudig Excel-blad voor kostencalculatie per project en materiaalopmeting** nodig hebben om exacte bestelhoeveelheden bij de bouwmaterialenhandel, loonkosten van ploegen en materieelkosten te berekenen voordat zij een inschrijving indienen.
-
-*(Reikwijdte: dit hulpmiddel is een specifieke spreadsheet voor calculatie vóór de bouw, materiaalopmeting, inschrijvingsvergelijking en kostenbeheersing per bouwdeel. Het vervangt geen boekhoudsoftware met dubbel boekhouden zoals QuickBooks, en evenmin complexe planningspakketten met Gantt-diagrammen.)*
+- **Kleine algemene aannemers (GC's) die maatwerkhuizen offeren (1,500–3,500+ sq ft):** Bouw een volledige **besteksstaat met hoeveelheden (BOQ) voor woningen over 16 divisies**—van graafwerk en beton tot constructie, MEP en afbouw—om in het hoogseizoen in minder dan een uur nauwkeurige, winstgevende klantoffertes te sturen.
+- **Eerste keer eigenaar als zelfbouwer die een bouwlening aanvraagt:** Presenteer kredietverstrekkers een bankklare **huisbouw-budget over 16 divisies** met `$/sq ft`-benchmarks en een duidelijke buffer voor harde kosten.
+- **Woningrenovatie-bedrijven die keuken-, bad- & kelderrenovaties prijzen:** Prijs volledige renovaties en uitbreidingen nauwkeurig waar hoge sloop-/snijverspilling (`10%–15%`) en afbouwtoleranties strak reserverbeheer vereisen.
+- **Huizen kopen, opknappen en winstgevend verkopen-investeerders die renovaties waarderen (BRRRR / Fix-and-Flip):** Voer een snelle **renovatie-scope-of-work (SOW)-kostenraming** uit vóór het uitbrengen van een bod en bescherm uw Maximum Allowable Offer (MAO) tegen verrassende belasting- en arbeidsoverschrijdingen.
+- **Onderaannemersoffertes auditen vóór ondertekening:** Stop met gissen waarom drie loodgieters of timmerlieden wild verschillende cijfers offerteerden—leg alle drie de offertes in 2 minuten naast uw interne basislijn.
+- **Eenvoudige kostenadministratie per klus tijdens de bouw:** Blijf hetzelfde bestand gebruiken zodra het werk start om echte leveranciersbonnen te vergelijken met goedgekeurde vakwerkbudgetten en funderings- of constructie-overschrijdingen vroeg genoeg te vangen om afbouwtoewijzingen stroomafwaarts bij te sturen.
 
 ---
 
-## Snelstart-tutorial: kopieer-en-plak-workflow in 5 stappen om in 1 minuut bouwkostenanalist te worden
+## Voor wie deze raming- & kostenadministratiewerkmap is gebouwd
 
-De rekenkunde in de commerciële bouw is complex, maar **u hoeft niet te weten hoe u formules schrijft, cellen koppelt of dubbelklikt om vergelijkingen door een kolom te slepen**. Elke rekenregel, elk totaal per CSI-bouwdeel, elke belastingvermenigvuldiger en elke budgetwaarschuwing is al vooraf ingebouwd in de werkmap. U plakt alleen uw cijfers in de invoercellen en leest het geautomatiseerde beslissingsdashboard.
+U hebt geen `$500/month`-enterprise-bouwsoftware of een ramingsdiploma nodig om uw bouwbudget te beschermen. Deze werkmap is speciaal gebouwd voor:
 
-**Probeer het nu meteen:** [Klik hier om de gratis interactieve online calculator voor bouwkosten te openen](https://hyvoid.github.io/residential-boq-template/) in een nieuw browsertabblad en test deze 5 stappen live voordat u uw permanente Excel-kopie downloadt.
+- **Kleine algemene aannemers & woningbouwers** die een snel, herhaalbaar **Excel-sjabloon voor bouwkostenraming woningbouw** willen om klantoffertes te standaardiseren zonder maandelijkse SaaS-kosten.
+- **DIY-eigenaren als zelfbouwer & zelfbouw-woningbezitters** die een **beginnersvriendelijke huisbouw-kostencalculator** nodig hebben om materiaalbestellingen te verifiëren, vakoffertes te controleren en hun eigen bouwbudget te beheren.
+- **Verbouwingsaannemers & vakbazen (constructie, gipsplaten, dakbedekking, beton, MEP)** die een lichtgewicht **offline Excel-ramings- & materiaalopnameblad** zoeken om exacte bestellingen en ploeg-arbeidskosten snel te berekenen.
+- **Vastgoedinvesteerders & huizen kopen, opknappen en winstgevend verkopen-specialisten** die een herhaalbare **renovatiekostenraming & voorschotten-tracker** nodig hebben om te voorkomen dat budgetkruip de flipmarge wegvreet.
+- **Junior bouwkostenramers & assistent-hoeveelheidsurveyors** die een voorgeformatteerde **16 CSI-divisie BOQ-opnamesjabloon** willen met uniforme belastingregels, verspillingsmultiplicatoren en automatische roll-ups.
 
-1. **Stel uw projectregels één keer in, in 10 seconden (`00_Parameters` — algemene kostenregels).**
-   Open het tabblad `00_Parameters` en voer drie basiscijfers in: uw **standaard uitvalpercentage voor materialen** (bijv. `5%`), uw **buffer voor onvoorziene bouwkosten** (bijv. `10%`) en uw **lokale btw-tarief** (bijv. `8%`). Het blad past deze regels automatisch toe op elk item dat u later invoert—geen handmatig rekenwerk met belasting of uitval nodig.
-
-2. **Voer uw woonoppervlak in voor automatische benchmarks in `$/Sq Ft` (`01_Project_Setup` — projectbasis).**
-   Typ uw projectnaam en **bruto vloeroppervlak (sq ft)** (bijv. `2,400 sq ft`) in `01_Project_Setup`. Het sjabloon gebruikt dit vloeroppervlak direct als hoofdnoemer om uw **kosten per vierkante voet (`$/sq ft`)** te berekenen voor elk bouwdeel en elke samenvattingskaart.
-
-3. **Kopieer en plak uw materiaalmaten en eenheidsprijzen (`02_BOQ_Takeoff` — geautomatiseerde materiaalopmeting).**
-   Ga naar `02_BOQ_Takeoff`, kies een bouwfase uit het **keuzemenu met 16 CSI-bouwdelen** en typ of plak uw netto tekeningmaat (`Base Qty`) plus uw **eenheidsprijzen voor materiaal, arbeid en materieel**.
-   *Automatisering zonder formules:* u hoeft nooit een formulecel naar beneden te slepen. De spreadsheet verhoogt uw netto hoeveelheid direct voor zaaguitval, telt lokale btw alleen bij het materiaaldeel op, voegt arbeid en materieel samen en geeft uw exacte **totale kosten per regel** weer.
-
-4. **Voer offertes van onderaannemers in en volg werkelijke facturen (`03_Division_Summary` tot `05_Budget_Cost_Control` — inschrijvingsvergelijking en afwijkingsmeldingen).**
-   - Kijk in `03_Division_Summary` om te zien hoe uw honderden regels automatisch zijn gegroepeerd in **16 overzichtelijke totalen per bouwvak in de woningbouw**.
-   - Plak maximaal 3 aannemersoffertes (`Sub A`, `Sub B`, `Sub C`) in `04_Subcontractor_Comparison`. Het blad markeert direct de **laagste leveranciersinschrijving** en toont het exacte dollarbedrag en `%` verschil ten opzichte van uw interne raming, zodat u nooit te veel betaalt.
-   - Zodra de bouw begint, voert u uw werkelijke leveranciersbonnen en betalingen aan aannemers in bij `05_Budget_Cost_Control`. Als een vak `$1` boven het budget uitkomt, verschijnt onmiddellijk een automatische waarschuwing `⚠️ OVER BUDGET`.
-
-5. **Lees uw executive beslissingsdashboard van 1 minuut en download het herbruikbare Excel-bestand (`06_Dashboard`).**
-   Open `06_Dashboard` om uw volledige financiële beeld op één scherm te zien: **basisraming, onvoorziene reservering, totale bouwkosten, algemene `$/Sq Ft` en de top 3 kostenbepalende bouwdelen**.
-
-   > 🚀 **Stop met worstelen met spreadsheets—haal vandaag nog uw analyse-engine voor bouwkosten van 1 minuut in huis:**
-   > Hoewel u jaren nodig hebt om de commerciële logica achter bouwkostencalculatie onder de knie te krijgen, **heeft dit Excel-sjabloon elke berekening tussen bladen, elke dynamische `SUMIFS`-samentelling en elke automatische formule-update al voor u gebouwd**. U hoeft niet eens op de hoek van een cel te dubbelklikken om formules naar beneden te kopiëren—download het bestand naar uw computer, plak uw projectcijfers erin en krijg binnen 60 seconden direct professionele financiële duidelijkheid.
-   >
-   > Of u nu een absolute beginner bent die zijn eerste huis bouwt of een drukke aannemer die op zondagavond vijf offertes naast elkaar legt, laat deze geautomatiseerde werkmap het rekenwerk doen, zodat u zich kunt richten op uw bouwplaats en op het sluiten van winstgevende deals.
-   >
-   > 👉 **[Download hier het ontgrendelde, herbruikbare Excel-sjabloon voor kostencalculatie in de woningbouw (.xlsx)](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)** — *Gebruik het één keer om uw huidige raming vast te leggen en sla het daarna op als uw permanente hoofdsjabloon, zodat u bij elk toekomstig bouw-, verbouw- en renovatieproject verder kunt kopiëren en plakken.*
+*(Scope-opmerking: dit is een fundamentele werkmap voor raming vóór de bouwfase, materiaalopname, offertevergelijking en budgettracking op divisieniveau. Voor volledige commerciële tussentijdse facturatie, inhoudingen en doorlopende cashflowprognoses, zie onze [Single-Project Management & Cash Flow-werkmap](https://github.com/HyVoid/construction-project-management-excel).)*
 
 ---
 
-## De zakelijke logica & methodologie: 4 verborgen financiële blinde vlekken die bouwwinst wegvagen (en hoe dit blad ze automatisch verhelpt)
+## Snelle startworkflow: van plattegrondcijfers naar executive budget in 5 eenvoudige stappen
 
-U hebt geen boekhouddiploma of opleiding in bouwmanagement nodig om deze spreadsheet te gebruiken. Sterker nog: de meeste beginners, zelfbouwers en kleine aannemers verliezen geld niet omdat ze geen basisoptelling kunnen maken, maar omdat ze de **vier structurele commerciële valkuilen** niet kennen die in elk bouwproject verscholen zitten.
+Elke rekenregel, divisie-roll-up, belastingmultiplicator en budgetoverschrijdingswaarschuwing zit al in de werkmap ingebouwd. **U schrijft nooit een formule of sleept een cel omlaag**—plak uw cijfers gewoon in de daarvoor bestemde invoerkolommen en lees het dashboard af.
 
-Hier zijn de objectieve financiële feiten waarom bouwbudgetten mislukken—en hoe de ingebouwde zakelijke logica van deze werkmap uw cashflow automatisch beschermt:
+**Wilt u deze 5 stappen nu gratis testen?** [Open de gratis interactieve webcalculator](https://hyvoid.github.io/residential-boq-template/) in een nieuw tabblad.
 
-### 1. De blinde vlek "tekeningmaat versus kassabon" (het verborgen materiaalverlies van 13,4%)
-
-- **Het objectieve feit:** als een plattegrond `1,000 sq ft` hardhouten vloer aangeeft tegen `$4.00/sq ft`, begroot een beginner `$4,000`. In de fysieke bouw moeten planken worden gezaagd om in hoeken te passen (wat `5%–10%` onherstelbaar zaagafval oplevert), en de bouwmaterialenhandel rekent bij de kassa staats- en lokale btw (`6%–10%`) over de totale materiaalbestelling.
-- **Uw financiële risico:** met een standaard zaaguitval van `5%` en `8%` btw rekent de houthandel u feitelijk `$4,536` (`1,000 × 1.05 × $4.00 × 1.08`), niet `$4,000`. **U verliest 13,4% op elke materiaalinkoop nog voordat er één arbeider de bouwplaats betreedt.** Over `$100,000` aan bouwmaterialen is dat **$13,400 aan pure winst of eigen spaargeld die direct verdampt**, alleen doordat de samengestelde rekensom van uitval en belasting wordt vergeten.
-- **Uw ingebouwde voordeel:** u hoeft deze rekensom nooit te onthouden. U typt alleen de ruwe tekeningmaat (`1,000`) en de winkelprijs (`$4.00`) in. De spreadsheet verhoogt uw bestelhoeveelheid automatisch voor uitval en telt lokale btw alleen over materialen op (arbeid blijft btw-vrij), waardoor de kassaprijs vanaf dag één voor 100% klopt.
-
-### 2. De valkuil van de "blinde onderaannemersofferte" (te veel betalen in het hoogseizoen versus loktarieven als lokmiddel voor meerwerk)
-
-- **Het objectieve feit:** wanneer u drie sanitair- of ruwbouwaannemers om een inschrijving vraagt, geven zij zelden een gespecificeerde opbouw—u krijgt één bedrag ineens (bijv. `$38,000`, `$48,500` en `$52,000`). Zonder uw eigen onafhankelijke, van onderaf opgebouwde kostenbasis hebt u geen enkele onderhandelingsruimte.
-- **Uw financiële risico:** als u blind voor de aannemer van `$38,000` kiest om geld te besparen, ontdekt u vaak halverwege de bouw dat zij expres inbouwdelen of afvoerkosten hebben weggelaten—en dan krijgt u `$12,000` aan verplichte meerwerkopdrachten voor de kiezen op een moment dat u hen niet meer kunt ontslaan. Andersom kunnen tijdens een druk bouwseizoen alle drie de aannemers hun offerte met `20%+` hebben opgeblazen, omdat ze weten dat u niet weet wat materialen en arbeid werkelijk kosten.
-- **Uw ingebouwde voordeel:** omdat `02_BOQ_Takeoff` uw werkelijke interne basiskosten berekent (zeg `$42,000`), legt het plakken van die drie leveranciersoffertes in `04_Subcontractor_Comparison` direct de waarheid bloot. U ziet meteen op het scherm dat `$38,000` gevaarlijk laag is ingeschreven (`-9.5%` — controleer op ontbrekend werk!) en dat `$48,500` met `+$6,500 (+15.5%)` is opgeblazen. U beschikt over precies de gegevens die nodig zijn om binnen 2 minuten duizenden dollars van aannemersoffertes af te onderhandelen.
-
-### 3. De blinde vlek "80/20-kostenconcentratie" (uren verspillen aan het onderhandelen over de verkeerde dingen)
-
-- **Het objectieve feit:** beginners behandelen elke regel in een woningbouw als even belangrijk en brengen dagen door met zoeken naar `$200` korting op badkamerkranen of binnenverf, terwijl ze de structurele eenheidsprijzen negeren. In de economie van de woningbouw **verslinden slechts 3 van de 16 bouwdelen (doorgaans ruwbouw, beton/fundering en MEP) 50% tot 65% van uw volledige bouwbudget.**
-- **Uw financiële risico:** als uw totale raming `$30,000` hoger uitvalt dan wat u of uw bank zich kan veroorloven, levert bezuinigen op verf, hang- en sluitwerk of armaturen nooit de oplossing op. Ondertussen vernietigt een kleine calculatiefout van `5%` in ruwbouw of beton uw volledige onvoorziene reservering.
-- **Uw ingebouwde voordeel:** het tabblad `06_Dashboard` rangschikt en markeert automatisch uw **top 3 kostenbepalende bouwdelen** op basis van de totale financiële impact en de **kosten per vierkante voet (`$/sq ft`)**. In minder dan 60 seconden ziet een complete beginner precies welke 3 vakken het financiële voortbestaan van het project bepalen—waardoor u 100% van uw onderhandelings- en value-engineeringinspanning kunt richten op de plek waar het echte geld zit.
-
-### 4. De blinde vlek "bonnetjes in een schoenendoos achteraf" (er pas achter komen dat u blut bent als de klus klaar is)
-
-- **Het objectieve feit:** de meeste kleine bouwers en huiseigenaren maken een raming in één bestand en gooien de werkelijke bonnen van de bouwmarkt en de facturen van aannemers vervolgens in een map of een aparte boekhoudapp, om aan het einde van het project de som te maken.
-- **Uw financiële risico:** bouwkosten volgen elkaar op. Als grondwerk en fundering in maand 1 `$8,000` boven budget uitkomen en u dat pas ontdekt wanneer u in maand 6 uw bonnen optelt, **is die `$8,000` definitief weg—het komt rechtstreeks uit uw eigen zak of van uw nettowinst.**
-- **Uw ingebouwde voordeel:** deze werkmap koppelt uw initiële raming rechtstreeks aan `05_Budget_Cost_Control` in exact hetzelfde bestand. Zodra u een werkelijke factuur invoert, vergelijkt het blad uw **goedgekeurde budget versus werkelijke uitgaven** per bouwdeel. Als de fundering in maand 1 over het budget gaat, verschijnt direct een automatische waarschuwing `⚠️ OVER BUDGET`—u krijgt 5 maanden voorsprong om `$8,000` te schrappen uit keukenkasten, tegels of tuinaanleg later in het traject, zodat u de bouw alsnog binnen budget afrondt.
+1. **Stel globale kostenregels eenmalig in (`00_Parameters` — 10 seconden):**
+   Voer uw **standaard materiaalverspillingspercentage** (bijv. `5%`), **reservebuffer** (bijv. `10%`) en **lokale omzetbelastingpercentage** (bijv. `8%`) in. Elke positie hieronder erft deze regels automatisch.
+2. **Voer uw vloeroppervlak in (`01_Project_Setup`):**
+   Voer uw projectnaam en **bruto vloeroppervlak (sq ft)** in (bijv. `2,400 sq ft`) om live **kosten per vierkante voet (`$/sq ft`)**-benchmarks te voeden over elk vakwerk en elke KPI-kaart.
+3. **Kopieer & plak opnamematen & eenheidstarieven (`02_BOQ_Takeoff`):**
+   Kies een vakwerk uit de **16 CSI-divisie dropdown**, voer uw netto plattegrondhoeveelheid in (`Base Qty`) en geef **materiaal-, arbeids- en apparatuur-/sub-eenheidstarieven** op. Het blad berekent automatisch verspillingsgecorrigeerde hoeveelheden, telt omzetbelasting alleen op materiaal en telt elke regel op.
+4. **Vergelijk onderaannemersoffertes & registreer werkelijke uitgaven (`03_Division_Summary` → `05_Budget_Cost_Control`):**
+   - Bekijk `03_Division_Summary` voor automatische **divisie-totalen per vakwerk** en `$/sq ft`-opsplitsing.
+   - Plak tot drie aannemersoffertes (`Sub A`, `Sub B`, `Sub C`) in `04_Subcontractor_Comparison` om de laagste bieder en de exacte `$` / `%`-afwijking tegen uw interne raming te zien.
+   - Zodra facturen binnenkomen, registreert u echte uitgaven in `05_Budget_Cost_Control`—elk vakwerk over budget flitst direct `⚠️ OVER BUDGET`.
+5. **Presenteer uw budget op één scherm (`06_Dashboard`):**
+   Open `06_Dashboard` om **basisraming, reserve, totaal bouwkosten, algemene `$/Sq Ft` en de top 3-kostendrijvende divisies** te zien—klaar om te delen met klanten, partners of kredietbeoordelaars.
 
 ---
 
-## Handmatige ad-hoc Excel-spreadsheets versus dit vooraf gebouwde sjabloon voor kostenbeheersing over 16 bouwdelen
+## Gratis webcalculator versus volledige lokale Excel-werkmap
 
-De meeste beginners starten met een leeg Excel-blad of een eenvoudige tabel met 3 kolommen van een forum—om vervolgens toe te zien hoe hun budget instort zodra één kapotte `SUM`-formule of een vergeten belastingtarief de inschrijving verpest. Zo elimineert deze geautomatiseerde **werkmap voor bouwkostencalculatie en kostencalculatie per project** het risico van handmatige spreadsheets:
+| Kenmerk | Gratis online webcalculator | **Volledige lokale Excel-werkmap (eenmalige aankoop)** |
+|---|---|---|
+| **Beste voor** | Snelle 2-minuten browsertest van opnamewiskunde & dashboard | Echte klantoffertes, kredietbudgetten, renovatiebeoordeling & lopende kostenadministratie per klus |
+| **Onbeperkte regels & 16 CSI-divisies** | Sandbox-democapaciteit | **Volledig `.xlsx`-masterbestand met 7 tabbladen** met ondersteuning voor tot 10.000 BOQ-regels |
+| **Offertevergelijking van onderaannemers (`Sub A/B/C`)** | Preview-modus | Volledig geautomatiseerde leveranciersvergelijking & afwijkingsbenchmarking, per klus opgeslagen |
+| **Herbruikbaar voor onbeperkte projecten** | Reset in de browser | **Lokaal opslaan & voor altijd hergebruiken** voor elke bouw, verbouwing en flip |
+| **100% offline privacy** | Browsersessie | **Nul cloudopslag**—eenheidstarieven, leveranciersprijzen & marges blijven strikt op uw apparaat |
+| **Kosten & garantie** | Gratis preview | **Betaalbare eenmalige aankoop** · **30 dagen geld-terug-garantie zonder vragen** |
 
-| Taak bij bouwkostencalculatie & kostencalculatie per project | Leeg of zelfgemaakt handmatig Excel-spreadsheet (hoog foutrisico) | Dit geautomatiseerde Excel-sjabloon voor de hoeveelhedenstaat (BOQ) met 16 bouwdelen (plug-and-play beheersing) |
+> **Klaar om in enkele minuten nauwkeurige, bankklare ramingen te maken—en één schoon masterbestand bij elk toekomstig project te hergebruiken?**
+> 👉 [**Download de ontgrendelde woningbouw-kostenraming & BOQ Excel-werkmap (eenmalige aankoop · 30 dagen garantie)**](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)
+
+---
+
+## De bedrijfslogica: 4 verborgen kostenblinde vlekken die deze werkmap automatisch oplost
+
+De meeste beginners, zelfbouwers en kleine aannemers verliezen geld niet door complexe boekhouding—ze verliezen geld door **vier voorspelbare ramingsvalkuilen** die in elk woningbouwproject ingebakken zitten:
+
+### 1. De "plattegrond versus kassa"-blinde vlek (het verborgen materiaalverlies van 13,4%)
+- **De realiteit:** Als een plattegrond `1,000 sq ft` hardhout meet tegen `$4.00/sq ft`, budgetteert een beginner `$4,000`. Op een echte bouwplaats voegt snijverspilling `5%–10%` extra materiaal toe en rekent de bouwmarkt `6%–10%` lokale omzetbelasting bij de kassa.
+- **De financiële klap:** Bij `5%` verspilling en `8%` omzetbelasting is de kassabon **`$4,536`** (`1,000 × 1.05 × $4.00 × 1.08`), niet `$4,000`—een **direct margeverlies van 13,4%**. Bij `$100,000` aan materialen betekent dat **`$13,400`** verlies vóór dag 1.
+- **Hoe deze werkmap het oplost:** Voer alleen de netto plattegrondhoeveelheid (`1,000`) en de winkelprijs per eenheid (`$4.00`) in. Het blad verhoogt de hoeveelheid automatisch voor verspilling en rekent omzetbelasting alleen op materialen (ploeg-arbeid blijft belastingvrij).
+
+### 2. De "blinde onderaannemersofferte"-valkuil (te veel betalen versus lowball-change-order-lokmiddel)
+- **De realiteit:** Onderaannemers geven u meestal één totaalsomofferte (`$38,000`, `$48,500`, `$52,000`) zonder enige specificatie. Zonder uw eigen bottom-up basislijn onderhandelt u blind.
+- **De financiële klap:** Het `$38,000`-lowball blind kiezen leidt vaak tot `$12,000` aan change orders tijdens de bouw voor "uitgesloten" kranen of afvoer. Omgekeerd betekent het accepteren van `$48,500` in het hoogseizoen duizenden te veel betalen.
+- **Hoe deze werkmap het oplost:** `04_Subcontractor_Comparison` legt alle drie de biedingen direct naast uw volledig belaste, verspillingsgecorrigeerde BOQ-basislijn (stel `$42,000`) en legt onmiddellijk bloot of een bod verdacht laag (`-9.5%`) of opgeblazen (`+15.5%`) is.
+
+### 3. De "80/20-kostenconcentratie"-blinde vlek
+- **De realiteit:** Beginners verspillen dagen aan het zoeken naar `$200`-kortingen op kranen terwijl structurele eenheidstarieven worden genegeerd. In de woningbouw **verslinden slechts 3 van de 16 divisies (typisch constructie, beton/fundering en MEP) 50%–65% van het volledige budget.**
+- **Hoe deze werkmap het oplost:** `06_Dashboard` rangschikt automatisch uw **top 3-kostendrijvende divisies** op totaalkosten en `$/sq ft`—zodat u 100% van uw onderhandelingsenergie inzet waar het echte geld zit.
+
+### 4. De "schoenendoos-bonnen postmortem"-blinde vlek
+- **De realiteit:** Budgetteren in één blad en bonnen oppotten tot maand 6 betekent dat u een funderingsoverschrijding van `$8,000` pas ontdekt als het geld al weg is.
+- **Hoe deze werkmap het oplost:** `05_Budget_Cost_Control` zit in exact dezelfde werkmap. Registreer echte facturen per divisie en activeer in maand 1 direct een `⚠️ OVER BUDGET`-vlag—u houdt maanden over om `$8,000` te schrappen op stroomafwaartse kasten, tegels of tuinwerk.
+
+---
+
+## Handmatige DIY-spreadsheets versus deze geautomatiseerde 16-divisie BOQ-werkmap
+
+| Bouwkostenraming- & kostenbeheertaak | Leeg / handmatig DIY-Excelblad (hoog foutenrisico) | **Deze geautomatiseerde 16-divisie BOQ-werkmap (plug-and-play)** |
 | :--- | :--- | :--- |
-| **Materiaalopmeting (QTO) & rekenwerk met uitvalvermenigvuldigers** | Gebruikers typen handmatig hardgecodeerde vermenigvuldigers in celformules (`=1000*1.05`), waardoor hoeveelhedenopmetingen uit tekeningen en bestellingen bij de houthandel onmogelijk te controleren of bij te werken zijn. | Typ alleen uw netto tekeningmaat (`Base Qty`). Lege uitvalcellen erven automatisch het gecentraliseerde **standaard uitvalpercentage voor materialen** uit `00_Parameters`, terwijl aangepaste waarden per item (`5%–15%+`) mogelijk blijven zonder één formule aan te passen. |
-| **Scheiding tussen btw op materialen en arbeidskosten** | Beginners vergeten lokale btw volledig (en verliezen `6%–10%` op materialen) of passen btw per ongeluk toe op btw-vrije loonkosten van ploegen en materieelhuur. | Ingebouwde formules voor eenheidsprijzen tellen automatisch **aangepaste materiaalhoeveelheid × eenheidsprijs materiaal × lokaal btw-tarief** op, terwijl **arbeidstarieven** en **tarieven voor materieel en onderaanneming** netjes gescheiden blijven in aangrenzende kolommen. |
-| **Totalen per bouwdeel over 16 CSI MasterFormat-vakken** | Het invoegen van een nieuwe rij voor gipsplaten, hout of sanitair breekt statische bereiken zoals `=SUM(D2:D50)`, waardoor geruisloos duizenden dollars uit het totale inschrijvingsbedrag verdwijnen. | De dynamische `SUMIFS`-databasearchitectuur groepeert onbeperkt veel opmetingsregels automatisch in **16 gestandaardiseerde CSI-bouwdelen voor woningbouw** en berekent **`$/sq ft` per vak** zonder ooit een `SUM`-bereik te hoeven slepen, kopiëren of repareren. |
-| **Inschrijvingsvergelijking & controle van offertes van onderaannemers** | PDF-offertes van aannemers liggen in e-mailpostvakken zonder enige vergelijking naast uw interne basis voor materialen en arbeid. | De speciale matrix in `04_Subcontractor_Comparison` vergelijkt de inschrijvingen van `Sub A`, `Sub B` en `Sub C` met het totale bouwdeelbedrag uit uw interne hoeveelhedenstaat (BOQ) en markeert automatisch de **laagste leveranciersofferte, de naam van de winnende inschrijver en het exacte verschil in `$` en `%`**. |
-| **Actueel bouwbudget versus werkelijke projectkosten** | Werkelijke leveranciersbonnen en uitbetalingen aan onderaannemers worden bijgehouden in een apart schrift of bankafschrift, volledig losgekoppeld van de oorspronkelijke budgetten per bouwdeel. | `05_Budget_Cost_Control` zet uw **geraamde basis, goedgekeurde contractbudget en werkelijke uitgaven op de bouwplaats** per vak naast elkaar en geeft direct een automatische statusmarkering `⚠️ OVER BUDGET` of `✅ OK` zodra u een werkelijke uitgave plakt. |
-| **Rapportage aan kredietverstrekkers, investeerders & klanten** | Een rommelige tabel van 500 rijen overhandigen aan een bankmedewerker, vastgoedpartner of huiseigenaar zorgt voor verwarring, vertraagde leninggoedkeuringen en verloren aannemersopdrachten. | `06_Dashboard` vat uw volledige werkmap direct samen in een overzichtelijke executive summary met **basiskosten bouw, onvoorziene reservering, totaalbedrag, project-`$/Sq Ft` en top 3 kostenbepalende vakken** met één klik. |
+| **Materiaalopname & verspillingsberekening** | Vastgelegde multiplicatoren in cellen (`=1000*1.05`), onmogelijk te auditen of bij te werken | Voer netto `Base Qty` eenmaal in; lege verspillingscellen erven de globale standaard uit `00_Parameters`, met optionele overschrijvingen per positie |
+| **Omzetbelasting versus arbeid scheiden** | Omzetbelasting makkelijk volledig vergeten (`6%–10%` verlies) of per ongeluk arbeid belasten | Berekent `Adjusted Qty × Material Rate × Sales Tax` automatisch terwijl arbeids- en apparatuur-/subkosten netjes gescheiden blijven |
+| **16 CSI-divisie roll-ups** | Nieuwe rijen invoegen breekt statische `=SUM()`-bereiken en laat stilletjes duizenden uit offertes vallen | Dynamische `SUMIFS`-database rolt onbeperkte rijen op in **16 standaard CSI-divisies** en berekent `$/sq ft` automatisch |
+| **Offertevergelijking van onderaannemers** | Leveranciers-PDF-offertes verspreid in e-mail zonder basislijncheck | `04_Subcontractor_Comparison` legt `Sub A / B / C` naast uw interne BOQ en vlagt automatisch de laagste bieder & `$` / `%`-afwijking |
+| **Budget versus werkelijke kostenbeheersing** | Werkelijke bonnen apart bijgehouden van de oorspronkelijke ramingstoewijzingen | `05_Budget_Cost_Control` zet raming, goedgekeurd budget & werkelijke uitgaven naast elkaar met directe `⚠️ OVER BUDGET` / `✅ OK`-vlaggen |
+| **Bank-, investeerder- & klantvoorstellen** | Rommelige tabellen met 500 rijen verwarren klanten en vertragen bouwleninggoedkeuringen | `06_Dashboard` genereert een schoon executive overzicht op één scherm met basiskosten, reserve, totaal, `$/Sq Ft` & top 3-drijvers |
 
 ---
 
-## Over dit project & meer plug-and-play commerciële Excel-toolkits
+## Over Theseus Workshop — lichtgewicht offline Excel-beslissingstoolkits
 
-Ik bouw lichtgewicht financiële trackers en spreadsheets voor commerciële besluitvorming zonder overbodige ballast, voor bouwers, kleine ondernemers en operationeel managers die te veel variabelen tegelijk moeten bijhouden om alles uit het hoofd te berekenen—maar voor wie dure bedrijfssoftware van `$500/maand` meer frictie dan waarde oplevert.
+**Theseus Workshop** bouwt betaalbare, nul-bloat lokale Excel-beslissingstoolkits voor bouwers, aannemers, kostenramers en kleine ondernemers die **analytische helderheid in 1 minuut willen zonder `$500/month`-enterprise-softwareabonnementen**.
 
-Elk spreadsheetmodel is gebouwd rond één praktische vraag:
-
-> **Welke exacte cijfers moeten op één scherm staan—met alle complexe berekeningen al achter de schermen geautomatiseerd—zodat een complete beginner of een drukke operationeel manager binnen 60 seconden de juiste financiële beslissing kan nemen?**
-
-Dit **sjabloon voor de hoeveelhedenstaat (BOQ) en kostencalculatie voor de woningbouw** past precies dat principe toe: leg uw algemene aannames voor belasting en uitval één keer vast, plak uw ruwe maten en leveranciersoffertes in overzichtelijke invoercellen, raak nooit een formule aan en signaleer budgetrisico's terwijl u nog tijd hebt om uw portemonnee te beschermen.
-
-### 🛠️ Ontdek de volledige bibliotheek met direct bruikbare bedrijfs- en operationele sjablonen
-Zoekt u meer plug-and-play Excel-sjablonen, geautomatiseerde financiële modellen en commerciële beslissingstools zonder installatie voor uw bedrijf?
-- 👉 **Bezoek de officiële webshop:** **[Theseus Workshop op Gumroad (Theseusworkshop.com)](https://www.theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20footer&utm_content=residential-boq-estimating)** — *Blader door onze volledige collectie Excel-werkmappen die u direct kunt downloaden en die complexe bedrijfsgegevens omzetten in beslissingen die u in 1 minuut kunt kopiëren en plakken.*
-- 📥 **Haal deze toolkit direct op:** **[Download het Excel-hoofdbestand voor kostencalculatie en kostencalculatie per project in de woningbouw (.xlsx)](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20footer&utm_content=residential-boq-estimating)**
+- 📥 [**Deze woningbouw-kostenraming & BOQ-werkmap ophalen (eenmalige aankoop · 30 dagen garantie)**](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20footer&utm_content=residential-boq-estimating)
+- 🎁 [**Gratis starten: maandelijkse bouw CVR & Accruals-sjabloon ($0+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_boq_readme_crosslink)
+- 🧰 [**Alle bouw- & zakelijke Excel-toolkits bij Theseus Workshop bekijken**](https://www.theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20footer&utm_content=residential-boq-estimating)
 
 ---
 
 ## Technische details & werkmaparchitectuur
 
+<details>
+<summary><strong>Voor technische reviewers, Excel-praktijkdeskundigen en medewerkers (7-tabbladarchitectuur, 3 ramingsvalkuilen, doorgerekend voorbeeld, referentie van dynamische matrixformules & validatieregels)</strong></summary>
 
 ### Werkmaparchitectuur
 
-De werkmap bevat zeven kernbladen, gerangschikt in een beheerste stroom van `Input → Calculation → Aggregation → Comparison → Decision`.
+De werkmap bevat zeven kernbladen in een gecontroleerd `Input → Calculation → Aggregation → Comparison → Decision`-verloop.
 
-| Laag           | Blad                          | Rol                                                          | Invoer / berekening             |
+| Laag           | Blad                          | Rol                                                           | Invoer / Berekening             |
 | -------------- | ----------------------------- | ------------------------------------------------------------ | ------------------------------- |
-| Parameters     | `00_Parameters`               | Algemene aannames en de hoofdlijst met bouwdelen             | Handmatige configuratie         |
-| Projectinrichting | `01_Project_Setup`         | Projectidentiteit en bruto oppervlak                         | Handmatige invoer               |
-| Hoofdgegevens  | `02_BOQ_Takeoff`              | Centrale hoeveelhedenstaat (BOQ), hoeveelheden, tarieven en kostenopbouw per regel | Handmatige invoer + dynamische formules |
-| Analyse        | `03_Division_Summary`         | Kostenaggregatie per bouwdeel                                | Door formules gegenereerd       |
-| Vergelijking   | `04_Subcontractor_Comparison` | Interne raming versus offertes Sub A/B/C                     | Handmatige offertes + formules  |
-| Beheersing     | `05_Budget_Cost_Control`      | Raming versus goedgekeurd budget versus werkelijk            | Handmatig budget/werkelijk + formules |
-| Beslissingslaag | `06_Dashboard`               | Project-KPI's, kostenstructuur en risico-indicatoren          | Door formules gegenereerd + grafieken |
+| Parameters     | `00_Parameters`               | Globale aannames en de master-divisielijst              | Handmatige configuratie            |
+| Projectopzet   | `01_Project_Setup`            | Projectidentiteit en bruto-oppervlak                              | Handmatige invoer                    |
+| Mastergegevens | `02_BOQ_Takeoff`              | Centrale BOQ, hoeveelheden, tarieven en kostopbouw per positie | Handmatige invoer + dynamische formules |
+| Analyse        | `03_Division_Summary`         | Kostenaggregatie op divisieniveau                              | Formulegegenereerd               |
+| Vergelijking   | `04_Subcontractor_Comparison` | Interne raming versus Sub A/B/C-offertes                        | Handmatige offertes + formules        |
+| Controle       | `05_Budget_Cost_Control`      | Geraamd versus goedgekeurd budget versus werkelijk                       | Handmatig budget/werkelijk + formules |
+| Beslislaag     | `06_Dashboard`                | Project-KPI's, kostenstructuur en risicoindicatoren            | Formulegegenereerd + grafieken      |
 
 De beoogde afhankelijkheidsketen is:
 
@@ -206,59 +213,57 @@ De beoogde afhankelijkheidsketen is:
               │
               ▼
         06_Dashboard
-
 ```
 
-`02_BOQ_Takeoff` is de **enige bron van waarheid (Single Source of Truth)** voor gedetailleerde ramingsgegevens. Stroomafwaartse bladen bouwen de kostenlogica per regel niet zelfstandig opnieuw op.
+`02_BOQ_Takeoff` is de **Single Source of Truth** voor gedetailleerde raminggegevens. Stroomafwaartse bladen creëren de kostenlogica per positie niet zelfstandig opnieuw.
 
-### Grenzen tussen invoer en berekening
+### Invoer- en berekeningsgrenzen
 
-Het hoeveelhedenstaat-blad (BOQ) scheidt bewust door de gebruiker ingevoerde velden van door formules gegenereerde velden, om te voorkomen dat formules per ongeluk worden overschreven.
+Het BOQ-blad scheidt bewust door de gebruiker ingevoerde velden van formulegegenereerde velden om per ongeluk overschrijven van formules te voorkomen.
 
-| Gebied | Kolommen | Beheersing |
+| Gebied | Kolommen | Controle |
 | --- | --- | --- |
-| Handmatige invoer | A:H | Bouwdeel, iteminformatie, hoeveelheden, eenheden en uitval |
-| Formule | I | Aangepaste hoeveelheid |
-| Handmatige invoer | J | Materiaaltarief |
-| Formule | K | Materiaalkosten |
-| Handmatige invoer | L | Arbeidstarief |
-| Formule | M | Arbeidskosten |
-| Handmatige invoer | N | Tarief materieel/onderaanneming |
-| Formule | O:P | Kosten materieel/onderaanneming en totale kosten per regel |
+| Handmatige invoer | A:H | Divisie, positie-informatie, hoeveelheden, eenheden en verspilling |
+| Formule | I | Adjusted Qty |
+| Handmatige invoer | J | Material Rate |
+| Formule | K | Material Cost |
+| Handmatige invoer | L | Labour Rate |
+| Formule | M | Labour Cost |
+| Handmatige invoer | N | Equip/Sub Rate |
+| Formule | O:P | Equip/Sub Cost en Total Item Cost |
 
-### Drie valkuilen die zelfs ervaren calculatoren treffen
+### Drie valkuilen die zelfs ervaren kostenramers vangen
 
-#### Valkuil 1 — de basishoeveelheid aanzien voor de inkoophoeveelheid
+#### Valkuil 1 — De basis-hoeveelheid als aankoop-hoeveelheid behandelen
 
-1. **Beslissing:** een materiaalbestelling wordt rechtstreeks geplaatst op basis van de netto opmetingshoeveelheid uit de architectuurtekening.
-2. **Onjuiste aanname:** het netto gemeten oppervlak wordt aangezien voor de definitieve inkoophoeveelheid.
-3. **Effect op de cijfers:** bij een opmeting van `1,000 sq ft` met `5%` uitvaltoeslag moet `1,050 sq ft` worden ingekocht, niet `1,000 sq ft`.
-4. **Waarom het misgaat:** afvalstukken, breuk en paswerk op de bouwplaats gaan uit boven de netto gemeten afmetingen.
-5. **Gecorrigeerde aanpak:** pas het uitvalpercentage per item toe waar dit is ingevoerd; anders wordt de gecentraliseerde standaarduitval overgenomen.
-6. **Gecorrigeerd resultaat:** de raming rekent automatisch met `1,050 sq ft` als aangepaste hoeveelheid voor prijsbepaling en bestelling.
+1. **Beslissing:** Een materiaalbestelling wordt direct geplaatst met de netto architecturale opnamehoeveelheid.
+2. **Foutieve aanname:** De netto gemeten oppervlakte wordt behandeld als de definitieve inkoop-hoeveelheid.
+3. **Invloed op de cijfers:** Een opname van `1,000 sq ft` met `5%` verspillingstolerantie vereist het kopen van `1,050 sq ft`, niet `1,000 sq ft`.
+4. **Waarom het faalt:** Reststukken, breekwerk en pasvereisten op de bouwplaats overschrijden de netto gemeten afmetingen.
+5. **Gecorrigeerde aanpak:** Pas het positie-specifieke verspillingspercentage toe waar ingevoerd; anders de gecentraliseerde standaardverspellingsparameter erven.
+6. **Gecorrigeerd resultaat:** De raming draagt automatisch `1,050 sq ft` als gecorrigeerde hoeveelheid voor prijsstelling en bestelling.
 
 ```excel
 =IF(F5:F1000="","",
    F5:F1000*(1+IF(ISNUMBER(H5:H1000),
                   H5:H1000,
                   '00_Parameters'!$C$4)))
-
 ```
 
-`F` = basishoeveelheid
-`H` = uitvalpercentage per item
-`00_Parameters!C4` = standaard uitvalpercentage
+- `F` = Base Qty
+- `H` = Item Waste %
+- `00_Parameters!C4` = Default Waste Rate
 
 ---
 
-#### Valkuil 2 — een offerte van een onderaannemer vergelijken met een onvolledige interne raming
+#### Valkuil 2 — Een onderaannemersofferte vergelijken met een onvolledige interne raming
 
-1. **Beslissing:** een offerte van een onderaannemer wordt afgewezen als te duur, omdat deze hoger is dan de interne raming.
-2. **Onjuist cijfer:** de interne raming liet een consistente btw-behandeling of uitvalcorrecties weg.
-3. **Effect op de cijfers:** een leveranciersofferte van `$48,500` tegen een onvolledige basis van `$42,000` lijkt `$6,500` te hoog.
-4. **Waarom het misgaat:** inschrijvingsvergelijking werkt alleen wanneer de interne basis volledige, met btw en uitval gecorrigeerde kosten weerspiegelt.
-5. **Gecorrigeerde aanpak:** gebruik de volledig opgebouwde raming per bouwdeel uit `03_Division_Summary` als basis en haal vervolgens automatisch de laagste inschrijving op uit Sub A, Sub B en Sub C.
-6. **Gecorrigeerd resultaat:** de calculator kan een echte marktpremie onderscheiden van een onvolledige interne opmeting voordat hij met de leverancier onderhandelt.
+1. **Beslissing:** Een onderaannemersofferte wordt afgewezen als te duur omdat deze de interne raming overschrijdt.
+2. **Foutief cijfer:** De interne raming miste consistente omzetbelastingbehandeling of verspillingscorrecties.
+3. **Invloed op de cijfers:** Een leveranciersofferte van `$48,500` tegen een onvolledige `$42,000`-basislijn lijkt `$6,500` te hoog.
+4. **Waarom het faalt:** Offertevergelijking werkt alleen wanneer de interne basislijn volledige, belastinggecorrigeerde, verspillingsgecorrigeerde kosten weerspiegelt.
+5. **Gecorrigeerde aanpak:** Gebruik de volledig opgebouwde divisieraming uit `03_Division_Summary` als basislijn en haal automatisch het laagste bod over Sub A, Sub B en Sub C.
+6. **Gecorrigeerd resultaat:** De kostenramer kan een echte marktpremie onderscheiden van een onvolledige interne opname vóór de onderhandeling met de leverancier.
 
 ```excel
 =BYROW(C4:E19,LAMBDA(row,
@@ -268,21 +273,20 @@ Het hoeveelhedenstaat-blad (BOQ) scheidt bewust door de gebruiker ingevoerde vel
         HSTACK(minVal,vendor)
     )
 ))
-
 ```
 
-De resulterende minimumprijs voedt de afwijkingsberekening ten opzichte van de interne raming.
+De resulterende laagste offerte voedt de afwijkingsberekening tegen de interne raming.
 
 ---
 
-#### Valkuil 3 — naar werkelijke kosten kijken zonder budgetbasis
+#### Valkuil 3 — Werkelijke kosten bekijken zonder budgetbasislijn
 
-1. **Beslissing:** de werkelijke projectuitgaven worden los van de goedgekeurde budgetten per bouwdeel beoordeeld.
-2. **Onjuiste maatstaf:** `$37,800` aan werkelijke uitgaven heeft geen operationele betekenis zonder de benchmark van het goedgekeurde budget.
-3. **Effect op de cijfers:** vergeleken met een goedgekeurd budget van `$35,000` onthult die `$37,800` onmiddellijk een kostenoverschrijding van `$2,800`.
-4. **Waarom het misgaat:** ruwe boekhoudtotalen vertellen een projectmanager niet of een specifiek vak binnen de werkomschrijving presteert.
-5. **Gecorrigeerde aanpak:** zet de werkelijke kosten rechtstreeks af tegen het goedgekeurde budget per CSI-bouwdeel.
-6. **Gecorrigeerd resultaat:** de werkmap markeert het bouwdeel als `⚠️ OVER BUDGET` en geeft zo direct een signaal voor kostenbeheersing.
+1. **Beslissing:** Werkelijke projectuitgaven worden geïsoleerd van goedgekeurde vakwerkbudgetten beoordeeld.
+2. **Foutieve metric:** `$37,800` aan werkelijke uitgaven heeft zonder de goedgekeurde budgetbenchmark geen operationele betekenis.
+3. **Invloed op de cijfers:** Vergeleken met een goedgekeurd budget van `$35,000` onthult `$37,800` onmiddellijk een kostenoverschrijding van `$2,800`.
+4. **Waarom het faalt:** Ruwe boekhoudtotalen vertellen een projectmanager niet of een specifiek vakwerk binnen scope presteert.
+5. **Gecorrigeerde aanpak:** Leg de werkelijke kosten direct naast het goedgekeurde budget per CSI-divisie.
+6. **Gecorrigeerd resultaat:** De werkmap vlagt de divisie als `⚠️ OVER BUDGET` en creëert een onmiddellijk kostenbeheersignaal.
 
 ```excel
 =HSTACK(
@@ -291,89 +295,80 @@ De resulterende minimumprijs voedt de afwijkingsberekening ten opzichte van de i
        "⚠️ OVER BUDGET",
        "✅ OK")
 )
-
 ```
 
-`C` = goedgekeurd budget
-`D` = werkelijke kosten
+- `C` = Approved Budget
+- `D` = Actual Cost
 
-### Uitgewerkt voorbeeldscenario
+### Doorgerekend voorbeeldscenario
 
-Neem een woningbouwproject met **2,000 sq ft** bruto vloeroppervlak.
+Overweeg een woningbouwproject met **2,000 sq ft** bruto vloeroppervlak.
 
-Het project wordt in `00_Parameters` geïnitialiseerd met een **standaard uitvalpercentage van 5%**, **10% onvoorziene kosten** en **8% btw**. De calculator voert één regel in bij `02_BOQ_Takeoff`:
+Het project wordt geïnitialiseerd in `00_Parameters` met een **standaardverspillingspercentage van 5%**, **10% reserve** en **8% omzetbelasting**. De kostenramer voert een regel in `02_BOQ_Takeoff` in:
 
 | Invoer | Waarde |
 | --- | --- |
-| Basishoeveelheid | 1,000 sq ft |
-| Uitval per item | Leeg |
-| Materiaaltarief | $4.00 |
-| Arbeidstarief | $2.50 |
-| Tarief materieel/onderaanneming | $0.50 |
+| Base Qty | 1,000 sq ft |
+| Item Waste | Leeg |
+| Material Rate | $4.00 |
+| Labour Rate | $2.50 |
+| Equip/Sub Rate | $0.50 |
 
-Omdat het veld voor uitval per item leeg is, neemt het model de standaard van 5% over. De aangepaste hoeveelheid wordt:
+Omdat het positie-specifieke verspillingsveld leeg is, erft het model de standaard van 5%. De gecorrigeerde hoeveelheid wordt:
 
 ```text
 1,000 × (1 + 5%) = 1,050 sq ft
-
 ```
 
-De materiaalkosten zijn inclusief de btw van 8%:
+De materiaalkosten omvatten de 8% omzetbelasting:
 
 ```text
 1,050 × $4.00 × 1.08 = $4,536
-
 ```
 
 De arbeidskosten zijn:
 
 ```text
 1,050 × $2.50 = $2,625
-
 ```
 
-De kosten voor materieel/onderaanneming zijn:
+De apparatuur-/onderaannemerskosten zijn:
 
 ```text
 1,050 × $0.50 = $525
-
 ```
 
-De resulterende totale kosten per regel zijn:
+De resulterende totaalkosten per positie zijn:
 
 ```text
 $4,536 + $2,625 + $525 = $7,686
-
 ```
 
-De regel stroomt door naar `03_Division_Summary` en draagt bij aan de materiaal-, arbeids- en materieelkosten/onderaannemingskosten en de totale kosten van het betreffende bouwdeel.
+De regel stroomt in `03_Division_Summary` en draagt bij aan de materiaal-, arbeids-, apparatuur-/onderaannemers- en totaalkosten van de betreffende divisie.
 
-Stel dat de resulterende basisraming voor de bouw op projectniveau `$300,000` bedraagt. De onvoorziene reservering is:
+Stel dat de projectbrede basis-bouwkostenraming in totaal `$300,000` bedraagt. De reserve is:
 
 ```text
 $300,000 × 10% = $30,000
-
 ```
 
-Het dashboard presenteert daarom een totale raming inclusief onvoorziene kosten van:
+Het dashboard toont daarom een totaalraming inclusief reserve van:
 
 ```text
 $300,000 + $30,000 = $330,000
-
 ```
 
-Bij 2,000 sq ft is de resulterende kostenindicator op projectniveau:
+Bij 2,000 sq ft is de projectbrede kostenindicator:
 
 ```text
 $330,000 ÷ 2,000 = $165 / sq ft
-
 ```
 
-Naast het hoofdbedrag van `$330,000` maakt het model tegelijk inzichtelijk **welke specifieke CSI-bouwdelen dat totaal bepalen, de exacte verdeling tussen materialen, arbeid en materieel/onderaanneming, hoe offertes van onderaannemers zich verhouden tot uw interne basis, en of de werkelijke uitgaven op de bouwplaats het goedgekeurde budget al hebben overschreden**.
+Naast het `$330,000`-kopcijfer legt het model tegelijk bloot **welke specifieke CSI-divisies dat totaal drijven, de exacte verdeling tussen materiaal, arbeid en apparatuur/onderaannemers, hoe onderaannemersbiedingen scoren tegen uw interne basislijn, en of lopende bouwplaatsuitgaven het goedgekeurde budget hebben doorbroken**.
 
-### Formuleoverzicht
+### Formuliereferentie
 
-Algemene parameters worden centraal bijgehouden:
+Globale parameters worden centraal beheerd:
 
 ```text
 C4 = Default Waste Rate
@@ -381,63 +376,60 @@ C5 = Contingency Rate
 C6 = Sales Tax Rate
 C7 = Currency Symbol
 E4:E19 = Master Division List
-
 ```
 
-`01_Project_Setup!C6` bevat het bruto oppervlak en levert de noemer voor de berekeningen van de kosten per vierkante voet.
+`01_Project_Setup!C6` slaat het bruto-oppervlak op en levert de noemer voor kosten-per-sq-ft-berekeningen.
 
-**Aangepaste hoeveelheid — `I5**`
+#### Blad 02 — BOQ Takeoff
+
+**Adjusted Qty — `I5`**
 
 ```excel
 =IF(F5:F1000="","",
    F5:F1000*(1+IF(ISNUMBER(H5:H1000),
                   H5:H1000,
                   '00_Parameters'!$C$4)))
-
 ```
 
-**Materiaalkosten — `K5**`
+**Material Cost — `K5`**
 
 ```excel
 =IF(F5:F1000="","",
    I5:I1000*J5:J1000*(1+'00_Parameters'!$C$6))
-
 ```
 
-**Arbeidskosten — `M5**`
+**Labour Cost — `M5`**
 
 ```excel
 =IF(F5:F1000="","",
    I5:I1000*L5:L1000)
-
 ```
 
-**Kosten materieel/onderaanneming — `O5**`
+**Equip/Sub Cost — `O5`**
 
 ```excel
 =IF(F5:F1000="","",
    I5:I1000*N5:N1000)
-
 ```
 
-**Totale kosten per regel — `P5**`
+**Total Item Cost — `P5`**
 
 ```excel
 =IF(F5:F1000="","",
    K5:K1000+M5:M1000+O5:O1000)
-
 ```
 
-De formules gebruiken dynamische-array-spilllogica verankerd in rij 5, zodat de rekenregels niet kunnen worden verstoord door handmatig rij voor rij slepen.
+De formules gebruiken dynamische matrix-spilllogica, verankerd in rij 5, zodat rekenregels niet beschadigd kunnen raken door handmatig slepen per rij.
 
-**Lijst met bouwdelen — `A4**`
+#### Blad 03 — Division Summary
+
+**Divisielijst — `A4`**
 
 ```excel
 ='00_Parameters'!E4:E19
-
 ```
 
-**Materiaal-, arbeids-, materieel-/onderaannemings- en totale kosten — `B4**`
+**Material, Labour, Equip/Sub en Total Cost — `B4`**
 
 ```excel
 =BYROW(A4#,LAMBDA(d,
@@ -452,27 +444,26 @@ De formules gebruiken dynamische-array-spilllogica verankerd in rij 5, zodat de 
                '02_BOQ_Takeoff'!A5:A1000,d)
     )
 ))
-
 ```
 
-**Kostenaandeel en kosten per sq ft — `F4**`
+**Kostenaandeel en kosten / sq ft — `F4`**
 
 ```excel
 =HSTACK(
     INDEX(B4#,,4)/SUM(INDEX(B4#,,4)),
     INDEX(B4#,,4)/'01_Project_Setup'!$C$6
 )
-
 ```
 
-**Interne raming — `B4**`
+#### Blad 04 — Subcontractor Comparison
+
+**Interne raming — `B4`**
 
 ```excel
 ='03_Division_Summary'!E4#
-
 ```
 
-**Laagste offerte en leverancier — `F4**`
+**Laagste offerte en leverancier — `F4`**
 
 ```excel
 =BYROW(C4:E19,LAMBDA(row,
@@ -482,20 +473,20 @@ De formules gebruiken dynamische-array-spilllogica verankerd in rij 5, zodat de 
         HSTACK(minVal,vendor)
     )
 ))
-
 ```
 
-**Afwijking ten opzichte van basis en afwijking in % — `H4**`
+**Afwijking versus basis en afwijkings% — `H4`**
 
 ```excel
 =HSTACK(
     F4#-B4#,
     (F4#-B4#)/B4#
 )
-
 ```
 
-**Budgetafwijking en statusmarkering — `E4**`
+#### Blad 05 — Budget Cost Control
+
+**Budgetafwijking en statusvlag — `E4`**
 
 ```excel
 =HSTACK(
@@ -504,73 +495,69 @@ De formules gebruiken dynamische-array-spilllogica verankerd in rij 5, zodat de 
        "⚠️ OVER BUDGET",
        "✅ OK")
 )
-
 ```
+
+#### Blad 06 — Dashboard
 
 **Totale raming**
 
 ```excel
 =SUM('03_Division_Summary'!E4#)
-
 ```
 
-**Onvoorziene kosten**
+**Reserve**
 
 ```excel
 =B4*'00_Parameters'!$C$5
-
 ```
 
-**Totaalbedrag**
+**Eindtotaal**
 
 ```excel
 =B4+B5
-
 ```
 
-**Kosten per sq ft**
+**Kosten / sq ft**
 
 ```excel
 =B6/'01_Project_Setup'!$C$6
-
 ```
 
-**Top 3 kostenbepalende bouwdelen**
+**Top 3-kostendivisies**
 
 ```excel
 =CHOOSEROWS(
     SORT('03_Division_Summary'!A4:E19,5,-1),
     1,2,3
 )
-
 ```
 
 ### Validatieregels
 
 | Veld | Regel | Foutgedrag |
 | --- | --- | --- |
-| `00_Parameters!C4` | Standaard uitvalpercentage moet een percentage zijn | Een ongeldig percentage levert onbetrouwbare aangepaste hoeveelheden op |
-| `00_Parameters!C5` | Percentage onvoorziene kosten moet een percentage zijn | Een ongeldige waarde beïnvloedt het totaalbedrag |
-| `00_Parameters!C6` | Btw-tarief moet een percentage zijn | De berekening van de materiaalkosten wordt onjuist |
-| `00_Parameters!E4:E19` | De lijst met bouwdelen is de beheerste hoofdlijst | Inconsistente namen van bouwdelen breken de aggregatie |
-| `01_Project_Setup!C6` | Bruto oppervlak moet numeriek en positief zijn | Anders kunnen berekeningen van kosten per vierkante voet niet geldig zijn |
-| `02_BOQ_Takeoff!A:A` | Bouwdeel moet uit de hoofdlijst worden gekozen | Niet-overeenkomende waarden verschijnen mogelijk niet in de samenvattingen per bouwdeel |
-| `02_BOQ_Takeoff!F:F` | Basishoeveelheid moet numeriek zijn | Formule-uitvoer blijft leeg wanneer er geen geldige hoeveelheid aanwezig is |
+| `00_Parameters!C4` | Default Waste Rate moet een percentage zijn | Ongeldig percentage levert onbetrouwbare gecorrigeerde hoeveelheden op |
+| `00_Parameters!C5` | Contingency Rate moet een percentage zijn | Ongeldige waarde beïnvloedt het eindtotaal |
+| `00_Parameters!C6` | Sales Tax Rate moet een percentage zijn | De materiaalkostenberekening wordt onjuist |
+| `00_Parameters!E4:E19` | De divisielijst is de gecontroleerde masterlijst | Inconsistente divisienamen breken de aggregatie |
+| `01_Project_Setup!C6` | Bruto-oppervlak moet numeriek en positief zijn | Kosten-per-sq-ft-berekeningen zijn anders niet geldig |
+| `02_BOQ_Takeoff!A:A` | Divisie moet uit de masterlijst worden gekozen | Niet-overeenkomende waarden verschijnen mogelijk niet in divisieoverzichten |
+| `02_BOQ_Takeoff!F:F` | Base Qty moet numeriek zijn | Formule-uitvoer blijft leeg zonder geldige hoeveelheid |
 | `02_BOQ_Takeoff!G:G` | Eenheid moet apart van de hoeveelheid worden opgeslagen | Voorkomt dat hoeveelheden zoals `1500 sq ft` als tekst worden behandeld |
-| `02_BOQ_Takeoff!H:H` | Uitvalpercentage per item mag leeg of een numeriek percentage zijn | Lege waarden nemen de algemene standaard over |
-| `02_BOQ_Takeoff!J:J` | Materiaaltarief moet numeriek zijn | Materiaalkosten kunnen niet correct uit tekst worden berekend |
-| `02_BOQ_Takeoff!L:L` | Arbeidstarief moet numeriek zijn | Arbeidskosten kunnen niet correct uit tekst worden berekend |
-| `02_BOQ_Takeoff!N:N` | Tarief materieel/onderaanneming moet numeriek zijn | Kosten voor materieel/onderaanneming kunnen niet correct uit tekst worden berekend |
-| `04_Subcontractor_Comparison!C:E` | Offertwaarden moeten numeriek zijn | De logica voor de laagste offerte kan falen of ongeldige vergelijkingen opleveren |
+| `02_BOQ_Takeoff!H:H` | Item Waste % mag leeg of een numeriek percentage zijn | Lege waarden erven de globale standaard |
+| `02_BOQ_Takeoff!J:J` | Material Rate moet numeriek zijn | Materiaalkosten kunnen niet correct uit tekst worden berekend |
+| `02_BOQ_Takeoff!L:L` | Labour Rate moet numeriek zijn | Arbeidskosten kunnen niet correct uit tekst worden berekend |
+| `02_BOQ_Takeoff!N:N` | Equip/Sub Rate moet numeriek zijn | Apparatuur-/onderaannemerskosten kunnen niet correct uit tekst worden berekend |
+| `04_Subcontractor_Comparison!C:E` | Offerwaarden moeten numeriek zijn | Laagste-offerte-logica kan falen of ongeldige vergelijkingen opleveren |
 | `05_Budget_Cost_Control!C:C` | Goedgekeurd budget moet numeriek zijn | Budgetafwijking kan niet correct worden beoordeeld |
 | `05_Budget_Cost_Control!D:D` | Werkelijke kosten moeten numeriek zijn | Budgetstatus kan niet correct worden beoordeeld |
-| Formule-spillbereiken | Bestemmingscellen moeten leeg blijven | Excel geeft `#SPILL!` wanneer ze geblokkeerd zijn |
-| Berekening van de werkmap | Excel moet Automatisch berekenen gebruiken | Bijgewerkte parameters worden mogelijk niet direct doorgevoerd |
+| Formulespill-bereiken | Doelcellen moeten vrij blijven | Excel geeft `#SPILL!` wanneer geblokkeerd |
+| Werkmapberekening | Excel moet op Automatische berekening staan | Bijgewerkte parameters propageren mogelijk niet direct |
 | Excel-versie | Microsoft 365 of Excel 2021+ | Oudere versies geven mogelijk `#NAME?` voor niet-ondersteunde functies |
 
-### Validatie tussen bladen
+### Validatie over bladen heen
 
-De belangrijkste parameterverwijzingen van het model zijn herleidbaar over de bladen heen:
+De belangrijkste parameterverwijzingen van het model zijn over bladen heen traceerbaar:
 
 ```text
 00_Parameters!C4  → 02_BOQ_Takeoff!I5
@@ -590,31 +577,49 @@ Gross Area           → Division cost / sq ft
 
 01_Project_Setup!C6 → 06_Dashboard!B7
 Gross Area           → Project cost / sq ft
-
 ```
 
-### Operationele en onderhoudsnotities
+### Bedrijfs- en onderhoudsnotities
 
-* **Aanbevolen Excel-omgeving:** Microsoft 365 of Excel 2021+ met ondersteuning voor dynamische arrays en `Automatic` berekening ingeschakeld.
-* **Aanbevolen omvang van de hoeveelhedenstaat:** tot **10.000 rijen** voor soepele rekenprestaties (typische woningbouwprojecten vereisen **200–1.000 rijen**).
-* **Gegevensonderhoud:** voer ruwe gegevens alleen in de aangewezen kolommen voor handmatige invoer in (`A:H`, `J`, `L`, `N`); overschrijf nooit spill-formulecellen (`I`, `K`, `M`, `O:P`).
-* **Problemen met `#SPILL!` oplossen:** verwijder eventuele losse tekst, spaties of getallen die de uitvoerrijen van de dynamische array onder rij 5 blokkeren.
+- **Aanbevolen Excel-omgeving:** Microsoft 365 of Excel 2021+ met dynamische matrixondersteuning (`BYROW`, `LAMBDA`, `HSTACK`, `CHOOSEROWS`, `XLOOKUP`) en `Automatic` berekening ingeschakeld.
+- **Aanbevolen BOQ-volume:** Tot **10.000 rijen** voor soepele rekenprestaties (typische woningbouwprojecten hebben **200–1.000 rijen** nodig).
+- **Gegevensonderhoud:** Voer ruwe data alleen in de daarvoor bestemde handmatige invoerkolommen in (`A:H`, `J`, `L`, `N`); overschrijf spill-formulecellen (`I`, `K`, `M`, `O:P`) niet.
+- **Problemen met `#SPILL!` oplossen:** Verwijder verdwaalde tekst, spaties of cijfers die de uitvoerrijen van de dynamische matrix onder rij 5 blokkeren.
+
+</details>
 
 ---
 
 ## Andere beslissingsondersteunende tools in deze serie
 
-Ontdek aanverwante online calculators en financiële Excel-werkmappen voor projectuitvoering en kostenbeheer:
+Ontdek meer lichtgewicht browsercalculators en offline Excel-toolkits van **[Theseus Workshop](https://theseusworkshop.com/)**:
 
-* **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Voldoet het asontwerp aan de relevante rekenlogica? — Pas de rekenstandaarden van DIN 743 voor assen toe op ontwerpbeslissingen in de techniek.
-* **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Wat gaat deze bouwscope kosten onder de huidige aannames? — Standaardiseer de calculatie van bouwaanbestedingen en zet afgeronde ramingen om in herbruikbare kostenbibliotheken.
-* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Hoe verhouden ramingen en bijgehouden kosten zich gedurende de uitvoering? — Vergelijk bouwramingen met werkelijke kosten tijdens de hele projectuitvoering volgens AIA-standaardformaten.
-* **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Is de financiële positie van het project nauwkeurig na verwerking van goedgekeurde wijzigingen werkelijke kosten en factureringsvoortgang? — Integreer budgetten meerwerkopdrachten voortgangsfacturering en cashflow in één beheerskader voor bouwprojecten.
-* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Welke energieoptie levert de laagste total cost of ownership op voor dit specifieke project onder de werkelijke bedrijfsomstandigheden? — Vergelijk industriële energiebronnen op basis van werkelijk nuttige energie door brandstofkosten rendement van apparatuur investeringen in infrastructuur en eigendomskosten over de levensduur te normaliseren.
-* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Wat gaat dit tunnelproject volgens de boor-en-springmethode kosten onder de aangenomen bouwcyclus? — Raam de ontgraving het boren het springen de ondersteuning de apparatuur en de arbeidsbehoefte van een boor-en-springtunnel tot een volledige projectkostenraming en hoeveelhedenstaat (BOQ).
-* **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Wat zijn de totale materiaal- en wapeningskosten voor de funderingsconstructie, en kan ik elke commerciële inschrijvingswaarde herleiden tot de gemeten afmetingen? — Bereken betonvolumes voor funderingen, oppervlakten bekisting, grondwerkhoeveelheden, wapeningstonnage via geautomatiseerde staafstaten en commerciële hoeveelhedenstaatwaarden op basis van gemeten constructieve afmetingen.
+- 🎁 **[Maandelijkse bouw CVR & Accruals Excel-sjabloon (Gratis · $0+ PWYW)](https://github.com/HyVoid/construction-cvr-accruals-excel-template)** — *Begin hier gratis:* Stem gecertificeerde waarde, niet-gefactureerde bouwplaatsaccruals, variatierisico en EAC-winstprognoses aan het einde van de maand op elkaar af.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Integreer budgetten, goedgekeurde change orders, SOV-tussentijdse facturatie, inhoudingen en doorlopende cashflow in één enkel projectcontrolesysteem.
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Standaardiseer bouwtender-ramingen en transformeer voltooide ramingen in herbruikbare kostenbibliotheken.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Vergelijk bouwramingen gedurende de gehele projectuitvoering met werkelijke kosten in AIA-standaardformaten.
+- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Bereken funderingsbetonvolumes, bekistingoppervlakken, aardwerkhoeveelheden, wapeningslijsten (BBS) en BOQ-biedwaarden uit gemeten constructiematen.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Ram boor-en-blaas tunneluitgraving, boren, blazen, ondersteuning, apparatuur en arbeidsbehoeften tot een volledige BOQ.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Vergelijk industriële energiebronnen op basis van echte nuttige-energie-levenscyclus-TCO.
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Pas DIN 743-asberekeningsnormen toe op technische ontwerpbeslissingen.
+
+---
+
+## Vragen, feedback & productupdates
+
+Deze repository maakt deel uit van de **Theseus Workshop**-collectie lichtgewicht, herbruikbare zakelijke beslissingsondersteunende tools. Feedback is welkom, inclusief vragen over het gebruik van de werkmap, workflowhiaten, reproduceerbare rekenproblemen en ideeën om de tool te verbeteren.
+
+- **Vragen & gebruikelijke hulp:** [Open een discussie](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions)
+- **Ideeën & workflowsuggesties:** [Deel een idee](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas)
+- **Productupdates:** [Volg productupdates](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates)
+- **Technische bugs:** Gebruik het formulier **Report a bug** in deze repository. Vermeld a.u.b. de werkmap-/toolversie, het betreffende werkgebied, verwacht versus werkelijk resultaat en reproduceerbare stappen.
+
+### Privacy- & gegevensverwerkingskennisgeving
+
+Dien geen klantadressen, bouwtekeningen, lopende tenderdocumenten, leveranciersoffertes of onderaannemersprijzen in. Gebruik synthetische of voldoende geanonimiseerde voorbeelden bij het melden van een probleem. Publiceer geen ruwe werkmappen, klanten-/leveranciers-/werknemers-/huurders-/pand-/investeerder-/productie-/loon-/transactiegegevens, vertrouwelijke bedrijfsgegevens, inloggegevens of screenshots met gevoelige informatie in openbare GitHub-issues of -discussies.
+
+Gebruik voor browsergebaseerde tools de gebruikersinterface niet als enige basis voor aannames over gegevensopslag, -overdracht of -bewaring. Bekijk de huidige implementatie en de toepasselijke gegevensverwerkingsnotities voordat u met echte bedrijfsgegevens test. Bij twijfel uitsluitend synthetische gegevens gebruiken.
 
 ## Licentie
 
-Dit project is uitgebracht onder de **Apache License 2.0**. Zie het bestand [`LICENSE`](https://www.google.com/search?q=LICENSE) voor de volledige licentietekst.
-
+Dit project wordt uitgebracht onder de **Apache License 2.0**. Zie het bestand [LICENSE](LICENSE) voor de volledige licentietekst.
