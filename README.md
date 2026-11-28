@@ -612,7 +612,7 @@ This repository is part of the **Theseus Workshop** collection of lightweight, r
 - **Questions and usage help:** [Open a discussion](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions)
 - **Ideas and workflow suggestions:** [Share an idea](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas)
 - **Product updates:** [Follow product updates](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates)
-- **Technical bugs:** Use the **Report a bug** issue form in this repository. Please include the workbook / tool version, the relevant workflow area, expected vs. actual result, and reproducible steps.
+- **Technical bugs:** Use the [**Report a bug**](https://github.com/HyVoid/residential-boq-template/issues/new?template=bug-report.yml) issue form in this repository. Please include the workbook / tool version, the relevant workflow area, expected vs. actual result, and reproducible steps.
 
 ### Privacy & Data Handling Notice
 
