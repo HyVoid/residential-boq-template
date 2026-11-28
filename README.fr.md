@@ -612,7 +612,7 @@ Ce dépôt fait partie de la collection **Theseus Workshop** d'outils d'aide à 
 - **Questions et aide à l'utilisation :** [Ouvrir une discussion](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions)
 - **Idées et suggestions de workflow :** [Partager une idée](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas)
 - **Mises à jour du produit :** [Suivre les mises à jour du produit](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates)
-- **Bugs techniques :** utilisez le formulaire d'issue **Signaler un bug** de ce dépôt. Veuillez inclure la version du classeur / de l'outil, la zone de workflow concernée, le résultat attendu vs. réel et les étapes de reproduction.
+- **Bugs techniques :** utilisez le formulaire d'issue [**Signaler un bug**](https://github.com/HyVoid/residential-boq-template/issues/new?template=bug-report.yml) de ce dépôt. Veuillez inclure la version du classeur / de l'outil, la zone de workflow concernée, le résultat attendu vs. réel et les étapes de reproduction.
 
 ### Avis de confidentialité & de traitement des données
 
