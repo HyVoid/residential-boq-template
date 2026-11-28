@@ -612,7 +612,7 @@ Dieses Repository ist Teil der **Theseus Workshop**-Sammlung schlanker, wiederve
 - **Fragen & Nutzungshilfe:** [Eine Diskussion eröffnen](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions)
 - **Ideen & Workflow-Vorschläge:** [Eine Idee teilen](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas)
 - **Produkt-Updates:** [Produkt-Updates verfolgen](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates)
-- **Technische Bugs:** Verwenden Sie das Formular **Report a bug** in diesem Repository. Bitte geben Sie die Arbeitsmappe-/Tool-Version, den betroffenen Workflow-Bereich, erwartetes vs. tatsächliches Ergebnis und reproduzierbare Schritte an.
+- **Technische Bugs:** Verwenden Sie das Formular [**Report a bug**](https://github.com/HyVoid/residential-boq-template/issues/new?template=bug-report.yml) in diesem Repository. Bitte geben Sie die Arbeitsmappe-/Tool-Version, den betroffenen Workflow-Bereich, erwartetes vs. tatsächliches Ergebnis und reproduzierbare Schritte an.
 
 ### Datenschutz- & Datenverarbeitungshinweis
 
