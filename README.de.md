@@ -1,180 +1,191 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Kostenlose Excel-Vorlage zur Baukalkulation im Wohnungsbau: Sofort einsetzbarer Kalkulator für Baukosten, Materialmengenermittlung (BOQ) & Nachkalkulationstabelle für Einsteiger
-<img width="1047" height="790" alt="image" src="https://github.com/user-attachments/assets/bbbf18ff-9749-4d98-a021-5d347d8280c1" />
+# Kostenschätzung im Wohnungsbau & BOQ Excel-Vorlage (kostenloser Web-Rechner) — Kostenschätzer für 16 CSI-Divisions, Materialaufmaß & Bauleistungs-Kalkulation
 
+<img width="1047" height="790" alt="Residential Construction Estimating & BOQ Excel Dashboard Preview" src="https://github.com/user-attachments/assets/bbbf18ff-9749-4d98-a021-5d347d8280c1" />
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Web%20Browser%20%2B%20Excel%20365-informational.svg)](#)
-[![Standard](https://img.shields.io/badge/Structure-16%20CSI%20Divisions-orange.svg)](#)
-[![Skill Level](https://img.shields.io/badge/Skill%20Level-Beginner%20Friendly%20%2F%20No%20Formulas%20Needed-success.svg)](#)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+![Excel Workbook: One-Time Purchase](https://img.shields.io/badge/Excel%20Workbook-One--Time%20Purchase-0F766E.svg)
+![Interactive Demo: Free Web Calculator](https://img.shields.io/badge/Web%20Calculator-Free%20in%20Browser-217346.svg)
+![Standard: 16 CSI Divisions](https://img.shields.io/badge/Structure-16%20CSI%20Divisions-orange.svg)
+![Guarantee: 30-Day Money-Back](https://img.shields.io/badge/Guarantee-30--Day%20Money--Back-D97706.svg)
 
-Diese **kostenlose Excel-Vorlage zur Baukalkulation im Wohnungsbau** und dieser **sofort nutzbare webbasierte Kalkulator für Baukosten** sind eine gebrauchsfertige **Tabelle zur Baukostenkalkulation**, eine **Vorlage zur Materialmengenermittlung (BOQ)** und ein **Tracker für Baubudget vs. Ist-Kosten**, entwickelt für **erstmalige Bauherren im Eigenbau, kleine Generalunternehmer, Renovierer von Wohnhäusern und Haus-Flipper** ohne jede Excel- oder Buchhaltungserfahrung. Aufgebaut auf den branchenüblichen **16 CSI-MasterFormat-Baubereichen**, wandelt diese Plug-and-Play-**Tabelle zur Auftragskalkulation und zum Angebotsvergleich von Nachunternehmern** automatisch Planmaße, Materialeinheitspreise, lokale Umsatzsteuer, Verschnittfaktoren und Lohnsätze in ein präzises **Baukostenbudget pro Quadratfuß ($/sq ft)** um – kopieren Sie einfach Ihre Zahlen hinein und erhalten Sie sofort bankfähige Projektkalkulationen, ohne eine einzige Formel zu schreiben oder zu ziehen.
+**Hören Sie auf, 13 %+ Ihres Baubudgets durch vergessene Materialverschwendung, versteckte Umsatzsteuer und Blindangebote von Subunternehmern zu verlieren.** Diese Plug-and-Play-**Excel-Arbeitsmappe für Kostenschätzung im Wohnungsbau, Materialaufmaß (BOQ) & Bauleistungs-Kalkulation** wurde für **kleine Generalunternehmer, Sanierer, House-Flipper, Eigentümer als Eigenleistungs-Bauer und Junior-Kostenschätzer** entwickelt, die in Minuten kreditfähige **16 CSI MasterFormat**-Budgets und genaue **Kosten pro Quadratfuß ($/sq ft)**-Schätzungen benötigen—ohne eine einzige Excel-Formel zu schreiben oder eine Zelle zu ziehen.
 
-Testen Sie die live laufende Berechnungsengine direkt in Ihrem Browser kostenlos, oder laden Sie die entsperrte Microsoft Excel-Arbeitsmappe herunter, um Ihren dauerhaften Kalkulationsablauf zu standardisieren – mit 30-Tage-Geld-zurück-Garantie.
-
-> 🌐 **[Starten Sie den kostenlosen webbasierten Kalkulator für Baukosten & die interaktive BOQ-Mengenermittlungs-Vorschau (keine Anmeldung und kein Download erforderlich – sofort im Browser nutzbar)](https://hyvoid.github.io/residential-boq-template/)**
-> *Testen Sie live Mengenermittlungen, passen Sie Material-Verschnittfaktoren an und sehen Sie sich das Executive-KPI-Dashboard für Bauprojekte direkt in Ihrem Browser an.*
+> ### Drei Wege, heute noch durchzustarten
 >
-> 📥 **[Laden Sie die sofort einsetzbare Excel-Vorlage für Baukalkulation im Wohnungsbau & Auftragskalkulation herunter (.xlsx-Master-Arbeitsmappe für unbegrenzte Projekte)](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)**
-> *Holen Sie sich die vorgefertigte, vollständig automatisierte Microsoft Excel-Datei mit fest eingebauten Formel-Engines für unbegrenzte Kundenangebote, Vergleiche von Nachunternehmerangeboten und projektübergreifende Kostenverfolgung.*
+> - 📥 **Vollständige, freigeschaltete Excel-Arbeitsmappe herunterladen (Einmalkauf · 30 Tage Geld-zurück-Garantie ohne Wenn und Aber):** [**Die Wohnungsbau-Kostenschätzung & BOQ Excel-Masterdatei (.xlsx) auf Theseus Workshop erhalten**](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating) — fertig aufgebaute `.xlsx`-Arbeitsmappe mit 7 Tabellenblättern, automatischer Verschwendungskalkulation, Umsatzsteuer, Angebotsvergleich und Budget-vs.-Ist-Warnungen. Wiederverwendbar für unbegrenzt viele Bauprojekte, 100 % offline, null SaaS-Abos.
+> - 🌐 **Zuerst den Live-Kostenrechner testen (100 % kostenlos im Browser · keine Registrierung):** [**Den kostenlosen webbasierten Hausbau-Kostenrechner & die interaktive BOQ-Vorschau starten**](https://hyvoid.github.io/residential-boq-template/) um Live-Aufmaße durchzuführen, Verschwendungsfaktoren anzupassen und das Dashboard vor dem Download zu prüfen.
+> - 🎁 **Möchten Sie zuerst eine offline Theseus-Workshop-Excel-Datei kostenlos testen?** Beginnen Sie mit unserer [**kostenlosen monatlichen Bau-CVR & Accruals-Excel-Vorlage ($0+ Zahl nach Wunsch)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_boq_readme_crosslink) um unsere makrofreie Plug-and-Play-Excel-Qualität offline zu prüfen, bevor Sie auf diese Schätz-Arbeitsmappe upgraden.
 
 ---
 
-## Was Sie damit verfolgen: Kostenkontrolle im Bau, Materialmengenermittlung & Matrix für den Angebotsvergleich
+## Wo dies in Ihr Bau-Toolkit passt (passt zu unserer kostenlosen CVR-Vorlage)
 
-Anstatt Ihre Projektzahlen über Holzlieferanten-Angebote, Papierservietten und kaputte Tabellen zu verstreuen, ordnet diese **Vorlage für Baukostenkalkulation und Auftragskalkulation** Ihre größten finanziellen blinden Flecken direkt automatisierten Excel-Ausgaben zu:
+Sie nutzen bereits unsere **kostenlose monatliche Bau-CVR & Accruals-Vorlage**, um den Gewinn zum Monatsende zu prüfen? **Diese Wohnungsbaubudget- & Schätz-Arbeitsmappe ist ihre wesentliche vorgelagerte Grundlage**—sie verschafft Ihnen eine wasserdichte Kostenbaseline *bevor* die Bauarbeiten beginnen, damit Ihre Angebote, Subunternehmer-Angebote und Gewerke-Budgets ab Tag 1 korrekt starten.
 
-| Häufiger Schmerzpunkt im Baubudget & Suchintention | Was Sie in dieser Plug-and-Play-BOQ-Tabelle verfolgen | Automatisierte Kostenkontrolle & Schutz der Marge |
+| Projektphase | Empfohlenes Theseus-Workshop-Toolkit | Was es für Sie löst |
+|---|---|---|
+| **1. Vor dem Bau & tägliche Gewerke-Kalkulation** | **Diese Arbeitsmappe: Wohnungsbaubudget, Schätzung & Bauleistungs-Kalkulation** *(Grundlegender Einmalkauf)* | Materialaufmaß (QTO), Verschwendungs- & Umsatzsteuer-Mathematik, `$/sq ft`-Budgets für 16 CSI-Divisions, **Angebotsvergleich von Subunternehmern (`Sub A/B/C`)** und Live-Tracking von Divisionen mit `⚠️ OVER BUDGET`. |
+| **2. Realitätscheck der Gewinne zum Monatsende** | [**Kostenlose monatliche Bau-CVR & Accruals-Excel-Vorlage**](https://github.com/HyVoid/construction-cvr-accruals-excel-template) *(Kostenlos · $0+ PWYW)* | Gleicht zum Monatsende Buchgewinn vs. nicht abgerechnete Baustellen-Abgrenzungen, das Risiko umstrittener Änderungen und die Estimate at Completion (EAC) ab. |
+| **3. Vollständige kommerzielle Abrechnung & Cashflow** | [**Einzelprojekt-Management & Cashflow-Kontrolle**](https://github.com/HyVoid/construction-project-management-excel) *(System für den gesamten Lebenszyklus)* | Verwaltet genehmigte Change Orders, SOV/AIA-Fortschrittsabrechnungen, Einbehalte (Retainage), AP/AR und die rollierende Cashflow-Reichweite. |
+
+---
+
+## Was diese Schätz- & BOQ-Arbeitsmappe automatisch erfasst
+
+Statt Bauzahlen verstreut über Baustoffhändler-PDFs, Textnachrichten und kaputte Tabellen zu halten, verwandelt diese **Vorlage für Baukosten-Schätzung und Bauleistungs-Kalkulation** rohe Grundriss-Eingaben in klare kaufmännische Entscheidungen:
+
+| Häufiger Schmerzpunkt beim Baubudget | Was diese Plug-and-Play-BOQ-Arbeitsmappe erfasst | Automatisierte Kostenkontrolle & Gewinnschutz |
 | :--- | :--- | :--- |
-| **"Wie viel zusätzliches Material sollte ich für Verschnitt und Umsatzsteuer einkaufen?"** *(Material zu knapp bestellen & versteckte Steuerkosten tragen)* | **Mengenermittlung (QTO), Material-Verschnittfaktoren & Aufbau der Umsatzsteuer** | Wendet automatisch globale oder positionsbezogene **Material-Verschnittprozentsätze (`5%–15%+`)** an und rechnet die **lokale Material-Umsatzsteuer** kumulativ hinzu, um rohe Planmaße in exakte **Bestellmengen für den Baustoffhandel** umzuwandeln. |
-| **"Wie kalkuliere ich Lohn, Material und Gerät pro Quadratfuß?"** *(Einheitspreise zu niedrig ansetzen & Bruttomarge verlieren)* | **Positionsbezogener Kostenaufbau der Einheitspreise (`$/sq ft`, `$/lf`, `$/cu yd`, `$/ea`)** | Trennt und berechnet **besteuerte Materialkosten, Lohnnebenkosten der Kolonne und Miet- bzw. Nachunternehmerpreise für Geräte** für jede einzelne Position im Leistungsverzeichnis (BOQ) – ohne manuelles Rechnen mit dem Taschenrechner. |
-| **"Wo geht mein gesamtes Baubudget eigentlich hin?"** *(Budgetblindheit auf Gewerkebene über 16 Bauphasen)* | **Kostenaufschlüsselung nach 16 CSI-MasterFormat-Bereichen & Kosten pro Quadratfuß** | Fasst Hunderte Mengenermittlungszeilen automatisch in **16 standardisierten Gewerken des Wohnungsbaus** zusammen (Fundament, Rohbau, Sanitär, Elektro, HVAC, Ausbau) und zeigt exakte **Budgetanteile je Gewerk in % sowie `$/sq ft`**. |
-| **"Woher weiß ich, ob ein Nachunternehmerangebot zu hoch ist oder Leistungen fehlen?"** *(Zu viel an Anbieter zahlen oder auf Lockangebote hereinfallen)* | **Gegenüberstellung zum Angebotsvergleich von Nachunternehmern (`Sub A vs. Sub B vs. Sub C`)** | Vergleicht bis zu drei konkurrierende Unternehmerangebote mit Ihrer **internen BOQ-Basiskalkulation** und hebt automatisch den **günstigsten Bieter, die Dollardifferenz und den `%`-Aufschlag bzw. die Unterbietung** hervor. |
-| **"Wie verfolge ich die Bauausgaben, bevor mir das Geld ausgeht?"** *(Kostenüberschreitungen erst entdecken, wenn das Konto leer ist)* | **Echtzeit-Tracker für Baubudget vs. Ist-Kosten & Abweichungen** | Vergleicht aktuelle Rechnungen von der Baustelle mit den genehmigten Bereichsbudgets und löst in dem Moment, in dem ein Gewerk seine Vorgabe überschreitet, sofort einen visuellen Alarm `⚠️ OVER BUDGET` aus. |
-| **"Wie präsentiere ich ein professionelles Baubudget gegenüber Bank oder Kunde?"** *(Unordentliche Angebote, die von Kreditgebern abgelehnt werden)* | **Executive-KPI-Dashboard für Bauprojekte, Risikoreserve & Top 3 Kostentreiber** | Erzeugt eine übersichtliche Zusammenfassung auf einem einzigen Bildschirm mit **Basis-Hartkosten, Risikopuffer (`%`), Gesamtschätzung, Gesamt-`$/Sq Ft` und den Top 3 kostentreibenden Gewerken** für Baufinanzierungen oder die Kundenfreigabe. |
+| **„Wie viel zusätzliches Material sollte ich für Verschwendung und Umsatzsteuer kaufen?"** *(Zu geringe Materialbestellung & versteckte Steuer mitbezahlen)* | **Mengenermittlung (QTO), Materialverschwendungsfaktoren & Umsatzsteuer-Aufbau** | Wendet automatisch global oder positionenbezogen **Materialverschwendung (`5%–15%+`)** an und schlägt **Umsatzsteuer nur auf Materialien** auf—rohe Grundrissmaße werden zu exakten **Einkaufsmengen für den Baustoffhandel**. |
+| **„Wie bepreise ich Arbeit, Material und Equipment pro Quadratfuß?"** *(Zu niedrige Angebote & verlorene Marge)* | **Positionsgenaue Einheitspreis-Aufstellung (`$/sq ft`, `$/lf`, `$/cu yd`, `$/ea`)** | Trennt für jede BOQ-Zeile **steuerpflichtige Materialkosten, Kolonnenlöhne und Equipment-/Subunternehmer-Sätze**—ganz ohne manuelle Rechnerei. |
+| **„Wo fließt mein Baubudget eigentlich hin?"** *(Budget-Blindheit auf Gewerke-Ebene)* | **16 CSI MasterFormat Division-Rollup & Kosten pro Quadratfuß** | Gruppiert automatisch hunderte Aufmaß-Zeilen in **16 Standard-Wohnbaugewerke** (Gründung, Rahmenkonstruktion, Sanitär, Elektro, HVAC, Ausbau) und zeigt exakten **Gewerke-Anteil `%` und `$/sq ft`**. |
+| **„Ist dieses Subunternehmer-Angebot zu hoch—oder gefährlich niedrig?"** *(Zu viel an Anbieter zahlen oder von Change Orders kalt erwischt werden)* | **Subunternehmer-Angebotsvergleich nebeneinander (`Sub A vs. Sub B vs. Sub C`)** | Vergleicht bis zu drei konkurrierende Angebote gegen Ihre **interne BOQ-Baseline** und markiert sofort **niedrigsten Bieter, Dollar-Abweichung und `%`-Aufschlag/Unterbietung**. |
+| **„Wie erkenne ich Budgetüberschreitungen, bevor das Geld aufgebraucht ist?"** *(Erkenntnis erst, wenn der Bau vorbei ist)* | **Echtzeit-Tracker für Budget vs. Ist-Ausgaben & Abweichungen** | Vergleicht laufende Rechnungen mit freigegebenen Division-Budgets und löst sofort `⚠️ OVER BUDGET` aus, sobald ein Gewerke seinen Ansatz überschreitet. |
+| **„Wie übergebe ich einer Bank oder einem Kunden ein sauberes, glaubwürdiges Budget?"** *(Unordentliche Angebote, die Kredite blockieren oder Aufträge kosten)* | **Executive-KPI-Dashboard, Rückstellungspuffer & Top-3-Kostentreiber** | Liefert eine saubere Ein-Bildschirm-Zusammenfassung von **Basis-Hardcosts, Rückstellungspuffer (`%`), Gesamt-Kostenschätzung, Gesamt-`$/Sq Ft` und den Top-3-Kostentreibergewerken**. |
 
 ---
 
-## Praxisnahe Szenarien der Baukalkulation: Wer nach diesem Tool sucht & wann es zum Einsatz kommt
+## Tabellen-Vorschau
 
-Ob Sie ein Haus von Grund auf bauen oder nur einen einzelnen Raum renovieren – diese **Tabellenkalkulation für das Baubudget im Wohnungsbau** ist für projektbezogene Situationen mit hohem Entscheidungsdruck konzipiert, in denen Sie Antworten in Minuten statt in Wochen brauchen:
+Möchten Sie die Tabellenblätter, das Layout und die Berechnungsstruktur vor dem Kauf prüfen? Erkunden Sie die schreibgeschützte Vorschau in Google Sheets:
 
-- **Erstmalige Bauherren im Eigenbau, die eine Baufinanzierung beantragen:** Erstellen Sie eine **Kostenaufschlüsselung über 16 Bereiche** für den Hausbau in kreditgeberfähiger Form mit klaren **Benchmarks für die Kosten pro Quadratfuß (`$/sq ft`)** und Puffern für Hartkosten, bevor Sie Land kaufen oder sich mit Kreditbearbeitern der Bank treffen.
-- **Kleine Generalunternehmer (GU), die auf individuelle Wohnhäuser bieten (1,500–3,500+ sq ft):** Stellen Sie ein vollständiges **Leistungsverzeichnis (BOQ) für Wohnungsbau** zusammen – von Erdarbeiten und Betonplatten über Rohbau, TGA (Heizung, Lüftung, Sanitär, Elektro) bis zu Innenausbau und Zierprofilen –, um während der Hochsaison der Ausschreibungen in weniger als einer Stunde präzise Kundenangebote zu versenden.
-- **Renovierer von Wohnhäusern, die Küchen-, Bad- & Kellnerumbauten kalkulieren:** Nutzen Sie dies als **Excel-Kalkulationstabelle für Umbaukosten im Wohnungsbau**, um Kernsanierungen und Raumerweiterungen zu bewerten, bei denen variable Abbruch-Verschnittfaktoren (`10%–15%`) und schwankende Ausstattungsbudgets eine strikte **Verfolgung der Risikoreserve** erfordern.
-- **Haus-Flipper & Immobilieninvestoren, die Sanierungskosten schätzen (BRRRR / Fix-and-Flip):** Führen Sie schnell einen **Kalkulator für Immobiliensanierungskosten und den Budgetrahmen des Leistungsumfangs (SOW)** durch, bevor Sie ein Angebot für eine sanierungsbedürftige Immobilie abgeben, und stellen Sie sicher, dass Ihr maximal zulässiges Angebot (MAO) reale Materialsteuern, Lohnsätze und Unternehmeraufschläge berücksichtigt.
-- **Projektleiter & Eigentümer, die Nachunternehmerangebote prüfen:** Hören Sie auf zu raten, warum drei Installateure oder Rohbauer Ihnen völlig unterschiedliche Preise genannt haben. Nutzen Sie die integrierte **Vorlage für den Angebotsvergleich von Nachunternehmern**, um fehlende Leistungspositionen oder überhöhte Saisonpreise zu erkennen, bevor Sie einen Vertrag unterschreiben.
-- **Aktive Kostenkontrolle auf der Baustelle (Vermeidung von Liquiditätsengpässen mitten im Bau):** Wechseln Sie nahtlos von der Vorkalkulation zur **Verfolgung von Baubudget vs. Ist-Kosten** vor Ort und erkennen Sie Überschreitungen bei Fundament oder Rohbau früh genug, um die nachgelagerten Budgets für Schränke oder Bodenbeläge anzupassen.
+**[Live-Tabellen-Vorschau auf Google Sheets ansehen](https://docs.google.com/spreadsheets/d/1tdW6S108rLNGHM1scdiwruNoZ08HrQ2U/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Hinweis zur Kompatibilität:** Die Google-Sheets-Vorschau kann gelegentlich `#NAME?`-Warnungen anzeigen, da sich dynamische Arrays zwischen Google Sheets und Microsoft Excel unterscheiden. Dies sind reine Vorschau-Artefakte und treten in der heruntergeladenen `.xlsx`-Arbeitsmappe in Microsoft Excel nicht auf.
 
 ---
 
-## Für wen das gedacht ist: Rollen im Bau, Software-Alternativen & konkrete Anwendungsfälle
+## Praxis-Szenarien: Wann sich dieses Plug-and-Play-Schätzblatt am Tag 1 selbst bezahlt
 
-Sie benötigen weder eine Unternehmens-ERP-Software für das Bauwesen für `$500+/month` (wie Procore oder Buildertrend) noch ein Studium der Baukostenplanung, um Ihre Baukosten im Griff zu behalten. Dieses Toolkit wurde speziell entwickelt für:
-
-- **Kleine Generalunternehmer & Wohnungsbauer**, die eine **sofort einsetzbare Excel-Vorlage für die Baukalkulation im Wohnungsbau** suchen, um Kundenangebote zu standardisieren, Bruttomargen zu schützen und defekte Tabellenformeln in der Hochsaison zu vermeiden.
-- **DIY-Bauherren & Selbstbauer**, die eine **einsteigerfreundliche Tabellenkalkulation als Kalkulator für Hausbaukosten** benötigen, um Materialmengen zu ermitteln, Gewerkeangebote zu vergleichen und ihr Baubudget selbst zu verwalten, ohne einen professionellen Kalkulator zu beauftragen.
-- **Renovierungsunternehmer & Handwerksbetriebe**, die eine **kostenlose oder kostengünstige Alternative zu Renovierungs-Kalkulationssoftware in Excel** suchen, um Küchenumbauten, Badmodernisierungen und Anbauten zu kalkulieren, ohne monatliche SaaS-Abonnements zu zahlen.
-- **Immobilieninvestoren, Haus-Flipper & Wholesaler**, die einen **Kalkulator für Fix-and-Flip-Sanierungskosten und einen Tracker für das Baubudget** benötigen, um Deals in Minuten zu bewerten, Auszahlungen an Unternehmer zu verfolgen und zu verhindern, dass Budgetüberschreitungen bei der Sanierung die Flip-Gewinne auffressen.
-- **Junge Baukalkulatoren & Baukostenplaner**, die eine **vorformatierte BOQ-Mengenermittlungsvorlage mit 16 CSI-Bereichen** wünschen, die automatisch einheitliche Umsatzsteuerregeln, positionsbezogene Verschnittmultiplikatoren und Bereichs-Zusammenfassungen über jede Projektrevision hinweg durchsetzt.
-- **Nachunternehmer & Inhaber von Fachgewerken (Rohbau, Trockenbau, Dachdeckung, Beton, TGA)**, die eine **einfache Excel-Tabelle für Auftragskalkulation und Materialmengenermittlung** benötigen, um exakte Bestellmengen beim Baustoffhandel, Lohnkosten der Kolonne und Gerätekosten zu berechnen, bevor sie ein Angebot abgeben.
-
-*(Hinweis zum Umfang: Dieses Tool ist eine spezialisierte Tabelle für Vorkalkulation, Materialmengenermittlung, Angebotsvergleich und Kostenkontrolle auf Bereichsebene. Es ersetzt weder doppelte Buchführung mit Steuerfunktionen wie QuickBooks noch komplexe Gantt-Diagramm-Planungssuiten.)*
+- **Kleine Generalunternehmer (GCs) mit Angeboten für Individualhäuser (1,500–3,500+ sq ft):** Erstellen Sie ein vollständiges **Wohnbau-Verzeichnis mit Mengen (BOQ) über 16 Divisionen**—von Aushub und Beton bis Rahmenkonstruktion, MEP und Ausbau—um in der Hochsaison in unter einer Stunde genaue, gewinnbringende Kundenangebote zu senden.
+- **Erstmalige Eigentümer als Eigenleistungs-Bauer bei der Beantragung eines Baukredits:** Präsentieren Sie Kreditgebern ein bankfähiges **Wohnbau-Budget über 16 Divisionen** mit `$/sq ft`-Benchmarks und einem klaren Hardcost-Rückstellungspuffer.
+- **Wohnhaus-Umbau-Firmen bei der Kalkulation von Küche, Bad & Keller:** Kalkulieren Sie Komplettsanierungen und Anbauten genau, wo hohe Abbruch-/Schneide-Verschwendung (`10%–15%`) und Ausbau-Pauschalen eine enge Rückstellungssteuerung erfordern.
+- **House-Flipper & Immobilieninvestoren bei der Bewertung von Sanierungen (BRRRR / Fix-and-Flip):** Erstellen Sie eine schnelle **Sanierungs-Scope-of-Work-Kostenschätzung (SOW)**, bevor Sie ein Angebot abgeben, und schützen Sie Ihren Maximum Allowable Offer (MAO) vor Überraschungen durch Steuer- und Lohnmehrkosten.
+- **Subunternehmer-Angebote vor der Unterschrift prüfen:** Hören Sie auf zu raten, warum drei Sanitär- oder Rahmenbaufirmen wild unterschiedliche Zahlen genannt haben—gleichen Sie alle drei Angebote in 2 Minuten gegen Ihre interne Baseline ab.
+- **Einfache Bauleistungs-Kalkulation während der Bauphase:** Nutzen Sie dieselbe Datei weiter, sobald die Arbeiten beginnen, um echte Lieferantenbelege gegen freigegebene Gewerke-Budgets zu stellen und Überläufe bei Gründung oder Rahmenkonstruktion früh genug zu erkennen, um nachgelagerte Ausbau-Pauschalen anzupassen.
 
 ---
 
-## Schnellstart-Anleitung: Workflow in 5 Schritten zum Baukosten-Analysten in 1 Minute
+## Für wen diese Schätz- & Bauleistungs-Kalkulations-Arbeitsmappe gebaut ist
 
-Die kaufmännische Mathematik im Bau ist komplex, doch **Sie müssen keine Formeln schreiben, keine Zellen verknüpfen und nicht doppelklicken, um Gleichungen eine Spalte hinunterzuziehen**. Jede Berechnungsregel, jede CSI-Bereichs-Zusammenfassung, jeder Steuermultiplikator und jede Budgetwarnung ist bereits im Inneren der Arbeitsmappe vorkonfiguriert. Sie fügen nur Ihre Zahlen in die Eingabezellen ein und lesen das automatisierte Entscheidungs-Dashboard ab.
+Sie benötigen keine `$500/month`-Bau-Enterprise-Software oder ein Schätz-Diplom, um Ihr Baubudget zu schützen. Diese Arbeitsmappe wurde speziell gebaut für:
 
-**Testen Sie es sofort:** [Klicken Sie hier, um den kostenlosen interaktiven webbasierten Baukosten-Kalkulator zu öffnen](https://hyvoid.github.io/residential-boq-template/) – in einem neuen Browser-Tab können Sie diese 5 Schritte live ausprobieren, bevor Sie Ihre dauerhafte Excel-Kopie herunterladen.
+- **Kleine Generalunternehmer & Wohnbauer**, die eine schnelle, wiederholbare **Excel-Vorlage für Kostenschätzung im Wohnungsbau** wollen, um Kundenangebote zu standardisieren, ohne monatliche SaaS-Gebühren zu zahlen.
+- **DIY-Eigentümer als Eigenleistungs-Bauer & Selbstbauer**, die einen **einsteigerfreundlichen Hausbau-Kostenrechner** brauchen, um Materialbestellungen zu prüfen, Gewerke-Angebote zu kontrollieren und ihr eigenes Baubudget zu verwalten.
+- **Sanierungsunternehmer & Gewerke-Chefs (Rahmenbau, Trockenbau, Dachdeckerei, Beton, MEP)**, die ein leichtgewichtiges **offline Excel-Schätz- & Materialaufmaß-Blatt** suchen, um exakte Bestellmengen und Kolonnenlöhne schnell zu berechnen.
+- **Immobilieninvestoren & House-Flipper**, die einen wiederholbaren **Sanierungskosten-Schätzer & Abruf-Tracker** brauchen, damit Budgetschleichung die Flip-Margen nicht auffrisst.
+- **Junior-Baukostenschätzer & Assistenz-Bauquantitätler**, die eine vorformatierte **16 CSI-Division BOQ-Aufmaß-Vorlage** mit einheitlichen Steuerregeln, Verschwendungsmultiplikatoren und automatischen Rollups wollen.
 
-1. **Legen Sie Ihre Projektregeln einmal in 10 Sekunden fest (`00_Parameters` — Globale Kostenregeln).**
-   Öffnen Sie den Reiter `00_Parameters` und tragen Sie drei grundlegende Werte ein: Ihren **Standard-Material-Verschnittssatz** (z. B. `5%`), Ihren **Puffer für die Bau-Risikoreserve** (z. B. `10%`) und Ihren **lokalen Umsatzsteuersatz** (z. B. `8%`). Das Blatt wendet diese Regeln automatisch auf jede Position an, die Sie später erfassen – ohne manuelle Steuer- oder Verschnittrechnung.
-
-2. **Geben Sie Ihre Wohnfläche für automatische `$/Sq Ft`-Benchmarks ein (`01_Project_Setup` — Projektbasis).**
-   Tragen Sie Ihren Projektnamen und Ihre **Bruttogeschossfläche (sq ft)** (z. B. `2,400 sq ft`) in `01_Project_Setup` ein. Die Vorlage verwendet diese Fläche sofort als Hauptnenner, um Ihre **Kosten pro Quadratfuß (`$/sq ft`)** über jeden Gewerkebereich und jede Executive-Summary-Karte hinweg zu berechnen.
-
-3. **Kopieren Sie Ihre Materialmaße und Einheitspreise hinein (`02_BOQ_Takeoff` — Automatisierte Materialmengenermittlung).**
-   Gehen Sie zu `02_BOQ_Takeoff`, wählen Sie eine Bauphase aus dem **Dropdown-Menü mit 16 CSI-Bereichen** und geben Sie Ihr netto gemessenes Planmaß (`Base Qty`) sowie Ihre **Einheitspreise für Material, Lohn und Gerät** ein oder fügen Sie sie ein.
-   *Automatisierung ohne Formeln:* Sie müssen niemals eine Formelzelle ziehen. Die Tabelle bläht Ihre Nettomenge sofort um den Zuschnittverschnitt auf, schlägt die lokale Umsatzsteuer nur auf den Materialanteil auf, fasst Lohn und Gerät zusammen und gibt Ihre exakten **Gesamtpositionskosten** aus.
-
-4. **Tragen Sie Nachunternehmerangebote ein & verfolgen Sie tatsächliche Rechnungen (`03_Division_Summary` bis `05_Budget_Cost_Control` — Angebotsvergleich & Abweichungsalarme).**
-   - Werfen Sie einen Blick auf `03_Division_Summary`, um zu sehen, wie Ihre Hunderte von Positionen automatisch in **16 übersichtlichen Gewerkesummen für den Wohnungsbau** gruppiert werden.
-   - Fügen Sie bis zu 3 Unternehmerangebote (`Sub A`, `Sub B`, `Sub C`) in `04_Subcontractor_Comparison` ein. Das Blatt hebt sofort das **günstigste Anbieterangebot** hervor und zeigt die exakte Dollardifferenz sowie die `%`-Abweichung gegenüber Ihrer internen Kalkulation, damit Sie nie zu viel bezahlen.
-   - Wenn der Bau beginnt, tragen Sie Ihre tatsächlichen Lieferantenbelege und Unternehmerzahlungen in `05_Budget_Cost_Control` ein. Überschreitet ein Gewerk das Budget um `$1`, blinkt sofort eine automatische Warnung `⚠️ OVER BUDGET` auf.
-
-5. **Lesen Sie Ihr Executive-Entscheidungs-Dashboard in 1 Minute & laden Sie die wiederverwendbare Excel-Datei herunter (`06_Dashboard`).**
-   Öffnen Sie `06_Dashboard`, um Ihr vollständiges Finanzbild auf einem einzigen Bildschirm zu sehen: **Basiskalkulation, Risikoreserve, Gesamtbaukosten, Gesamt-`$/Sq Ft` und die Top 3 kostentreibenden Bereiche**.
-
-   > 🚀 **Schluss mit dem Kampf gegen Tabellen – holen Sie sich heute Ihre Bauanalyse-Engine für 1 Minute:**
-   > Während es Jahre dauert, die kaufmännische Logik hinter der Baukalkulation zu beherrschen, **hat diese Excel-Vorlage bereits jede blattübergreifende Berechnung, jede dynamische `SUMIFS`-Zusammenfassung und jede automatische Formelaktualisierung für Sie gebaut**. Sie müssen nicht einmal die Ecke einer Zelle doppelklicken, um Formeln nach unten zu kopieren – laden Sie die Datei einfach auf Ihren Computer, fügen Sie Ihre Projektzahlen ein und erhalten Sie in 60 Sekunden sofortige finanzielle Klarheit auf professionellem Niveau.
-   >
-   > Ob Sie ein absoluter Anfänger sind, der sein erstes Haus baut, oder ein vielbeschäftigter Unternehmer, der an einem Sonntagabend fünf Angebote jongliert – lassen Sie diese automatisierte Arbeitsmappe die Mathematik übernehmen, damit Sie sich auf Ihre Baustelle und auf profitable Abschlüsse konzentrieren können.
-   >
-   > 👉 **[Laden Sie hier die entsperrte, wiederverwendbare Excel-Vorlage für die Baukalkulation im Wohnungsbau (.xlsx) herunter](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)** — *Nutzen Sie sie einmal, um Ihre aktuelle Kalkulation festzuzurren, und speichern Sie sie dann als dauerhafte Master-Vorlage, um sich per Copy-and-Paste durch jedes künftige Bau-, Umbau- und Sanierungsprojekt zu arbeiten.*
+*(Hinweis zum Umfang: Dies ist eine grundlegende Arbeitsmappe für Vorbau-Schätzung, Materialaufmaß, Angebotsvergleich und Division-level Budget-Tracking. Für vollständige kommerzielle Fortschrittsabrechnung, Einbehalte und rollierende Cashflow-Prognosen siehe unsere [Einzelprojekt-Management & Cashflow-Arbeitsmappe](https://github.com/HyVoid/construction-project-management-excel).)*
 
 ---
 
-## Die Geschäftslogik & Methodik: 4 versteckte finanzielle blinde Flecken, die Baugwinne vernichten (und wie dieses Blatt sie automatisch behebt)
+## Schnellstart-Workflow: Von Grundrisszahlen zum Executive-Budget in 5 einfachen Schritten
 
-Sie benötigen weder einen Buchhaltungsabschluss noch eine Ausbildung im Baumanagement, um diese Tabelle zu nutzen. Tatsächlich verlieren die meisten Einsteiger, Bauherren im Eigenbau und kleinen Unternehmer Geld – nicht weil sie keine Grundrechenarten beherrschen, sondern weil sie die **vier strukturellen kaufmännischen Fallen** nicht kennen, die in jedem Bauprojekt stecken.
+Jede Berechnungsregel, jedes Division-Rollup, jeder Steuer-Multiplikator und jede Budget-Überschreitungs-Warnung ist bereits in die Arbeitsmappe eingebaut. **Sie schreiben nie eine Formel oder ziehen eine Zelle nach unten**—fügen Sie einfach Ihre Zahlen in die dafür vorgesehenen Eingabespalten ein und lesen das Dashboard ab.
 
-Hier sind die objektiven finanziellen Fakten dahinter, warum Baubudgets scheitern – und wie die integrierte Geschäftslogik dieser Arbeitsmappe Ihr Geld automatisch schützt:
+**Möchten Sie diese 5 Schritte jetzt kostenlos testen?** [Den kostenlosen interaktiven Web-Rechner öffnen](https://hyvoid.github.io/residential-boq-template/) in einem neuen Tab.
 
-### 1. Der blinde Fleck „Planmaß vs. Kassenrealität" (Der versteckte Materialverlust von 13,4 %)
-- **Der objektive Fakt:** Wenn ein Grundriss `1,000 sq ft` Hartholzboden zu `$4.00/sq ft` ausweist, kalkuliert ein Einsteiger `$4,000`. In der realen Baupraxis müssen Dielen auf Ecken zugeschnitten werden (dadurch entsteht `5%–10%` nicht rückgewinnbarer Verschnitt), und der Baustoffhandel berechnet an der Kasse staatliche bzw. lokale Umsatzsteuer (`6%–10%`) auf die gesamte Materialbestellung.
-- **Ihr finanzielles Risiko:** Mit einem üblichen Zuschnittverschnitt von `5%` und `8%` Umsatzsteuer berechnet Ihnen das Sägewerk tatsächlich `$4,536` (`1,000 × 1.05 × $4.00 × 1.08`) und nicht `$4,000`. **Sie verlieren 13,4 % bei jedem Materialeinkauf, bevor auch nur ein einziger Arbeiter die Baustelle betritt.** Bei `$100,000` Baumaterialien bedeutet das **$13,400 an reinem Gewinn oder persönlicher Ersparnis, die sofort vernichtet werden** – allein weil die zusammengesetzte Verschnitt- und Steuerrechnung vergessen wurde.
-- **Ihr integrierter Vorteil:** Sie müssen sich diese Rechnung nie merken. Sie tippen nur das rohe Planmaß (`1,000`) und den Regalpreis (`$4.00`) ein. Die Tabelle bläht Ihre Bestellmenge automatisch um den Verschnitt auf und rechnet die lokale Umsatzsteuer kumulativ nur auf Materialien an (wobei Lohn steuerfrei bleibt) – und sichert damit vom ersten Tag an eine zu 100 % korrekte Kassenpreisbildung.
-
-### 2. Die Falle „Blindes Nachunternehmerangebot" (Überzahlung in der Hochsaison vs. Lockangebot mit Nachträgen)
-- **Der objektive Fakt:** Wenn Sie drei Sanitär- oder Rohbauunternehmer um ein Angebot bitten, liefern sie selten eine positionsweise Aufschlüsselung – Sie erhalten eine einzige Pauschalsumme (z. B. `$38,000`, `$48,500` und `$52,000`). Ohne eine eigene, unabhängige, von unten aufgebaute Kostenbasis haben Sie keinerlei Verhandlungshebel.
-- **Ihr finanzielles Risiko:** Wenn Sie den Unternehmer für `$38,000` blind auswählen, um Geld zu sparen, stellen Sie mitten im Bau oft fest, dass er absichtlich Vorwandelemente oder Entsorgungskosten weggelassen hat – und Sie erhalten `$12,000` an zwingenden Nachträgen, wenn Sie ihn nicht mehr entlassen können. Umgekehrt können in einer geschäftigen Bausaison alle drei Unternehmer ihre Angebote um `20%+` aufblähen, weil sie wissen, dass Sie die tatsächlichen Material- und Lohnkosten nicht kennen.
-- **Ihr integrierter Vorteil:** Weil `02_BOQ_Takeoff` Ihre echten internen Basiskosten berechnet (sagen wir `$42,000`), legt das Einfügen der drei Anbieterangebote in `04_Subcontractor_Comparison` die Wahrheit sofort offen. Sie sehen auf dem Bildschirm unmittelbar, dass `$38,000` gefährlich unterboten ist (`-9.5%` – prüfen Sie auf fehlende Leistungen!) und `$48,500` um `+$6,500 (+15.5%)` aufgebläht wurde. Sie erhalten genau die Daten, die Sie brauchen, um in 2 Minuten Tausende von Dollar von Unternehmerangeboten herunterzuverhandeln.
-
-### 3. Der blinde Fleck „80/20-Kostenkonzentration" (Stunden damit verschwenden, über die falschen Dinge zu verhandeln)
-- **Der objektive Fakt:** Einsteiger behandeln jede Position eines Hausbaus als gleich wichtig und verbringen Tage damit, einen `$200`-Rabatt auf Badarmaturen oder Innenfarbe zu suchen, während sie strukturelle Einheitspreise ignorieren. In der Ökonomie des Wohnungsbaus **verschlingen nur 3 der 16 Baubereiche (typischerweise Rohbau, Beton/Fundament und TGA) 50 % bis 65 % Ihres gesamten Baubudgets.**
-- **Ihr finanzielles Risiko:** Wenn Ihre Gesamtschätzung `$30,000` über dem liegt, was Sie oder Ihre Bank sich leisten können, werden Einsparungen bei Farbe, Beschlägen oder Leuchten den Deal niemals retten. Ein winziger Kalkulationsfehler von `5%` im Rohbau oder Beton zerstört dagegen Ihre gesamte Risikoreserve.
-- **Ihr integrierter Vorteil:** Der Reiter `06_Dashboard` ordnet Ihre **Top 3 kostentreibenden Bereiche** automatisch nach gesamter Dollarwirkung und **Kosten pro Quadratfuß (`$/sq ft`)** und hebt sie hervor. In weniger als 60 Sekunden erkennt ein völliger Neuling genau, welche 3 Gewerke das finanzielle Überleben des Projekts bestimmen – sodass Sie 100 % Ihrer Verhandlungs- und Value-Engineering-Energie dorthin lenken können, wo das echte Geld liegt.
-
-### 4. Der blinde Fleck „Quittungsschuhkarton als Nachbetrachtung" (erst nach Abschluss merken, dass man pleite ist)
-- **Der objektive Fakt:** Die meisten kleinen Bauunternehmer und Hausbesitzer erstellen eine Kalkulation in einer Datei und werfen dann die tatsächlichen Baumarktquittungen und Unternehmerrechnungen in einen Ordner oder eine separate Buchhaltungs-App, um sie am Projektende zusammenzuzählen.
-- **Ihr finanzielles Risiko:** Baukosten fallen sequenziell an. Wenn Erdarbeiten und Fundamentarbeiten im Monat 1 um `$8,000` über dem Budget liegen und Sie das erst im Monat 6 beim Zusammenzählen Ihrer Quittungen bemerken, **sind diese `$8,000` dauerhaft weg – sie kommen direkt aus Ihrer Tasche oder Ihrem Nettogewinn.**
-- **Ihr integrierter Vorteil:** Diese Arbeitsmappe verbindet Ihre ursprüngliche Kalkulation direkt mit `05_Budget_Cost_Control` in derselben Datei. Sobald Sie eine echte Rechnung eintragen, vergleicht das Blatt Ihr **genehmigtes Budget mit den Ist-Ausgaben** je Gewerkebereich. Läuft das Fundament im Monat 1 aus dem Budget, wird sofort eine automatische Warnung `⚠️ OVER BUDGET` ausgelöst – das verschafft Ihnen 5 Monate Vorwarnung, um `$8,000` bei den nachgelagerten Küchenschränken, Fliesen oder der Außenanlage zu kürzen, damit Sie den Bau dennoch im Budget abschließen.
+1. **Globale Kostenregeln einmal festlegen (`00_Parameters` — 10 Sekunden):**
+   Geben Sie Ihre **Standard-Verschwendungsrate für Material** (z. B. `5%`), **Rückstellungspuffer** (z. B. `10%`) und **lokale Umsatzsteuerrate** (z. B. `8%`) ein. Jede Position unten erbt diese Regeln automatisch.
+2. **Grundfläche eingeben (`01_Project_Setup`):**
+   Geben Sie Ihren Projektnamen und die **Bruttogrundfläche (sq ft)** (z. B. `2,400 sq ft`) ein, um live **Kosten pro Quadratfuß (`$/sq ft`)**-Benchmarks über alle Gewerke und KPI-Karten zu speisen.
+3. **Aufmaß-Messwerte & Einheitssätze kopieren und einfügen (`02_BOQ_Takeoff`):**
+   Wählen Sie ein Gewerke aus dem **16 CSI-Division-Dropdown**, geben Sie Ihre Nettogrundriss-Menge (`Base Qty`) ein und tragen Sie **Material-, Arbeits- und Equipment-/Sub-Einheitssätze** ein. Das Blatt berechnet automatisch verschwendungsadjustierte Mengen, schlägt Umsatzsteuer nur auf Material auf und summiert jede Zeile.
+4. **Subunternehmer-Angebote vergleichen & Ist-Ausgaben erfassen (`03_Division_Summary` → `05_Budget_Cost_Control`):**
+   - Prüfen Sie `03_Division_Summary` für automatische **Division-Gewerkesummen** und `$/sq ft`-Aufschlüsselung.
+   - Fügen Sie bis zu drei Unternehmerangebote (`Sub A`, `Sub B`, `Sub C`) in `04_Subcontractor_Comparison` ein, um den niedrigsten Bieter und die exakte `$` / `%`-Abweichung gegen Ihre interne Schätzung zu erkennen.
+   - Sobald Rechnungen eintreffen, erfassen Sie echte Ausgaben in `05_Budget_Cost_Control`—jedes Gewerke über Budget zeigt sofort `⚠️ OVER BUDGET`.
+5. **Ihr Ein-Bildschirm-Budget präsentieren (`06_Dashboard`):**
+   Öffnen Sie `06_Dashboard`, um **Basis-Schätzung, Rückstellungen, Gesamt-Baukosten, Gesamt-`$/Sq Ft` und die Top 3 kostenbestimmenden Divisionen** zu sehen—bereit zum Teilen mit Kunden, Partnern oder Kreditberatern.
 
 ---
 
-## Manuelle Ad-hoc-Excel-Tabellen vs. diese vorgefertigte Vorlage zur Baukostenkontrolle über 16 Bereiche
+## Kostenloser Web-Rechner vs. vollständige lokale Excel-Arbeitsmappe
 
-Die meisten Einsteiger beginnen mit einem leeren Excel-Blatt oder einer einfachen 3-Spalten-Tabelle, die sie aus einem Forum heruntergeladen haben – und müssen dann zusehen, wie ihr Budget zusammenbricht, sobald eine einzige defekte `SUM`-Formel oder ein vergessener Steuersatz das Angebot ruiniert. So beseitigt diese automatisierte **Arbeitsmappe für Baukalkulation und Auftragskalkulation** das Risiko manueller Tabellen:
+| Funktion | Kostenloser Online-Web-Rechner | **Vollständige lokale Excel-Arbeitsmappe (Einmalkauf)** |
+|---|---|---|
+| **Am besten für** | Schneller 2-Minuten-Browsertest von Aufmaß-Mathematik & Dashboard | Echte Kundenangebote, Kreditgeber-Budgets, Sanierungsbewertung & laufende Bauleistungs-Kalkulation |
+| **Unbegrenzte Positionen & 16 CSI-Divisions** | Sandbox-Demo-Kapazität | **Vollständige `.xlsx`-Masterdatei mit 7 Blättern** für bis zu 10.000 BOQ-Zeilen |
+| **Angebotsvergleich von Subunternehmern (`Sub A/B/C`)** | Vorschau-Modus | Vollautomatischer Anbietervergleich & Abweichungs-Benchmarking, pro Job gespeichert |
+| **Wiederverwendbar für unbegrenzte Projekte** | Setzt im Browser zurück | **Lokal speichern & für immer wiederverwenden** für jeden Bau, Umbau und Flip |
+| **100 % Offline-Privatsphäre** | Browser-Sitzung | **Null Cloud-Speicher**—Einheitssätze, Lieferantenpreise & Margen bleiben strikt auf Ihrem Gerät |
+| **Kosten & Garantie** | Kostenlose Vorschau | **Günstiger Einmalkauf** · **30 Tage Geld-zurück-Garantie ohne Wenn und Aber** |
 
-| Aufgabe in Baukalkulation & Auftragskalkulation | Leeres / selbstgebautes manuelles Excel-Blatt (hohes Fehlerrisiko) | Diese automatisierte BOQ-Excel-Vorlage mit 16 Bereichen (Plug-and-Play-Kontrolle) |
+> **Bereit, in Minuten genaue, bankfähige Schätzungen zu erstellen—und eine saubere Masterdatei bei jedem künftigen Projekt wiederzuverwenden?**
+> 👉 [**Die freigeschaltete Excel-Arbeitsmappe für Wohnungsbau-Kostenschätzung & BOQ herunterladen (Einmalkauf · 30 Tage Garantie)**](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=residential-boq-estimating)
+
+---
+
+## Die Geschäftslogik: 4 versteckte Kosten-Blinde Flecken, die diese Arbeitsmappe automatisch behebt
+
+Die meisten Anfänger, Eigentümer-Bauer und kleinen Unternehmer verlieren Geld nicht wegen komplexer Buchhaltung—sie verlieren Geld wegen **vier vorhersagbarer Schätz-Fallen**, die in jedem Wohnbauprojekt stecken:
+
+### 1. Der „Grundriss vs. Kasse"-Blinde Fleck (die 13,4 % versteckten Materialverluste)
+- **Die Realität:** Misst ein Grundriss `1,000 sq ft` Parkett bei `$4.00/sq ft`, budgetiert ein Anfänger `$4,000`. Auf einer echten Baustelle addiert Schneideverschwenden `5%–10%` zusätzliches Material, und der Baustoffhandel berechnet an der Kasse `6%–10%` lokale Umsatzsteuer.
+- **Der finanzielle Treffer:** Bei `5%` Verschwendung und `8%` Umsatzsteuer beträgt die Kassenrechnung **`$4,536`** (`1,000 × 1.05 × $4.00 × 1.08`), nicht `$4,000`—ein **sofortiger Margeverlust von 13,4 %**. Bei `$100,000` Material sind das **`$13,400`** Verlust vor Tag 1.
+- **Wie diese Arbeitsmappe es behebt:** Geben Sie nur die Nettogrundrissmenge (`1,000`) und den Regaleinheitspreis (`$4.00`) ein. Das Blatt erhöht die Menge automatisch für Verschwendung und schlägt Umsatzsteuer nur auf Material auf (Kolonnenlohn bleibt steuerfrei).
+
+### 2. Die „Blindes Subunternehmer-Angebot"-Falle (Überzahlung vs. Lowball-Change-Order-Köder)
+- **Die Realität:** Subunternehmer geben Ihnen meist ein pauschales Angebot (`$38,000`, `$48,500`, `$52,000`) ohne jede Aufschlüsselung. Ohne eigene Bottom-up-Baseline verhandeln Sie blind.
+- **Der finanzielle Treffer:** Das `$38,000`-Lowball blind zu wählen führt oft zu `$12,000` an Change Orders mitten im Bau für „ausgeschlossene" Ventile oder Abfuhr. Umgekehrt bedeutet `$48,500` in der Hochsaison, Tausende zu viel zu zahlen.
+- **Wie diese Arbeitsmappe es behebt:** `04_Subcontractor_Comparison` stellt alle drei Angebote direkt gegen Ihre vollständig versteuerte, verschwendungsadjustierte BOQ-Baseline (sagen wir `$42,000`) und deckt sofort auf, ob ein Angebot verdächtig niedrig (`-9.5%`) oder aufgebläht (`+15.5%`) ist.
+
+### 3. Der „80/20-Kostenkonzentration"-Blinde Fleck
+- **Die Realität:** Anfänger verschwenden Tage auf `$200`-Armatur-Rabatte und ignorieren strukturelle Einheitssätze. Im Wohnungsbau **schlucken nur 3 der 16 Divisionen (typischerweise Rahmenbau, Beton/Gründung und MEP) 50 %–65 % des gesamten Budgets.**
+- **Wie diese Arbeitsmappe es behebt:** `06_Dashboard` rankt automatisch Ihre **Top 3 kostenbestimmenden Divisionen** nach Gesamtkosten und `$/sq ft`—damit Sie 100 % Ihrer Verhandlungsenergie dort einsetzen, wo das echte Geld sitzt.
+
+### 4. Der „Schuhkarton-Belege-Post-Mortem"-Blinde Fleck
+- **Die Realität:** Budget in einem Blatt, Belege in einem Ordner bis Monat 6—Sie entdecken eine `$8,000`-Gründungs-Überschreitung erst, wenn das Geld weg ist.
+- **Wie diese Arbeitsmappe es behebt:** `05_Budget_Cost_Control` lebt in genau derselben Arbeitsmappe. Erfassen Sie echte Rechnungen pro Division und lösen Sie im Monat 1 sofort `⚠️ OVER BUDGET` aus—Sie haben Monate Zeit, `$8,000` bei nachgelagerten Schränken, Fliesen oder Landschaftsbau einzusparen.
+
+---
+
+## Manuelle DIY-Tabellen vs. diese automatisierte 16-Division-BOQ-Arbeitsmappe
+
+| Baukosten-Schätz- & Kostenkontroll-Aufgabe | Leeres / manuelles DIY-Excel-Blatt (hohes Fehlerrisiko) | **Diese automatisierte 16-Division-BOQ-Arbeitsmappe (Plug-and-Play)** |
 | :--- | :--- | :--- |
-| **Materialmengenermittlung (QTO) & Verschnittmultiplikator-Mathematik** | Nutzer tippen fest codierte Multiplikatoren manuell in Zellformeln (`=1000*1.05`), wodurch Mengenermittlungen aus dem Plan und Bestellungen beim Baustoffhandel nicht mehr prüfbar oder aktualisierbar sind. | Tippen Sie nur Ihr netto gemessenes Planmaß (`Base Qty`) ein. Leere Verschnittzellen übernehmen automatisch den zentralisierten **Standard-Material-Verschnittssatz** aus `00_Parameters` und erlauben zugleich positionsbezogene Abweichungen (`5%–15%+`) ohne jede Formelbearbeitung. |
-| **Trennung von Material-Umsatzsteuer und Lohnkosten** | Einsteiger vergessen die lokale Umsatzsteuer entweder völlig (und verlieren `6%–10%` auf Materialien) oder wenden die Umsatzsteuer versehentlich auf steuerfreien Lohn und Gerätemieten an. | Integrierte Einheitspreisformeln rechnen automatisch **angepasste Materialmenge × Material-Einheitspreis × lokaler Umsatzsteuersatz** kumulativ zusammen und halten **Lohnsätze** sowie **Geräte-/Nachunternehmerpreise** sauber in benachbarten Spalten getrennt. |
-| **Zusammenfassungen über 16 CSI-MasterFormat-Gewerkebereiche** | Das Einfügen einer neuen Zeile für Trockenbau, Schnittholz oder Sanitärgegenstände zerstört statische Bereiche wie `=SUM(D2:D50)` und lässt stillschweigend Tausende von Dollar aus der Gesamtsumme des Angebots verschwinden. | Die dynamische `SUMIFS`-Datenbankarchitektur gruppiert unbegrenzt viele Mengenermittlungszeilen automatisch in **16 standardisierte CSI-Bereiche des Wohnungsbaus** und berechnet **`$/sq ft` je Gewerk**, ohne dass jemals ein `SUM`-Bereich gezogen, kopiert oder repariert werden muss. |
-| **Angebotsvergleich für Nachunternehmer & Prüfung von Angeboten** | PDF-Angebote von Unternehmern liegen in E-Mail-Postfächern, ohne einen direkten Vergleich mit Ihrer internen Material- und Lohnbasis. | Die dedizierte Matrix in `04_Subcontractor_Comparison` vergleicht die Angebote `Sub A`, `Sub B` und `Sub C` mit Ihrer internen BOQ-Bereichssumme und kennzeichnet automatisch das **günstigste Anbieterangebot, den Namen des Zuschlagsbieters und die exakte Abweichung in `$` / `%`**. |
-| **Laufendes Baubudget vs. tatsächliche Auftragskalkulation** | Tatsächliche Lieferantenbelege und Unternehmerabrufe werden in einem separaten Notizbuch oder Kontoauszug verfolgt, völlig losgelöst von den ursprünglichen Bereichsbudgets. | `05_Budget_Cost_Control` stellt Ihre **geschätzte Basis, das genehmigte Vertragsbudget und die tatsächlichen Ausgaben vor Ort** je Gewerk nebeneinander und setzt in dem Moment, in dem Sie eine reale Ausgabe einfügen, automatisch den Status `⚠️ OVER BUDGET` oder `✅ OK`. |
-| **Reporting für Kreditgeber, Investoren & Kunden auf Führungsebene** | Wenn Sie einem Kreditbearbeiter, Immobilienpartner oder Hausbesitzer eine unordentliche Tabelle mit 500 Zeilen übergeben, entstehen Verwirrung, verzögerte Kreditzusagen und verlorene Bauaufträge. | `06_Dashboard` verdichtet Ihre gesamte Arbeitsmappe sofort zu einer übersichtlichen Executive-Zusammenfassung mit **Basisbaukosten, Risikoreserve, Gesamtsumme, Projekt-`$/Sq Ft` und den Top 3 Kostentreibern** – mit einem einzigen Klick. |
+| **Materialaufmaß & Verschwendungs-Mathematik** | Hartkodierte Multiplikatoren in Zellen (`=1000*1.05`), unmöglich zu prüfen oder zu aktualisieren | Netto-`Base Qty` einmal eingeben; leere Verschwendungszellen erben den globalen Standard aus `00_Parameters`, optional mit positionenbezogenen Overrides |
+| **Umsatzsteuer vs. Lohn-Trennung** | Umsatzsteuer leicht komplett vergessen (`6%–10%` Verlust) oder versehentlich Lohn versteuern | Berechnet `Adjusted Qty × Material Rate × Sales Tax` automatisch und hält Lohn- und Equipment/Sub-Kosten sauber getrennt |
+| **16 CSI-Division-Rollups** | Neue Zeilen zerstören statische `=SUM()`-Bereiche und lassen still Tausende aus Angeboten fallen | Dynamische `SUMIFS`-Datenbank rollt unbegrenzte Zeilen in **16 Standard-CSI-Divisionen** auf und berechnet `$/sq ft` automatisch |
+| **Angebotsvergleich von Subunternehmern** | Anbieter-PDF-Angebote verstreut in E-Mails ohne Baseline-Check | `04_Subcontractor_Comparison` stellt `Sub A / B / C` gegen Ihr internes BOQ und markiert automatisch niedrigsten Bieter & `$` / `%`-Abweichung |
+| **Budget vs. Ist-Kostenkontrolle** | Echte Belege getrennt von den ursprünglichen Schätz-Ansätzen erfasst | `05_Budget_Cost_Control` stellt Schätzung, freigegebenes Budget & Ist-Ausgaben nebeneinander mit sofortigen `⚠️ OVER BUDGET` / `✅ OK`-Flaggen |
+| **Bank-, Investor- & Kundenpräsentationen** | Unordentliche 500-Zeilen-Tabellen verwirren Kunden und verzögern Baukredit-Freigaben | `06_Dashboard` erzeugt eine saubere 1-Bildschirm-Executive-Zusammenfassung von Basis-Kosten, Rückstellung, Gesamtsumme, `$/Sq Ft` & Top 3 Treibern |
 
 ---
 
-## Über dieses Projekt & weitere Plug-and-Play-Excel-Toolkits für den Geschäftsalltag
+## Über Theseus Workshop — schlanke, offline Excel-Entscheidungs-Toolkits
 
-Ich baue schlanke, überflüssigkeitsfreie Finanztracker und Tabellen für kaufmännische Entscheidungen – für Bauunternehmer, kleine Geschäftsinhaber und Operatoren, die zu viele bewegliche Variablen im Kopf kalkulieren müssten, bei denen teure Unternehmenssoftware für `$500/month` aber mehr Reibung als Wert erzeugt.
+**Theseus Workshop** baut günstige, null-Bloat lokale Excel-Entscheidungs-Toolkits für Bauherren, Unternehmer, Kostenschätzer und Kleinbetriebe, die **klare analytische Antworten in 1 Minute ohne `$500/month`-Enterprise-Software-Abos** wollen.
 
-Jedes Tabellenmodell ist um eine einzige praktische Frage herum konstruiert:
-
-> **Welche exakten Zahlen müssen auf einem Bildschirm stehen – mit all der komplexen Mathematik bereits im Hintergrund automatisiert –, damit ein völliger Einsteiger oder ein vielbeschäftigter Operator in 60 Sekunden die richtige finanzielle Entscheidung treffen kann?**
-
-Diese **Vorlage für BOQ und Auftragskalkulation im Wohnungsbau** wendet genau dieses Prinzip an: Legen Sie Ihre globalen Steuer- und Verschnittannahmen einmal fest, fügen Sie Ihre rohen Maße und Anbieterangebote in saubere Eingabezellen ein, berühren Sie niemals eine Formel und erkennen Sie Budgetrisiken, solange Sie noch Zeit haben, Ihren Geldbeutel zu schützen.
-
-### 🛠️ Entdecken Sie die gesamte Bibliothek gebrauchsfertiger Vorlagen für Geschäft & Betrieb
-Suchen Sie weitere Plug-and-Play-Excel-Vorlagen, automatisierte Finanzmodelle und kommerzielle Entscheidungstools ohne Einrichtungsaufwand für Ihr Unternehmen?
-- 👉 **Besuchen Sie den offiziellen Shop:** **[Theseus Workshop auf Gumroad (Theseusworkshop.com)](https://www.theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20footer&utm_content=residential-boq-estimating)** — *Durchstöbern Sie unsere komplette Sammlung sofort herunterladbarer Excel-Arbeitsmappen, die komplexe Geschäftsdaten in Copy-and-Paste-Entscheidungen in 1 Minute verwandeln.*
-- 📥 **Holen Sie sich dieses Toolkit direkt:** **[Laden Sie die Excel-Masterdatei für Baukalkulation im Wohnungsbau & Auftragskalkulation herunter (.xlsx)](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20footer&utm_content=residential-boq-estimating)**
+- 📥 [**Diese Wohnungsbau-Kostenschätzung & BOQ-Arbeitsmappe erhalten (Einmalkauf · 30 Tage Garantie)**](https://www.theseusworkshop.com/l/rxxzven?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20footer&utm_content=residential-boq-estimating)
+- 🎁 [**Kostenlos starten: Monatliche Bau-CVR & Accruals-Vorlage ($0+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_boq_readme_crosslink)
+- 🧰 [**Alle Bau- & Business-Excel-Toolkits bei Theseus Workshop durchstöbern**](https://www.theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20footer&utm_content=residential-boq-estimating)
 
 ---
 
-## Technische Details & Architektur der Arbeitsmappe
+## Technische Details & Arbeitsmappen-Architektur
 
+<details>
+<summary><strong>Für technische Reviewer, Excel-Praktiker und Mitwirkende (7-Blatt-Architektur, 3 Schätz-Fallen, Rechenbeispiel, Referenz dynamischer Array-Formeln & Validierungsregeln)</strong></summary>
 
-### Architektur der Arbeitsmappe
+### Arbeitsmappen-Architektur
 
-Die Arbeitsmappe enthält sieben Kernblätter, die in einem kontrollierten Ablauf `Input → Calculation → Aggregation → Comparison → Decision` angeordnet sind.
+Die Arbeitsmappe enthält sieben Kernblätter in einem kontrollierten `Input → Calculation → Aggregation → Comparison → Decision`-Ablauf.
 
-| Layer          | Sheet                         | Role                                                         | Input / Calculation             |
+| Ebene          | Blatt                         | Rolle                                                         | Eingabe / Berechnung             |
 | -------------- | ----------------------------- | ------------------------------------------------------------ | ------------------------------- |
-| Parameters     | `00_Parameters`               | Globale Annahmen und die Stamm-Divisionsliste                 | Manuelle Konfiguration          |
-| Project Setup  | `01_Project_Setup`            | Projektidentität und Bruttofläche                             | Manuelle Eingabe                |
-| Master Data    | `02_BOQ_Takeoff`              | Zentrales BOQ, Mengen, Sätze und Kostenaufbau auf Positionsebene | Manuelle Eingabe + dynamische Formeln |
-| Analysis       | `03_Division_Summary`         | Kostenaggregation auf Divisionsebene                          | Formelgeneriert                 |
-| Comparison     | `04_Subcontractor_Comparison` | Interne Kalkulation vs. Angebote Sub A/B/C                    | Manuelle Angebote + Formeln     |
-| Control        | `05_Budget_Cost_Control`      | Geschätztes vs. genehmigtes Budget vs. Ist                    | Manuelles Budget/Ist + Formeln  |
-| Decision Layer | `06_Dashboard`                | Projekt-KPIs, Kostenstruktur und Risikoindikatoren            | Formelgeneriert + Diagramme     |
+| Parameter      | `00_Parameters`               | Globale Annahmen und die Master-Divisionsliste              | Manuelle Konfiguration            |
+| Projekteinrichtung | `01_Project_Setup`            | Projektidentität und Bruttofläche                              | Manuelle Eingabe                    |
+| Stammdaten    | `02_BOQ_Takeoff`              | Zentrales BOQ, Mengen, Sätze und positionsgenaue Kostenaufstellung | Manuelle Eingabe + dynamische Formeln |
+| Analyse       | `03_Division_Summary`         | Kostenggregation auf Divisionsebene                              | Formelgeneriert               |
+| Vergleich     | `04_Subcontractor_Comparison` | Interne Schätzung vs. Sub A/B/C-Angebote                        | Manuelle Angebote + Formeln        |
+| Kontrolle        | `05_Budget_Cost_Control`      | Geschätzt vs. freigegebenes Budget vs. Ist                       | Manuelle Budget-/Ist-Eingabe + Formeln |
+| Entscheidungsebene | `06_Dashboard`                | Projekt-KPIs, Kostenstruktur und Risikoindikatoren            | Formelgeneriert + Diagramme      |
 
-Die vorgesehene Abhängigkeitskette lautet:
+Die vorgesehene Abhängigkeitskette ist:
 
 ```text
 00_Parameters
@@ -202,59 +213,57 @@ Die vorgesehene Abhängigkeitskette lautet:
               │
               ▼
         06_Dashboard
-
 ```
 
-`02_BOQ_Takeoff` ist die **Single Source of Truth** für detaillierte Kalkulationsdaten. Nachgelagerte Blätter bilden die Kostenlogik auf Positionsebene nicht eigenständig neu ab.
+`02_BOQ_Takeoff` ist die **Single Source of Truth** für detaillierte Schätzdaten. Nachgelagerte Blätter erstellen die positionsgenaue Kostenlogik nicht eigenständig neu.
 
 ### Eingabe- und Berechnungsgrenzen
 
 Das BOQ-Blatt trennt bewusst benutzereingegebene Felder von formelgenerierten Feldern, um versehentliches Überschreiben von Formeln zu verhindern.
 
-| Area | Columns | Control |
+| Bereich | Spalten | Kontrolle |
 | --- | --- | --- |
-| Manuelle Eingabe | A:H | Division, Positionsinformationen, Mengen, Einheiten und Verschnitt |
-| Formel | I | Angepasste Menge |
-| Manuelle Eingabe | J | Materialpreis |
-| Formel | K | Materialkosten |
-| Manuelle Eingabe | L | Lohnsatz |
-| Formel | M | Lohnkosten |
-| Manuelle Eingabe | N | Geräte-/Nachunternehmerpreis |
-| Formel | O:P | Geräte-/Nachunternehmerkosten und Gesamtpositionskosten |
+| Manuelle Eingabe | A:H | Division, Positionsinformationen, Mengen, Einheiten und Verschwendung |
+| Formel | I | Adjusted Qty |
+| Manuelle Eingabe | J | Material Rate |
+| Formel | K | Material Cost |
+| Manuelle Eingabe | L | Labour Rate |
+| Formel | M | Labour Cost |
+| Manuelle Eingabe | N | Equip/Sub Rate |
+| Formel | O:P | Equip/Sub Cost und Total Item Cost |
 
-### Drei Fallen, in die selbst erfahrene Kalkulatoren tappen
+### Drei Fallen, die sogar erfahrene Kostenschätzer erwischen
 
-#### Falle 1 — Die Basismenge als Bestellmenge behandeln
+#### Falle 1 — Die Basis-Menge als Einkaufsmenge behandeln
 
-1. **Entscheidung:** Eine Materialbestellung wird direkt auf Grundlage der Netto-Mengenermittlung aus der Architekturzeichnung aufgegeben.
+1. **Entscheidung:** Eine Materialbestellung wird direkt mit der netten Architektur-Aufmaßmenge aufgegeben.
 2. **Fehlerhafte Annahme:** Die netto gemessene Fläche wird als endgültige Beschaffungsmenge behandelt.
-3. **Auswirkung auf die Zahlen:** Eine Mengenermittlung von `1,000 sq ft` mit `5%` Verschnittzuschlag erfordert den Einkauf von `1,050 sq ft`, nicht `1,000 sq ft`.
-4. **Warum es scheitert:** Verschnittstücke, Bruch und Anpassungen auf der Baustelle überschreiten die netto gemessenen Maße.
-5. **Korrigiertes Vorgehen:** Den positionsspezifischen Verschnittsatz anwenden, wo er eingegeben wurde; andernfalls den zentralen Standard-Verschnittsparameter übernehmen.
-6. **Korrigiertes Ergebnis:** Die Kalkulation führt automatisch `1,050 sq ft` als angepasste Menge für die Preisbildung und Bestellung mit.
+3. **Auswirkung auf die Zahlen:** Ein `1,000 sq ft`-Aufmaß mit `5%` Verschwendungszuschlag erfordert den Kauf von `1,050 sq ft`, nicht `1,000 sq ft`.
+4. **Warum es scheitert:** Abschnitte, Bruch und Anpassungsanforderungen auf der Baustelle übersteigen die netto gemessenen Maße.
+5. **Korrigierter Ansatz:** Die positionsspezifische Verschwendungsrate anwenden, wo eingegeben; andernfalls den zentralen Standard-Verschwendungsparameter erben.
+6. **Korrigiertes Ergebnis:** Die Schätzung trägt automatisch `1,050 sq ft` als angepasste Menge für Preisgestaltung und Bestellung.
 
 ```excel
 =IF(F5:F1000="","",
    F5:F1000*(1+IF(ISNUMBER(H5:H1000),
                   H5:H1000,
                   '00_Parameters'!$C$4)))
-
 ```
 
-`F` = Basismenge
-`H` = Positionsverschnitt %
-`00_Parameters!C4` = Standard-Verschnittssatz
+- `F` = Base Qty
+- `H` = Item Waste %
+- `00_Parameters!C4` = Default Waste Rate
 
 ---
 
-#### Falle 2 — Ein Nachunternehmerangebot mit einer unvollständigen internen Kalkulation vergleichen
+#### Falle 2 — Ein Subunternehmer-Angebot mit einer unvollständigen internen Schätzung vergleichen
 
-1. **Entscheidung:** Ein Nachunternehmerangebot wird als überteuert abgelehnt, weil es die interne Kalkulation übersteigt.
-2. **Fehlerhafte Zahl:** Die interne Kalkulation ließ eine einheitliche Umsatzsteuerbehandlung oder Verschnittanpassungen weg.
-3. **Auswirkung auf die Zahlen:** Ein Anbieterangebot von `$48,500` gegenüber einer unvollständigen Basis von `$42,000` erscheint um `$6,500` zu hoch.
-4. **Warum es scheitert:** Ein Angebotsvergleich funktioniert nur, wenn die interne Basis vollständige, steuer- und verschnittbereinigte Kosten widerspiegelt.
-5. **Korrigiertes Vorgehen:** Die vollständig aufgebaute Bereichskalkulation aus `03_Division_Summary` als Basis verwenden und anschließend automatisch das niedrigste Angebot aus Sub A, Sub B und Sub C ermitteln.
-6. **Korrigiertes Ergebnis:** Der Kalkulator kann eine echte Marktprämie von einer unvollständigen internen Mengenermittlung unterscheiden, bevor er mit dem Anbieter verhandelt.
+1. **Entscheidung:** Ein Subunternehmer-Angebot wird als überteuert abgelehnt, weil es die interne Schätzung übersteigt.
+2. **Fehlerhafte Zahl:** Die interne Schätzung ließ eine konsistente Umsatzsteuer-Behandlung oder Verschwendungsanpassung vermissen.
+3. **Auswirkung auf die Zahlen:** Ein Anbieterangebot von `$48,500` gegen eine unvollständige `$42,000`-Baseline erscheint `$6,500` zu hoch.
+4. **Warum es scheitert:** Angebotsvergleich funktioniert nur, wenn die interne Baseline vollständige, steueradjustierte, verschwendungsadjustierte Kosten widerspiegelt.
+5. **Korrigierter Ansatz:** Die vollständig aufgebaute Division-Schätzung aus `03_Division_Summary` als Baseline verwenden, dann automatisch das niedrigste Angebot über Sub A, Sub B und Sub C extrahieren.
+6. **Korrigiertes Ergebnis:** Der Kostenschätzer kann eine echte Marktprämie von einem unvollständigen internen Aufmaß unterscheiden, bevor mit dem Anbieter verhandelt wird.
 
 ```excel
 =BYROW(C4:E19,LAMBDA(row,
@@ -264,21 +273,20 @@ Das BOQ-Blatt trennt bewusst benutzereingegebene Felder von formelgenerierten Fe
         HSTACK(minVal,vendor)
     )
 ))
-
 ```
 
-Das daraus resultierende Mindestangebot fließt in die Abweichungsberechnung gegenüber der internen Kalkulation ein.
+Das resultierende Mindestangebot fließt in die Abweichungsberechnung gegen die interne Schätzung ein.
 
 ---
 
-#### Falle 3 — Ist-Kosten ohne Budgetbasis betrachten
+#### Falle 3 — Ist-Kosten ohne Budget-Baseline betrachten
 
-1. **Entscheidung:** Die tatsächlichen Projektausgaben werden losgelöst von den genehmigten Gewerkebudgets betrachtet.
-2. **Fehlerhafte Kennzahl:** `$37,800` tatsächliche Ausgaben haben ohne die genehmigte Budgetreferenz keine operative Bedeutung.
-3. **Auswirkung auf die Zahlen:** Im Vergleich zu einem genehmigten Budget von `$35,000` zeigt dieser Wert von `$37,800` sofort eine Kostenüberschreitung von `$2,800`.
-4. **Warum es scheitert:** Rohe Buchhaltungssummen sagen einem Projektleiter nicht, ob ein bestimmtes Gewerk innerhalb des Leistungsumfangs bleibt.
-5. **Korrigiertes Vorgehen:** Ist-Kosten direkt mit dem genehmigten Budget je CSI-Division abgleichen.
-6. **Korrigiertes Ergebnis:** Die Arbeitsmappe kennzeichnet die Division mit `⚠️ OVER BUDGET` und setzt damit ein sofortiges Signal zur Kostenkontrolle.
+1. **Entscheidung:** Die tatsächlichen Projektausgaben werden isoliert von den freigegebenen Gewerke-Budgets geprüft.
+2. **Fehlerhafte Kennzahl:** `$37,800` Ist-Ausgaben haben ohne den freigegebenen Budget-Benchmark keine operative Bedeutung.
+3. **Auswirkung auf die Zahlen:** Verglichen mit einem freigegebenen Budget von `$35,000` zeigt `$37,800` sofort eine `$2,800` Kostenüberschreitung.
+4. **Warum es scheitert:** Rohe Buchhaltungssummen sagen einem Projektmanager nicht, ob ein bestimmtes Gewerke im Scope bleibt.
+5. **Korrigierter Ansatz:** Ist-Kosten direkt gegen das freigegebene Budget je CSI-Division stellen.
+6. **Korrigiertes Ergebnis:** Die Arbeitsmappe markiert die Division als `⚠️ OVER BUDGET` und erzeugt ein sofortiges Kostenkontroll-Signal.
 
 ```excel
 =HSTACK(
@@ -287,85 +295,76 @@ Das daraus resultierende Mindestangebot fließt in die Abweichungsberechnung geg
        "⚠️ OVER BUDGET",
        "✅ OK")
 )
-
 ```
 
-`C` = Genehmigtes Budget
-`D` = Ist-Kosten
+- `C` = Approved Budget
+- `D` = Actual Cost
 
-### Durchgerechnetes Beispielszenario
+### Durchgerechnetes Beispiel-Szenario
 
-Betrachten Sie ein Wohnbauprojekt mit **2,000 sq ft** Bruttogeschossfläche.
+Betrachten Sie einen Wohnbau mit **2,000 sq ft** Bruttogrundfläche.
 
-Das Projekt wird in `00_Parameters` mit einem **Standard-Verschnittssatz von 5%**, **10% Risikoreserve** und **8% Umsatzsteuer** initialisiert. Der Kalkulator erfasst eine Position in `02_BOQ_Takeoff`:
+Das Projekt wird in `00_Parameters` mit einer **5% Standard-Verschwendungsrate**, **10% Rückstellung** und **8% Umsatzsteuer** initialisiert. Der Kostenschätzer gibt eine Position in `02_BOQ_Takeoff` ein:
 
-| Input | Value |
+| Eingabe | Wert |
 | --- | --- |
-| Basismenge | 1,000 sq ft |
-| Positionsverschnitt | Leer |
-| Materialpreis | $4.00 |
-| Lohnsatz | $2.50 |
-| Geräte-/Nachunternehmerpreis | $0.50 |
+| Base Qty | 1,000 sq ft |
+| Item Waste | Leer |
+| Material Rate | $4.00 |
+| Labour Rate | $2.50 |
+| Equip/Sub Rate | $0.50 |
 
-Da das positionsspezifische Verschnittfeld leer ist, übernimmt das Modell den Standardwert von 5%. Die angepasste Menge ergibt sich zu:
+Da das positionsspezifische Verschwendungsfeld leer ist, erbt das Modell den 5%-Standard. Die angepasste Menge wird:
 
 ```text
 1,000 × (1 + 5%) = 1,050 sq ft
-
 ```
 
 Die Materialkosten enthalten die 8% Umsatzsteuer:
 
 ```text
 1,050 × $4.00 × 1.08 = $4,536
-
 ```
 
 Die Lohnkosten betragen:
 
 ```text
 1,050 × $2.50 = $2,625
-
 ```
 
-Die Geräte-/Nachunternehmerkosten betragen:
+Die Equipment-/Subunternehmerkosten betragen:
 
 ```text
 1,050 × $0.50 = $525
-
 ```
 
-Die daraus resultierenden Gesamtpositionskosten betragen:
+Die resultierenden Gesamt-Positionskosten sind:
 
 ```text
 $4,536 + $2,625 + $525 = $7,686
-
 ```
 
-Die Position fließt in `03_Division_Summary` ein und trägt zu Material-, Lohn-, Geräte-/Nachunternehmer- und Gesamtkosten der zutreffenden Division bei.
+Die Position fließt in `03_Division_Summary` ein und trägt zu den Material-, Lohn-, Equipment-/Subunternehmer- und Gesamtkosten der zuständigen Division bei.
 
-Nehmen Sie an, die resultierende Basiskalkulation auf Projektebene beläuft sich auf insgesamt `$300,000`. Die Risikoreserve beträgt:
+Angenommen, die projektweite Basis-Bauschätzung beträgt insgesamt `$300,000`. Die Rückstellung beträgt:
 
 ```text
 $300,000 × 10% = $30,000
-
 ```
 
-Das Dashboard weist daher eine Gesamtschätzung inklusive Risikoreserve aus von:
+Das Dashboard zeigt daher eine Gesamt-Kostenschätzung inklusive Rückstellung von:
 
 ```text
 $300,000 + $30,000 = $330,000
-
 ```
 
-Bei 2,000 sq ft ergibt sich als Kostenkennzahl auf Projektebene:
+Bei 2,000 sq ft beträgt der projektweite Kostenindikator:
 
 ```text
 $330,000 ÷ 2,000 = $165 / sq ft
-
 ```
 
-Über die Eckzahl von `$330,000` hinaus zeigt das Modell gleichzeitig auf, **welche konkreten CSI-Divisionen diese Summe treiben, wie sich Material, Lohn und Gerät/Nachunternehmer exakt aufteilen, wie Nachunternehmerangebote zu Ihrer internen Basis stehen und ob die laufenden Ausgaben vor Ort das genehmigte Budget bereits überschritten haben**.
+Über die `$330,000`-Kopfzahl hinaus zeigt das Modell gleichzeitig **welche konkreten CSI-Divisionen diese Summe treiben, die exakte Aufteilung zwischen Material, Lohn und Equipment/Subunternehmern, wie Subunternehmer-Angebote gegen Ihre interne Baseline abschneiden und ob laufende Baustellen-Ausgaben das freigegebene Budget überschritten haben**.
 
 ### Formelreferenz
 
@@ -377,63 +376,60 @@ C5 = Contingency Rate
 C6 = Sales Tax Rate
 C7 = Currency Symbol
 E4:E19 = Master Division List
-
 ```
 
-`01_Project_Setup!C6` speichert die Bruttofläche und liefert den Nenner für die Berechnungen der Kosten pro Quadratfuß.
+`01_Project_Setup!C6` speichert die Bruttofläche und liefert den Nenner für die Kosten-pro-sq-ft-Berechnungen.
 
-**Angepasste Menge — `I5**`
+#### Blatt 02 — BOQ Takeoff
+
+**Adjusted Qty — `I5`**
 
 ```excel
 =IF(F5:F1000="","",
    F5:F1000*(1+IF(ISNUMBER(H5:H1000),
                   H5:H1000,
                   '00_Parameters'!$C$4)))
-
 ```
 
-**Materialkosten — `K5**`
+**Material Cost — `K5`**
 
 ```excel
 =IF(F5:F1000="","",
    I5:I1000*J5:J1000*(1+'00_Parameters'!$C$6))
-
 ```
 
-**Lohnkosten — `M5**`
+**Labour Cost — `M5`**
 
 ```excel
 =IF(F5:F1000="","",
    I5:I1000*L5:L1000)
-
 ```
 
-**Geräte-/Nachunternehmerkosten — `O5**`
+**Equip/Sub Cost — `O5`**
 
 ```excel
 =IF(F5:F1000="","",
    I5:I1000*N5:N1000)
-
 ```
 
-**Gesamtpositionskosten — `P5**`
+**Total Item Cost — `P5`**
 
 ```excel
 =IF(F5:F1000="","",
    K5:K1000+M5:M1000+O5:O1000)
-
 ```
 
-Die Formeln nutzen eine dynamische Array-Spill-Logik, die in Zeile 5 verankert ist, sodass die Berechnungsregeln nicht durch manuelles zeilenweises Ziehen beschädigt werden können.
+Die Formeln nutzen dynamische Array-Spill-Logik, verankert in Zeile 5, damit Berechnungsregeln nicht durch manuelles Zeile-für-Zeile-Ziehen zerstört werden können.
 
-**Divisionsliste — `A4**`
+#### Blatt 03 — Division Summary
+
+**Divisionsliste — `A4`**
 
 ```excel
 ='00_Parameters'!E4:E19
-
 ```
 
-**Material, Lohn, Gerät/Nachunternehmer und Gesamtkosten — `B4**`
+**Material, Labour, Equip/Sub und Total Cost — `B4`**
 
 ```excel
 =BYROW(A4#,LAMBDA(d,
@@ -448,27 +444,26 @@ Die Formeln nutzen eine dynamische Array-Spill-Logik, die in Zeile 5 verankert i
                '02_BOQ_Takeoff'!A5:A1000,d)
     )
 ))
-
 ```
 
-**Kostenanteil und Kosten / sq ft — `F4**`
+**Kostenanteil und Kosten / sq ft — `F4`**
 
 ```excel
 =HSTACK(
     INDEX(B4#,,4)/SUM(INDEX(B4#,,4)),
     INDEX(B4#,,4)/'01_Project_Setup'!$C$6
 )
-
 ```
 
-**Interne Kalkulation — `B4**`
+#### Blatt 04 — Subcontractor Comparison
+
+**Interne Schätzung — `B4`**
 
 ```excel
 ='03_Division_Summary'!E4#
-
 ```
 
-**Niedrigstes Angebot und Anbieter — `F4**`
+**Niedrigstes Angebot und Anbieter — `F4`**
 
 ```excel
 =BYROW(C4:E19,LAMBDA(row,
@@ -478,20 +473,20 @@ Die Formeln nutzen eine dynamische Array-Spill-Logik, die in Zeile 5 verankert i
         HSTACK(minVal,vendor)
     )
 ))
-
 ```
 
-**Abweichung zur Basis und Abweichung % — `H4**`
+**Abweichung vs. Basis und Abweichung % — `H4`**
 
 ```excel
 =HSTACK(
     F4#-B4#,
     (F4#-B4#)/B4#
 )
-
 ```
 
-**Budgetabweichung und Statuskennzeichen — `E4**`
+#### Blatt 05 — Budget Cost Control
+
+**Budget-Abweichung und Statusflagge — `E4`**
 
 ```excel
 =HSTACK(
@@ -500,35 +495,32 @@ Die Formeln nutzen eine dynamische Array-Spill-Logik, die in Zeile 5 verankert i
        "⚠️ OVER BUDGET",
        "✅ OK")
 )
-
 ```
+
+#### Blatt 06 — Dashboard
 
 **Gesamtschätzung**
 
 ```excel
 =SUM('03_Division_Summary'!E4#)
-
 ```
 
-**Risikoreserve**
+**Rückstellung**
 
 ```excel
 =B4*'00_Parameters'!$C$5
-
 ```
 
 **Gesamtsumme**
 
 ```excel
 =B4+B5
-
 ```
 
 **Kosten / sq ft**
 
 ```excel
 =B6/'01_Project_Setup'!$C$6
-
 ```
 
 **Top 3 Kosten-Divisionen**
@@ -538,35 +530,34 @@ Die Formeln nutzen eine dynamische Array-Spill-Logik, die in Zeile 5 verankert i
     SORT('03_Division_Summary'!A4:E19,5,-1),
     1,2,3
 )
-
 ```
 
 ### Validierungsregeln
 
-| Field | Rule | Error Behavior |
+| Feld | Regel | Fehlerverhalten |
 | --- | --- | --- |
-| `00_Parameters!C4` | Der Standard-Verschnittssatz sollte ein Prozentsatz sein | Ein ungültiger Prozentsatz erzeugt unzuverlässige angepasste Mengen |
-| `00_Parameters!C5` | Die Risikoreserve sollte ein Prozentsatz sein | Ein ungültiger Wert beeinflusst die Gesamtsumme |
-| `00_Parameters!C6` | Der Umsatzsteuersatz sollte ein Prozentsatz sein | Die Materialkostenberechnung wird falsch |
-| `00_Parameters!E4:E19` | Die Divisionsliste ist die kontrollierte Stammliste | Inkonsistente Divisionsnamen brechen die Aggregation |
-| `01_Project_Setup!C6` | Die Bruttofläche muss numerisch und positiv sein | Andernfalls können Berechnungen pro Quadratfuß nicht gültig sein |
-| `02_BOQ_Takeoff!A:A` | Die Division sollte aus der Stammliste gewählt werden | Nicht zugeordnete Werte erscheinen möglicherweise nicht in den Divisionsübersichten |
-| `02_BOQ_Takeoff!F:F` | Die Basismenge muss numerisch sein | Formelausgaben bleiben leer, wenn keine gültige Menge vorhanden ist |
-| `02_BOQ_Takeoff!G:G` | Die Einheit sollte getrennt von der Menge gespeichert werden | Verhindert, dass Mengen wie `1500 sq ft` als Text behandelt werden |
-| `02_BOQ_Takeoff!H:H` | Positionsverschnitt % darf leer oder ein numerischer Prozentsatz sein | Leere Werte übernehmen den globalen Standardwert |
-| `02_BOQ_Takeoff!J:J` | Der Materialpreis sollte numerisch sein | Materialkosten lassen sich aus Text nicht korrekt berechnen |
-| `02_BOQ_Takeoff!L:L` | Der Lohnsatz sollte numerisch sein | Lohnkosten lassen sich aus Text nicht korrekt berechnen |
-| `02_BOQ_Takeoff!N:N` | Der Geräte-/Nachunternehmerpreis sollte numerisch sein | Geräte-/Nachunternehmerkosten lassen sich aus Text nicht korrekt berechnen |
-| `04_Subcontractor_Comparison!C:E` | Angebotswerte sollten numerisch sein | Die Logik für das niedrigste Angebot kann fehlschlagen oder ungültige Vergleiche liefern |
-| `05_Budget_Cost_Control!C:C` | Das genehmigte Budget sollte numerisch sein | Die Budgetabweichung kann nicht korrekt bewertet werden |
-| `05_Budget_Cost_Control!D:D` | Die Ist-Kosten sollten numerisch sein | Der Budgetstatus kann nicht korrekt bewertet werden |
-| Formel-Spill-Bereiche | Zielzellen müssen frei bleiben | Excel gibt `#SPILL!` zurück, wenn sie blockiert sind |
-| Arbeitsmappenberechnung | Excel sollte die automatische Berechnung verwenden | Aktualisierte Parameter werden möglicherweise nicht sofort übernommen |
-| Excel-Version | Microsoft 365 oder Excel 2021+ | Ältere Versionen geben möglicherweise `#NAME?` für nicht unterstützte Funktionen zurück |
+| `00_Parameters!C4` | Default Waste Rate sollte ein Prozentsatz sein | Ungültiger Prozentsatz erzeugt unzuverlässige angepasste Mengen |
+| `00_Parameters!C5` | Contingency Rate sollte ein Prozentsatz sein | Ungültiger Wert beeinträchtigt die Gesamtsumme |
+| `00_Parameters!C6` | Sales Tax Rate sollte ein Prozentsatz sein | Die Materialkostenberechnung wird inkorrekt |
+| `00_Parameters!E4:E19` | Die Divisionsliste ist die kontrollierte Masterliste | Inkonsistente Divisionsnamen brechen die Aggregation |
+| `01_Project_Setup!C6` | Bruttofläche muss numerisch und positiv sein | Kosten-pro-sq-ft-Berechnungen sind sonst nicht gültig |
+| `02_BOQ_Takeoff!A:A` | Division sollte aus der Masterliste gewählt werden | Nicht übereinstimmende Werte erscheinen evtl. nicht in Division-Zusammenfassungen |
+| `02_BOQ_Takeoff!F:F` | Base Qty muss numerisch sein | Formelausgaben bleiben leer, wenn keine gültige Menge vorliegt |
+| `02_BOQ_Takeoff!G:G` | Einheit sollte getrennt von der Menge gespeichert werden | Verhindert, dass Mengen wie `1500 sq ft` als Text behandelt werden |
+| `02_BOQ_Takeoff!H:H` | Item Waste % darf leer oder numerischer Prozentsatz sein | Leere Werte erben den globalen Standard |
+| `02_BOQ_Takeoff!J:J` | Material Rate sollte numerisch sein | Materialkosten können aus Text nicht korrekt berechnet werden |
+| `02_BOQ_Takeoff!L:L` | Labour Rate sollte numerisch sein | Lohnkosten können aus Text nicht korrekt berechnet werden |
+| `02_BOQ_Takeoff!N:N` | Equip/Sub Rate sollte numerisch sein | Equipment-/Subunternehmerkosten können aus Text nicht korrekt berechnet werden |
+| `04_Subcontractor_Comparison!C:E` | Angebotswerte sollten numerisch sein | Niedrigstes-Angebot-Logik kann scheitern oder ungültige Vergleiche liefern |
+| `05_Budget_Cost_Control!C:C` | Freigegebenes Budget sollte numerisch sein | Budget-Abweichung kann nicht korrekt bewertet werden |
+| `05_Budget_Cost_Control!D:D` | Ist-Kosten sollten numerisch sein | Budget-Status kann nicht korrekt bewertet werden |
+| Formel-Spill-Bereiche | Zielzellen müssen frei bleiben | Excel gibt `#SPILL!` zurück, wenn blockiert |
+| Arbeitsmappen-Berechnung | Excel sollte auf Automatische Berechnung stehen | Aktualisierte Parameter propagieren evtl. nicht sofort |
+| Excel-Version | Microsoft 365 oder Excel 2021+ | Ältere Versionen geben evtl. `#NAME?` für nicht unterstützte Funktionen zurück |
 
 ### Blattübergreifende Validierung
 
-Die zentralen Parameterreferenzen des Modells sind über die Blätter hinweg nachvollziehbar:
+Die wichtigsten Parameter-Referenzen des Modells sind blattübergreifend nachvollziehbar:
 
 ```text
 00_Parameters!C4  → 02_BOQ_Takeoff!I5
@@ -586,31 +577,49 @@ Gross Area           → Division cost / sq ft
 
 01_Project_Setup!C6 → 06_Dashboard!B7
 Gross Area           → Project cost / sq ft
-
 ```
 
-### Hinweise zu Betrieb und Wartung
+### Betriebs- und Wartungshinweise
 
-* **Empfohlene Excel-Umgebung:** Microsoft 365 oder Excel 2021+ mit Unterstützung für dynamische Arrays und aktivierter `Automatic`-Berechnung.
-* **Empfohlenes BOQ-Volumen:** Bis zu **10,000 Zeilen** für eine flüssige Berechnungsleistung (typische Wohnbauprojekte benötigen **200–1,000 Zeilen**).
-* **Datenpflege:** Rohdaten nur in den vorgesehenen manuellen Eingabespalten eingeben (`A:H`, `J`, `L`, `N`); Spill-Formelzellen (`I`, `K`, `M`, `O:P`) nicht überschreiben.
-* **Fehlerbehebung bei `#SPILL!`:** Entfernen Sie jeglichen Fremdtext, Leerzeichen oder Zahlen, die die dynamische Array-Ausgabe in den Zeilen unter Zeile 5 blockieren.
+- **Empfohlene Excel-Umgebung:** Microsoft 365 oder Excel 2021+ mit Dynamic-Array-Unterstützung (`BYROW`, `LAMBDA`, `HSTACK`, `CHOOSEROWS`, `XLOOKUP`) und aktivierter `Automatic`-Berechnung.
+- **Empfohlenes BOQ-Volumen:** Bis zu **10.000 Zeilen** für flüssige Berechnungsleistung (typische Wohnbauprojekte benötigen **200–1.000 Zeilen**).
+- **Datenpflege:** Rohdaten nur in den dafür vorgesehenen manuellen Eingabespalten erfassen (`A:H`, `J`, `L`, `N`); Spill-Formelzellen (`I`, `K`, `M`, `O:P`) nicht überschreiben.
+- **Fehlerbehebung bei `#SPILL!`:** Verwaisten Text, Leerzeichen oder Zahlen entfernen, die die dynamischen Array-Ausgabezeilen unterhalb von Zeile 5 blockieren.
+
+</details>
 
 ---
 
-## Weitere Entscheidungstools dieser Reihe
+## Weitere Entscheidungs-Tools dieser Serie
 
-Entdecken Sie verwandte browserbasierte Kalkulatoren und Excel-Finanzarbeitsmappen für Projektbetrieb und Kostenmanagement:
+Entdecken Sie weitere schlanke Browser-Rechner und offline Excel-Toolkits von **[Theseus Workshop](https://theseusworkshop.com/)**:
 
-* **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Erfüllt die Wellenkonstruktion die relevante Berechnungslogik? — Wenden Sie die DIN 743-Berechnungsstandards für Wellen auf technische Designentscheidungen an.
-* **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Was kostet dieser Bauleistungsumfang unter den aktuellen Annahmen? — Standardisieren Sie die Kalkulation von Bauausschreibungen und verwandeln Sie abgeschlossene Kalkulationen in wiederverwendbare Kostenbibliotheken.
-* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Wie schneiden Kalkulationen und verfolgte Kosten über die Projektabwicklung hinweg im Vergleich ab? — Vergleichen Sie Baukalkulationen mit den tatsächlichen Kosten über die gesamte Projektabwicklung hinweg unter Verwendung AIA-Standardformaten.
-* **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Ist die finanzielle Projektposition nach Berücksichtigung genehmigter Änderungen, tatsächlicher Kosten und Abrechnungsfortschritte korrekt? — Integrieren Sie Budgets, Nachträge, Forderungsabrechnung und Cashflow in einen einzigen Steuerungsrahmen für Bauprojekte.
-* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Welche Energieoption liefert für dieses konkrete Projekt unter seinen tatsächlichen Betriebsbedingungen die niedrigsten Gesamtbetriebskosten? — Vergleichen Sie industrielle Energiequellen auf Basis der tatsächlich nutzbaren Energie, indem Sie Brennstoffkosten, Anlageneffizienz, Infrastrukturinvestitionen und Lebenszyklus-Eigentumskosten normalisieren.
-* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Was kostet dieses Bohr- und Sprengtunnelprojekt unter dem angenommenen Bauzyklus? — Kalkulieren Sie Bohren, Sprengen, Ausbruch, Stützung, Ausrüstung und Arbeitskräfte für den Sprengvortrieb eines Tunnels zu vollständigen Projektkosten und einem BOQ.
-* **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Wie hoch sind die gesamten Material- und Bewehrungskosten für den Gründungsunterbau, und kann ich jeden kaufmännischen Angebotswert bis zu den gemessenen Maßen zurückverfolgen? — Berechnen Sie Betonvolumina, Schalungsflächen, Erdbau-Mengen und Bewehrungsgewichte für Gründungen über automatisierte Biegeformlisten sowie kaufmännische Leistungsverzeichniswerte aus gemessenen Tragwerksmaßen.
+- 🎁 **[Monatliche Bau-CVR & Accruals-Excel-Vorlage (Kostenlos · $0+ PWYW)](https://github.com/HyVoid/construction-cvr-accruals-excel-template)** — *Hier kostenlos starten:* Abgerechnete Leistung, nicht abgerechnete Baustellen-Abgrenzungen, Änderungsrisiko und EAC-Gewinnprognosen zum Monatsende abgleichen.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Budgets, freigegebene Change Orders, SOV-Fortschrittsabrechnung, Einbehalte und rollierenden Cashflow in ein einzelnes Projekt-Kontrollsystem integrieren.
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Bauausschreibungs-Schätzungen standardisieren und fertige Schätzungen in wiederverwendbare Kostenbibliotheken überführen.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Bauschätzungen über die gesamte Projektabwicklung mit AIA-Standardformaten gegen Ist-Kosten vergleichen.
+- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Fundament-Betonvolumen, Schalungsflächen, Erdmassen, Biegelisten (BBS) und BOQ-Angebotswerte aus gemessenen Tragwerksmaßen berechnen.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Bohr-und-Spreng-Tunnelausbruch, Bohren, Sprengen, Sicherung, Equipment und Lohnbedarf zu einem vollständigen BOQ schätzen.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Industrielle Energieträger auf Basis echter Nutzenergie-Lebenszyklus-TCO vergleichen.
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — DIN-743-Wellenberechnungsstandards auf technische Designentscheidungen anwenden.
+
+---
+
+## Fragen, Feedback & Produkt-Updates
+
+Dieses Repository ist Teil der **Theseus Workshop**-Sammlung schlanker, wiederverwendbarer Business-Entscheidungs-Tools. Feedback ist willkommen, einschließlich Fragen zur Nutzung der Arbeitsmappe, Workflow-Lücken, reproduzierbaren Berechnungsproblemen und Ideen zur Verbesserung des Tools.
+
+- **Fragen & Nutzungshilfe:** [Eine Diskussion eröffnen](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions)
+- **Ideen & Workflow-Vorschläge:** [Eine Idee teilen](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas)
+- **Produkt-Updates:** [Produkt-Updates verfolgen](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates)
+- **Technische Bugs:** Verwenden Sie das Formular **Report a bug** in diesem Repository. Bitte geben Sie die Arbeitsmappe-/Tool-Version, den betroffenen Workflow-Bereich, erwartetes vs. tatsächliches Ergebnis und reproduzierbare Schritte an.
+
+### Datenschutz- & Datenverarbeitungshinweis
+
+Reichen Sie keine Kundenadressen, Bauzeichnungen, laufende Ausschreibungsunterlagen, Lieferantenangebote oder Subunternehmerpreise ein. Verwenden Sie beim Melden eines Problems synthetische oder ausreichend anonymisierte Beispiele. Veröffentlichen Sie keine rohen Arbeitsmappen, Kunden-/Lieferanten-/Mitarbeiter-/Mieter-/Objekt-/Investoren-/Produktions-/Lohn-/Transaktionsdaten, vertrauliche Geschäftsdaten, Zugangsdaten oder Screenshots mit sensiblen Informationen in öffentlichen GitHub-Issues oder -Diskussionen.
+
+Verwenden Sie bei browserbasierten Tools die Benutzeroberfläche nicht als alleinige Grundlage für Annahmen zu Datenspeicherung, -übertragung oder -aufbewahrung. Prüfen Sie die aktuelle Implementierung und die geltenden Datenverarbeitungshinweise, bevor Sie mit echten Geschäftsdaten testen. Im Zweifel ausschließlich synthetische Daten verwenden.
 
 ## Lizenz
 
-Dieses Projekt wird unter der **Apache License 2.0** veröffentlicht. Den vollständigen Lizenztext finden Sie in der Datei [`LICENSE`](https://www.google.com/search?q=LICENSE).
-
+Dieses Projekt wird unter der **Apache License 2.0** veröffentlicht. Siehe die Datei [LICENSE](LICENSE) für den vollständigen Lizenztext.
