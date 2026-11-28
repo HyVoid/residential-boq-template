@@ -612,7 +612,7 @@ Deze repository maakt deel uit van de **Theseus Workshop**-collectie lichtgewich
 - **Vragen & gebruikelijke hulp:** [Open een discussie](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions)
 - **Ideeën & workflowsuggesties:** [Deel een idee](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas)
 - **Productupdates:** [Volg productupdates](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates)
-- **Technische bugs:** Gebruik het formulier **Report a bug** in deze repository. Vermeld a.u.b. de werkmap-/toolversie, het betreffende werkgebied, verwacht versus werkelijk resultaat en reproduceerbare stappen.
+- **Technische bugs:** Gebruik het formulier [**Report a bug**](https://github.com/HyVoid/residential-boq-template/issues/new?template=bug-report.yml) in deze repository. Vermeld a.u.b. de werkmap-/toolversie, het betreffende werkgebied, verwacht versus werkelijk resultaat en reproduceerbare stappen.
 
 ### Privacy- & gegevensverwerkingskennisgeving
 
